@@ -6,16 +6,17 @@ library(dplyr)
 # (qx = 1 a los 100 años) y esperanza de vida curtata.
 
 
-# Devuelve el vector de qx (edades 0 a 100) de un país y sexo.
-# El elemento [edad + 1] corresponde a la edad, porque R empieza en 1.
-obtener.qx <- function(tabla, pais.tabla, sexo.tabla) {
+# Devuelve el vector de qx (edades 0 a 100) de un país, según su código M49,
+# y sexo. El elemento [edad + 1] corresponde a la edad, porque R empieza en 1.
+obtener.qx <- function(tabla, codigo.pais, sexo.tabla) {
   qx <- tabla %>%
-    filter(pais == pais.tabla, sexo == sexo.tabla) %>%
+    filter(codigo == codigo.pais, sexo == sexo.tabla) %>%
     arrange(edad) %>%
     pull(qx)
 
   if (length(qx) != 101) {
-    stop("No hay tabla completa para ", pais.tabla, " (", sexo.tabla, ")")
+    stop("No hay tabla completa para el código ", codigo.pais,
+         " (", sexo.tabla, ")")
   }
   qx
 }
@@ -26,8 +27,9 @@ obtener.qx <- function(tabla, pais.tabla, sexo.tabla) {
 #   edades entre x + d y x + d + s - 1   -> país de destino
 #   edades desde x + d + s               -> Costa Rica (solo si retorno = TRUE)
 # Si retorno = FALSE, la persona se queda en el destino y s no se usa.
+# destino es el código M49 del país (Costa Rica = 188).
 trayectoria.qx <- function(tabla, sexo, x, d, s, destino, retorno = TRUE) {
-  qx.cr      <- obtener.qx(tabla, "Costa Rica", sexo)
+  qx.cr      <- obtener.qx(tabla, 188, sexo)
   qx.destino <- obtener.qx(tabla, destino, sexo)
 
   edades <- 0:100
