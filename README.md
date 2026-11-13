@@ -20,6 +20,24 @@ El proyecto busca desarrollar un modelo en R que permita comparar probabilidades
 - Quarto
 - Git y GitHub
 
+## Fuentes de datos
+
+### Migración: International Migrant Stock (UN DESA)
+
+Incluidas en `data/`:
+
+- `undesa_pd_2020_ims_stock_by_sex_destination_and_origin.xlsx`: fuente principal para seleccionar los cinco destinos.
+- `undesa_pd_2024_ims_stock_by_sex_destination_and_origin.xlsx`: el corredor Costa Rica–Estados Unidos no aparece desagregado.
+
+### Mortalidad: World Population Prospects 2024 (UN DESA)
+
+Tablas de vida por edad simple (0–100+), estimaciones 1950–2023, variante media. Por su tamaño (~770 MB cada una) **no se incluyen en el repositorio**: deben descargarse y colocarse en `data/` (se pueden descomprimir).
+
+- Mujeres: [WPP2024_Life_Table_Complete_Medium_Female_1950-2023.csv.gz](https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Life_Table_Complete_Medium_Female_1950-2023.csv.gz)
+- Hombres: [WPP2024_Life_Table_Complete_Medium_Male_1950-2023.csv.gz](https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Life_Table_Complete_Medium_Male_1950-2023.csv.gz)
+
+Página de descarga: [WPP 2024 Download Center (CSV)](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format), sección *Life Tables*.
+
 ## Metodología
 
 Se utilizarán tablas de mortalidad por edad y sexo para calcular probabilidades de supervivencia y esperanza de vida restante mediante funciones actuariales desarrolladas en R.
