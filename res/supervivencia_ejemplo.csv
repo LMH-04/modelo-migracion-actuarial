@@ -1,0 +1,3201 @@
+destino,sexo,alternativa,t,edad,tpx
+840,Mujer,Permanece en Costa Rica,0,22,1
+840,Mujer,Permanece en Costa Rica,1,23,0.9994855
+840,Mujer,Permanece en Costa Rica,2,24,0.99895675218079
+840,Mujer,Permanece en Costa Rica,3,25,0.9984356763597175
+840,Mujer,Permanece en Costa Rica,4,26,0.9979356897260668
+840,Mujer,Permanece en Costa Rica,5,27,0.9974576286339035
+840,Mujer,Permanece en Costa Rica,6,28,0.99699176604845
+840,Mujer,Permanece en Costa Rica,7,29,0.9965240772109967
+840,Mujer,Permanece en Costa Rica,8,30,0.9960379528356516
+840,Mujer,Permanece en Costa Rica,9,31,0.9955187381715974
+840,Mujer,Permanece en Costa Rica,10,32,0.9949552347450428
+840,Mujer,Permanece en Costa Rica,11,33,0.9943408896857971
+840,Mujer,Permanece en Costa Rica,12,34,0.9936749795919746
+840,Mujer,Permanece en Costa Rica,13,35,0.9929598515826618
+840,Mujer,Permanece en Costa Rica,14,36,0.9921994032099257
+840,Mujer,Permanece en Costa Rica,15,37,0.9913959102112122
+840,Mujer,Permanece en Costa Rica,16,38,0.9905483856754909
+840,Mujer,Permanece en Costa Rica,17,39,0.9896531280445173
+840,Mujer,Permanece en Costa Rica,18,40,0.9887039616259411
+840,Mujer,Permanece en Costa Rica,19,41,0.9876938126753876
+840,Mujer,Permanece en Costa Rica,20,42,0.9866154979553993
+840,Mujer,Permanece en Costa Rica,21,43,0.9854621937690643
+840,Mujer,Permanece en Costa Rica,22,44,0.9842276954243079
+840,Mujer,Permanece en Costa Rica,23,45,0.9829059563675686
+840,Mujer,Permanece en Costa Rica,24,46,0.9814907192262927
+840,Mujer,Permanece en Costa Rica,25,47,0.9799748951446124
+840,Mujer,Permanece en Costa Rica,26,48,0.978350018370471
+840,Mujer,Permanece en Costa Rica,27,49,0.9766056594217172
+840,Mujer,Permanece en Costa Rica,28,50,0.9747288381975537
+840,Mujer,Permanece en Costa Rica,29,51,0.9727034686392398
+840,Mujer,Permanece en Costa Rica,30,52,0.970509847230834
+840,Mujer,Permanece en Costa Rica,31,53,0.9681255859840435
+840,Mujer,Permanece en Costa Rica,32,54,0.9655266431672135
+840,Mujer,Permanece en Costa Rica,33,55,0.962690370031844
+840,Mujer,Permanece en Costa Rica,34,56,0.9595987861775238
+840,Mujer,Permanece en Costa Rica,35,57,0.9562395762826792
+840,Mujer,Permanece en Costa Rica,36,58,0.9526066404468618
+840,Mujer,Permanece en Costa Rica,37,59,0.9486927608039218
+840,Mujer,Permanece en Costa Rica,38,60,0.944481086726971
+840,Mujer,Permanece en Costa Rica,39,61,0.9399353181461758
+840,Mujer,Permanece en Costa Rica,40,62,0.9349890589240824
+840,Mujer,Permanece en Costa Rica,41,63,0.9295534626304649
+840,Mujer,Permanece en Costa Rica,42,64,0.92352845031601
+840,Mujer,Permanece en Costa Rica,43,65,0.9168353902838883
+840,Mujer,Permanece en Costa Rica,44,66,0.9094644463219315
+840,Mujer,Permanece en Costa Rica,45,67,0.9014939362929438
+840,Mujer,Permanece en Costa Rica,46,68,0.8930970521577976
+840,Mujer,Permanece en Costa Rica,47,69,0.884471065348561
+840,Mujer,Permanece en Costa Rica,48,70,0.8757438478313962
+840,Mujer,Permanece en Costa Rica,49,71,0.8669107275697526
+840,Mujer,Permanece en Costa Rica,50,72,0.8577752743372663
+840,Mujer,Permanece en Costa Rica,51,73,0.8479769931560391
+840,Mujer,Permanece en Costa Rica,52,74,0.8370050103618233
+840,Mujer,Permanece en Costa Rica,53,75,0.824229987029773
+840,Mujer,Permanece en Costa Rica,54,76,0.80902380921056
+840,Mujer,Permanece en Costa Rica,55,77,0.790877130101872
+840,Mujer,Permanece en Costa Rica,56,78,0.7696262141634069
+840,Mujer,Permanece en Costa Rica,57,79,0.7455343354122749
+840,Mujer,Permanece en Costa Rica,58,80,0.7191512545205551
+840,Mujer,Permanece en Costa Rica,59,81,0.6911008245615937
+840,Mujer,Permanece en Costa Rica,60,82,0.6617303456982844
+840,Mujer,Permanece en Costa Rica,61,83,0.6310712273712814
+840,Mujer,Permanece en Costa Rica,62,84,0.598912601220626
+840,Mujer,Permanece en Costa Rica,63,85,0.5649257484915984
+840,Mujer,Permanece en Costa Rica,64,86,0.5289149859975703
+840,Mujer,Permanece en Costa Rica,65,87,0.4909072979108311
+840,Mujer,Permanece en Costa Rica,66,88,0.4512455374993999
+840,Mujer,Permanece en Costa Rica,67,89,0.4105379961808174
+840,Mujer,Permanece en Costa Rica,68,90,0.3694766631905057
+840,Mujer,Permanece en Costa Rica,69,91,0.3287356132233779
+840,Mujer,Permanece en Costa Rica,70,92,0.2888483000756882
+840,Mujer,Permanece en Costa Rica,71,93,0.25024224586727606
+840,Mujer,Permanece en Costa Rica,72,94,0.21334070099469862
+840,Mujer,Permanece en Costa Rica,73,95,0.17860477499922175
+840,Mujer,Permanece en Costa Rica,74,96,0.14672276532159267
+840,Mujer,Permanece en Costa Rica,75,97,0.1181091351883661
+840,Mujer,Permanece en Costa Rica,76,98,0.09302350604845695
+840,Mujer,Permanece en Costa Rica,77,99,0.0715759832380482
+840,Mujer,Permanece en Costa Rica,78,100,0.05372296253166044
+840,Mujer,Permanece en Costa Rica,79,101,0
+840,Mujer,Retorno tras 5 años,0,22,1
+840,Mujer,Retorno tras 5 años,1,23,0.9994855
+840,Mujer,Retorno tras 5 años,2,24,0.99895675218079
+840,Mujer,Retorno tras 5 años,3,25,0.9984356763597175
+840,Mujer,Retorno tras 5 años,4,26,0.9979356897260668
+840,Mujer,Retorno tras 5 años,5,27,0.9974576286339035
+840,Mujer,Retorno tras 5 años,6,28,0.99679515717527
+840,Mujer,Retorno tras 5 años,7,29,0.9961076077476567
+840,Mujer,Retorno tras 5 años,8,30,0.995378257757264
+840,Mujer,Retorno tras 5 años,9,31,0.9945657205316741
+840,Mujer,Retorno tras 5 años,10,32,0.9937112195015649
+840,Mujer,Retorno tras 5 años,11,33,0.9930976425719715
+840,Mujer,Retorno tras 5 años,12,34,0.9924325650807411
+840,Mujer,Retorno tras 5 años,13,35,0.9917183312123037
+840,Mujer,Retorno tras 5 años,14,36,0.9909588336455281
+840,Mujer,Retorno tras 5 años,15,37,0.9901563452724536
+840,Mujer,Retorno tras 5 años,16,38,0.9893098804160071
+840,Mujer,Retorno tras 5 años,17,39,0.9884157421460871
+840,Mujer,Retorno tras 5 años,18,40,0.9874677624919521
+840,Mujer,Retorno tras 5 años,19,41,0.9864588765536918
+840,Mujer,Retorno tras 5 años,20,42,0.9853819100752144
+840,Mujer,Retorno tras 5 años,21,43,0.984230047891432
+840,Mujer,Retorno tras 5 años,22,44,0.9829970930681379
+840,Mujer,Retorno tras 5 años,23,45,0.9816770066119147
+840,Mujer,Retorno tras 5 años,24,46,0.9802635389739446
+840,Mujer,Retorno tras 5 años,25,47,0.9787496101617178
+840,Mujer,Retorno tras 5 años,26,48,0.9771267650081008
+840,Mujer,Retorno tras 5 años,27,49,0.9753845870711619
+840,Mujer,Retorno tras 5 años,28,50,0.9735101124794203
+840,Mujer,Retorno tras 5 años,29,51,0.9714872752869016
+840,Mujer,Retorno tras 5 años,30,52,0.9692963966134202
+840,Mujer,Retorno tras 5 años,31,53,0.966915116462896
+840,Mujer,Retorno tras 5 años,32,54,0.9643194231636001
+840,Mujer,Retorno tras 5 años,33,55,0.96148669628528
+840,Mujer,Retorno tras 5 años,34,56,0.9583989779088296
+840,Mujer,Retorno tras 5 años,35,57,0.9550439681108027
+840,Mujer,Retorno tras 5 años,36,58,0.9514155746175958
+840,Mujer,Retorno tras 5 años,37,59,0.9475065885877221
+840,Mujer,Retorno tras 5 años,38,60,0.9433001804630162
+840,Mujer,Retorno tras 5 años,39,61,0.9387600955604514
+840,Mujer,Retorno tras 5 años,40,62,0.9338200207591798
+840,Mujer,Retorno tras 5 años,41,63,0.9283912207156955
+840,Mujer,Retorno tras 5 años,42,64,0.9223737416116802
+840,Mujer,Retorno tras 5 años,43,65,0.9156890500653101
+840,Mujer,Retorno tras 5 años,44,66,0.9083273221628575
+840,Mujer,Retorno tras 5 años,45,67,0.9003667778445151
+840,Mujer,Retorno tras 5 años,46,68,0.8919803925252924
+840,Mujer,Retorno tras 5 años,47,69,0.883365190984283
+840,Mujer,Retorno tras 5 años,48,70,0.8746488853064105
+840,Mujer,Retorno tras 5 años,49,71,0.8658268092966782
+840,Mujer,Retorno tras 5 años,50,72,0.8567027783299184
+840,Mujer,Retorno tras 5 años,51,73,0.8469167481633335
+840,Mujer,Retorno tras 5 años,52,74,0.8359584838896807
+840,Mujer,Retorno tras 5 años,53,75,0.8231994334609389
+840,Mujer,Retorno tras 5 años,54,76,0.8080122682729898
+840,Mujer,Retorno tras 5 años,55,77,0.7898882783714554
+840,Mujer,Retorno tras 5 años,56,78,0.7686639329383177
+840,Mujer,Retorno tras 5 años,57,79,0.744602176813173
+840,Mujer,Retorno tras 5 años,58,80,0.718252083289782
+840,Mujer,Retorno tras 5 años,59,81,0.6902367254237516
+840,Mujer,Retorno tras 5 años,60,82,0.6609029691406532
+840,Mujer,Retorno tras 5 años,61,83,0.6302821846092004
+840,Mujer,Retorno tras 5 años,62,84,0.5981637671229589
+840,Mujer,Retorno tras 5 años,63,85,0.564219408931772
+840,Mujer,Retorno tras 5 años,64,86,0.5282536715161671
+840,Mujer,Retorno tras 5 años,65,87,0.4902935053095066
+840,Mujer,Retorno tras 5 años,66,88,0.45068133490254186
+840,Mujer,Retorno tras 5 años,67,89,0.41002469115216783
+840,Mujer,Retorno tras 5 años,68,90,0.3690146980838684
+840,Mujer,Retorno tras 5 años,69,91,0.3283245875815773
+840,Mujer,Retorno tras 5 años,70,92,0.28848714645208934
+840,Mujer,Retorno tras 5 años,71,93,0.24992936227457774
+840,Mujer,Retorno tras 5 años,72,94,0.21307395624596662
+840,Mujer,Retorno tras 5 años,73,95,0.1783814613717359
+840,Mujer,Retorno tras 5 años,74,96,0.14653931449862972
+840,Mujer,Retorno tras 5 años,75,97,0.11796146064036901
+840,Mujer,Retorno tras 5 años,76,98,0.09290719663524431
+840,Mujer,Retorno tras 5 años,77,99,0.07148649015222322
+840,Mujer,Retorno tras 5 años,78,100,0.053655791485184866
+840,Mujer,Retorno tras 5 años,79,101,0
+840,Mujer,Retorno tras 20 años,0,22,1
+840,Mujer,Retorno tras 20 años,1,23,0.9994855
+840,Mujer,Retorno tras 20 años,2,24,0.99895675218079
+840,Mujer,Retorno tras 20 años,3,25,0.9984356763597175
+840,Mujer,Retorno tras 20 años,4,26,0.9979356897260668
+840,Mujer,Retorno tras 20 años,5,27,0.9974576286339035
+840,Mujer,Retorno tras 20 años,6,28,0.99679515717527
+840,Mujer,Retorno tras 20 años,7,29,0.9961076077476567
+840,Mujer,Retorno tras 20 años,8,30,0.995378257757264
+840,Mujer,Retorno tras 20 años,9,31,0.9945657205316741
+840,Mujer,Retorno tras 20 años,10,32,0.9937112195015649
+840,Mujer,Retorno tras 20 años,11,33,0.9928230602877989
+840,Mujer,Retorno tras 20 años,12,34,0.99182511426052
+840,Mujer,Retorno tras 20 años,13,35,0.990855377091554
+840,Mujer,Retorno tras 20 años,14,36,0.9898133836684508
+840,Mujer,Retorno tras 20 años,15,37,0.9887310623259448
+840,Mujer,Retorno tras 20 años,16,38,0.9875857162633463
+840,Mujer,Retorno tras 20 años,17,39,0.9863289541842583
+840,Mujer,Retorno tras 20 años,18,40,0.984969240541178
+840,Mujer,Retorno tras 20 años,19,41,0.9835945682206167
+840,Mujer,Retorno tras 20 años,20,42,0.9821626315763098
+840,Mujer,Retorno tras 20 años,21,43,0.9806897215642401
+840,Mujer,Retorno tras 20 años,22,44,0.97907044592358206
+840,Mujer,Retorno tras 20 años,23,45,0.9773616644836072
+840,Mujer,Retorno tras 20 años,24,46,0.9754680262586701
+840,Mujer,Retorno tras 20 años,25,47,0.9734231721445846
+840,Mujer,Retorno tras 20 años,26,48,0.9718091586513151
+840,Mujer,Retorno tras 20 años,27,49,0.9700764617938062
+840,Mujer,Retorno tras 20 años,28,50,0.9682121882510601
+840,Mujer,Retorno tras 20 años,29,51,0.966200359509337
+840,Mujer,Retorno tras 20 años,30,52,0.9640214037825787
+840,Mujer,Retorno tras 20 años,31,53,0.9616530827596921
+840,Mujer,Retorno tras 20 años,32,54,0.9590715154424928
+840,Mujer,Retorno tras 20 años,33,55,0.9562542045030198
+840,Mujer,Retorno tras 20 años,34,56,0.9531832897506789
+840,Mujer,Retorno tras 20 años,35,57,0.949846538199246
+840,Mujer,Retorno tras 20 años,36,58,0.9462378907297848
+840,Mujer,Retorno tras 20 años,37,59,0.9423501777319324
+840,Mujer,Retorno tras 20 años,38,60,0.9381666612354004
+840,Mujer,Retorno tras 20 años,39,61,0.9336512838582076
+840,Mujer,Retorno tras 20 años,40,62,0.9287380933611092
+840,Mujer,Retorno tras 20 años,41,63,0.9233388373058307
+840,Mujer,Retorno tras 20 años,42,64,0.9173541058311725
+840,Mujer,Retorno tras 20 años,43,65,0.9107057929406054
+840,Mujer,Retorno tras 20 años,44,66,0.9033841281829698
+840,Mujer,Retorno tras 20 años,45,67,0.8954669058189393
+840,Mujer,Retorno tras 20 años,46,68,0.8871261599167103
+840,Mujer,Retorno tras 20 años,47,69,0.8785578430298933
+840,Mujer,Retorno tras 20 años,48,70,0.8698889722234624
+840,Mujer,Retorno tras 20 años,49,71,0.8611149066962481
+840,Mujer,Retorno tras 20 años,50,72,0.8520405294763775
+840,Mujer,Retorno tras 20 años,51,73,0.8423077557122218
+840,Mujer,Retorno tras 20 años,52,74,0.8314091272379839
+840,Mujer,Retorno tras 20 años,53,75,0.8187195126389585
+840,Mujer,Retorno tras 20 años,54,76,0.803614997286258
+840,Mujer,Retorno tras 20 años,55,77,0.7855896396680281
+840,Mujer,Retorno tras 20 años,56,78,0.7644807989147698
+840,Mujer,Retorno tras 20 años,57,79,0.7405499888980611
+840,Mujer,Retorno tras 20 años,58,80,0.7143432948084383
+840,Mujer,Retorno tras 20 años,59,81,0.6864803988853317
+840,Mujer,Retorno tras 20 años,60,82,0.657306279380659
+840,Mujer,Retorno tras 20 años,61,83,0.626852135744027
+840,Mujer,Retorno tras 20 años,62,84,0.5949085093975955
+840,Mujer,Retorno tras 20 años,63,85,0.5611488792697046
+840,Mujer,Retorno tras 20 años,64,86,0.5253788704338055
+840,Mujer,Retorno tras 20 años,65,87,0.4876252866567272
+840,Mujer,Retorno tras 20 años,66,88,0.44822868902568624
+840,Mujer,Retorno tras 20 años,67,89,0.40779330216335863
+840,Mujer,Retorno tras 20 años,68,90,0.36700648893992804
+840,Mujer,Retorno tras 20 años,69,91,0.326537817454573
+840,Mujer,Retorno tras 20 años,70,92,0.28691717504330094
+840,Mujer,Retorno tras 20 años,71,93,0.24856922558282757
+840,Mujer,Retorno tras 20 años,72,94,0.21191438978563162
+840,Mujer,Retorno tras 20 años,73,95,0.1774106943976932
+840,Mujer,Retorno tras 20 años,74,96,0.14574183517639414
+840,Mujer,Retorno tras 20 años,75,97,0.11731950441174012
+840,Mujer,Retorno tras 20 años,76,98,0.09240158782673459
+840,Mujer,Retorno tras 20 años,77,99,0.0710974546370057
+840,Mujer,Retorno tras 20 años,78,100,0.053363792137610326
+840,Mujer,Retorno tras 20 años,79,101,0
+840,Mujer,Emigración permanente,0,22,1
+840,Mujer,Emigración permanente,1,23,0.9994855
+840,Mujer,Emigración permanente,2,24,0.99895675218079
+840,Mujer,Emigración permanente,3,25,0.9984356763597175
+840,Mujer,Emigración permanente,4,26,0.9979356897260668
+840,Mujer,Emigración permanente,5,27,0.9974576286339035
+840,Mujer,Emigración permanente,6,28,0.99679515717527
+840,Mujer,Emigración permanente,7,29,0.9961076077476567
+840,Mujer,Emigración permanente,8,30,0.995378257757264
+840,Mujer,Emigración permanente,9,31,0.9945657205316741
+840,Mujer,Emigración permanente,10,32,0.9937112195015649
+840,Mujer,Emigración permanente,11,33,0.9928230602877989
+840,Mujer,Emigración permanente,12,34,0.99182511426052
+840,Mujer,Emigración permanente,13,35,0.990855377091554
+840,Mujer,Emigración permanente,14,36,0.9898133836684508
+840,Mujer,Emigración permanente,15,37,0.9887310623259448
+840,Mujer,Emigración permanente,16,38,0.9875857162633463
+840,Mujer,Emigración permanente,17,39,0.9863289541842583
+840,Mujer,Emigración permanente,18,40,0.984969240541178
+840,Mujer,Emigración permanente,19,41,0.9835945682206167
+840,Mujer,Emigración permanente,20,42,0.9821626315763098
+840,Mujer,Emigración permanente,21,43,0.9806897215642401
+840,Mujer,Emigración permanente,22,44,0.97907044592358206
+840,Mujer,Emigración permanente,23,45,0.9773616644836072
+840,Mujer,Emigración permanente,24,46,0.9754680262586701
+840,Mujer,Emigración permanente,25,47,0.9734231721445846
+840,Mujer,Emigración permanente,26,48,0.9712032027266552
+840,Mujer,Emigración permanente,27,49,0.9687796719666031
+840,Mujer,Emigración permanente,28,50,0.9661318905573545
+840,Mujer,Emigración permanente,29,51,0.9632740917477236
+840,Mujer,Emigración permanente,30,52,0.9601931751581596
+840,Mujer,Emigración permanente,31,53,0.9568502242111194
+840,Mujer,Emigración permanente,32,54,0.9531984627414312
+840,Mujer,Emigración permanente,33,55,0.9492031695127889
+840,Mujer,Emigración permanente,34,56,0.9448514431698088
+840,Mujer,Emigración permanente,35,57,0.9401772347349046
+840,Mujer,Emigración permanente,36,58,0.9350708877269782
+840,Mujer,Emigración permanente,37,59,0.929667496445868
+840,Mujer,Emigración permanente,38,60,0.923895878914383
+840,Mujer,Emigración permanente,39,61,0.917629915435039
+840,Mujer,Emigración permanente,40,62,0.9109956622013242
+840,Mujer,Emigración permanente,41,63,0.9039707286812609
+840,Mujer,Emigración permanente,42,64,0.8965926823084956
+840,Mujer,Emigración permanente,43,65,0.8887603176136534
+840,Mujer,Emigración permanente,44,66,0.8806320268148701
+840,Mujer,Emigración permanente,45,67,0.8719474451181082
+840,Mujer,Emigración permanente,46,68,0.8627285976456335
+840,Mujer,Emigración permanente,47,69,0.8529531406877144
+840,Mujer,Emigración permanente,48,70,0.8423839509650421
+840,Mujer,Emigración permanente,49,71,0.8308044400890026
+840,Mujer,Emigración permanente,50,72,0.8181493111518796
+840,Mujer,Emigración permanente,51,73,0.8045157855717482
+840,Mujer,Emigración permanente,52,74,0.7897086001318795
+840,Mujer,Emigración permanente,53,75,0.7739905165528645
+840,Mujer,Emigración permanente,54,76,0.756505637349246
+840,Mujer,Emigración permanente,55,77,0.7377163976150793
+840,Mujer,Emigración permanente,56,78,0.7175685808168301
+840,Mujer,Emigración permanente,57,79,0.6961088385008916
+840,Mujer,Emigración permanente,58,80,0.6727528624908304
+840,Mujer,Emigración permanente,59,81,0.6476809711851385
+840,Mujer,Emigración permanente,60,82,0.6207098256672254
+840,Mujer,Emigración permanente,61,83,0.591713291676002
+840,Mujer,Emigración permanente,62,84,0.5604961966243232
+840,Mujer,Emigración permanente,63,85,0.5277082116447259
+840,Mujer,Emigración permanente,64,86,0.4930801571090625
+840,Mujer,Emigración permanente,65,87,0.4568884483181767
+840,Mujer,Emigración permanente,66,88,0.4172810217465826
+840,Mujer,Emigración permanente,67,89,0.3768553663066713
+840,Mujer,Emigración permanente,68,90,0.33487287202962424
+840,Mujer,Emigración permanente,69,91,0.293393230918319
+840,Mujer,Emigración permanente,70,92,0.25267968599316265
+840,Mujer,Emigración permanente,71,93,0.21358981514002232
+840,Mujer,Emigración permanente,72,94,0.17700368677637257
+840,Mujer,Emigración permanente,73,95,0.14295670724826423
+840,Mujer,Emigración permanente,74,96,0.11265476728318474
+840,Mujer,Emigración permanente,75,97,0.08635777171555697
+840,Mujer,Emigración permanente,76,98,0.06426380768559567
+840,Mujer,Emigración permanente,77,99,0.0463325441218858
+840,Mujer,Emigración permanente,78,100,0.032304052861359026
+840,Mujer,Emigración permanente,79,101,0
+558,Mujer,Permanece en Costa Rica,0,22,1
+558,Mujer,Permanece en Costa Rica,1,23,0.9994855
+558,Mujer,Permanece en Costa Rica,2,24,0.99895675218079
+558,Mujer,Permanece en Costa Rica,3,25,0.9984356763597175
+558,Mujer,Permanece en Costa Rica,4,26,0.9979356897260668
+558,Mujer,Permanece en Costa Rica,5,27,0.9974576286339035
+558,Mujer,Permanece en Costa Rica,6,28,0.99699176604845
+558,Mujer,Permanece en Costa Rica,7,29,0.9965240772109967
+558,Mujer,Permanece en Costa Rica,8,30,0.9960379528356516
+558,Mujer,Permanece en Costa Rica,9,31,0.9955187381715974
+558,Mujer,Permanece en Costa Rica,10,32,0.9949552347450428
+558,Mujer,Permanece en Costa Rica,11,33,0.9943408896857971
+558,Mujer,Permanece en Costa Rica,12,34,0.9936749795919746
+558,Mujer,Permanece en Costa Rica,13,35,0.9929598515826618
+558,Mujer,Permanece en Costa Rica,14,36,0.9921994032099257
+558,Mujer,Permanece en Costa Rica,15,37,0.9913959102112122
+558,Mujer,Permanece en Costa Rica,16,38,0.9905483856754909
+558,Mujer,Permanece en Costa Rica,17,39,0.9896531280445173
+558,Mujer,Permanece en Costa Rica,18,40,0.9887039616259411
+558,Mujer,Permanece en Costa Rica,19,41,0.9876938126753876
+558,Mujer,Permanece en Costa Rica,20,42,0.9866154979553993
+558,Mujer,Permanece en Costa Rica,21,43,0.9854621937690643
+558,Mujer,Permanece en Costa Rica,22,44,0.9842276954243079
+558,Mujer,Permanece en Costa Rica,23,45,0.9829059563675686
+558,Mujer,Permanece en Costa Rica,24,46,0.9814907192262927
+558,Mujer,Permanece en Costa Rica,25,47,0.9799748951446124
+558,Mujer,Permanece en Costa Rica,26,48,0.978350018370471
+558,Mujer,Permanece en Costa Rica,27,49,0.9766056594217172
+558,Mujer,Permanece en Costa Rica,28,50,0.9747288381975537
+558,Mujer,Permanece en Costa Rica,29,51,0.9727034686392398
+558,Mujer,Permanece en Costa Rica,30,52,0.970509847230834
+558,Mujer,Permanece en Costa Rica,31,53,0.9681255859840435
+558,Mujer,Permanece en Costa Rica,32,54,0.9655266431672135
+558,Mujer,Permanece en Costa Rica,33,55,0.962690370031844
+558,Mujer,Permanece en Costa Rica,34,56,0.9595987861775238
+558,Mujer,Permanece en Costa Rica,35,57,0.9562395762826792
+558,Mujer,Permanece en Costa Rica,36,58,0.9526066404468618
+558,Mujer,Permanece en Costa Rica,37,59,0.9486927608039218
+558,Mujer,Permanece en Costa Rica,38,60,0.944481086726971
+558,Mujer,Permanece en Costa Rica,39,61,0.9399353181461758
+558,Mujer,Permanece en Costa Rica,40,62,0.9349890589240824
+558,Mujer,Permanece en Costa Rica,41,63,0.9295534626304649
+558,Mujer,Permanece en Costa Rica,42,64,0.92352845031601
+558,Mujer,Permanece en Costa Rica,43,65,0.9168353902838883
+558,Mujer,Permanece en Costa Rica,44,66,0.9094644463219315
+558,Mujer,Permanece en Costa Rica,45,67,0.9014939362929438
+558,Mujer,Permanece en Costa Rica,46,68,0.8930970521577976
+558,Mujer,Permanece en Costa Rica,47,69,0.884471065348561
+558,Mujer,Permanece en Costa Rica,48,70,0.8757438478313962
+558,Mujer,Permanece en Costa Rica,49,71,0.8669107275697526
+558,Mujer,Permanece en Costa Rica,50,72,0.8577752743372663
+558,Mujer,Permanece en Costa Rica,51,73,0.8479769931560391
+558,Mujer,Permanece en Costa Rica,52,74,0.8370050103618233
+558,Mujer,Permanece en Costa Rica,53,75,0.824229987029773
+558,Mujer,Permanece en Costa Rica,54,76,0.80902380921056
+558,Mujer,Permanece en Costa Rica,55,77,0.790877130101872
+558,Mujer,Permanece en Costa Rica,56,78,0.7696262141634069
+558,Mujer,Permanece en Costa Rica,57,79,0.7455343354122749
+558,Mujer,Permanece en Costa Rica,58,80,0.7191512545205551
+558,Mujer,Permanece en Costa Rica,59,81,0.6911008245615937
+558,Mujer,Permanece en Costa Rica,60,82,0.6617303456982844
+558,Mujer,Permanece en Costa Rica,61,83,0.6310712273712814
+558,Mujer,Permanece en Costa Rica,62,84,0.598912601220626
+558,Mujer,Permanece en Costa Rica,63,85,0.5649257484915984
+558,Mujer,Permanece en Costa Rica,64,86,0.5289149859975703
+558,Mujer,Permanece en Costa Rica,65,87,0.4909072979108311
+558,Mujer,Permanece en Costa Rica,66,88,0.4512455374993999
+558,Mujer,Permanece en Costa Rica,67,89,0.4105379961808174
+558,Mujer,Permanece en Costa Rica,68,90,0.3694766631905057
+558,Mujer,Permanece en Costa Rica,69,91,0.3287356132233779
+558,Mujer,Permanece en Costa Rica,70,92,0.2888483000756882
+558,Mujer,Permanece en Costa Rica,71,93,0.25024224586727606
+558,Mujer,Permanece en Costa Rica,72,94,0.21334070099469862
+558,Mujer,Permanece en Costa Rica,73,95,0.17860477499922175
+558,Mujer,Permanece en Costa Rica,74,96,0.14672276532159267
+558,Mujer,Permanece en Costa Rica,75,97,0.1181091351883661
+558,Mujer,Permanece en Costa Rica,76,98,0.09302350604845695
+558,Mujer,Permanece en Costa Rica,77,99,0.0715759832380482
+558,Mujer,Permanece en Costa Rica,78,100,0.05372296253166044
+558,Mujer,Permanece en Costa Rica,79,101,0
+558,Mujer,Retorno tras 5 años,0,22,1
+558,Mujer,Retorno tras 5 años,1,23,0.9994855
+558,Mujer,Retorno tras 5 años,2,24,0.99895675218079
+558,Mujer,Retorno tras 5 años,3,25,0.9984356763597175
+558,Mujer,Retorno tras 5 años,4,26,0.9979356897260668
+558,Mujer,Retorno tras 5 años,5,27,0.9974576286339035
+558,Mujer,Retorno tras 5 años,6,28,0.996761642598948
+558,Mujer,Retorno tras 5 años,7,29,0.9960388608290501
+558,Mujer,Retorno tras 5 años,8,30,0.9953187944553911
+558,Mujer,Retorno tras 5 años,9,31,0.9946134518385122
+558,Mujer,Retorno tras 5 años,10,32,0.9939139203055652
+558,Mujer,Retorno tras 5 años,11,33,0.9933002182163334
+558,Mujer,Retorno tras 5 años,12,34,0.9926350050601939
+558,Mujer,Retorno tras 5 años,13,35,0.9919206254997521
+558,Mujer,Retorno tras 5 años,14,36,0.9911609730079194
+558,Mujer,Retorno tras 5 años,15,37,0.9903583209403679
+558,Mujer,Retorno tras 5 años,16,38,0.9895116834189623
+558,Mujer,Retorno tras 5 años,17,39,0.9886173627594883
+558,Mujer,Retorno tras 5 años,18,40,0.9876691897330393
+558,Mujer,Retorno tras 5 años,19,41,0.9866600979985809
+558,Mujer,Retorno tras 5 años,20,42,0.9855829118365911
+558,Mujer,Retorno tras 5 años,21,43,0.9844308146917997
+558,Mujer,Retorno tras 5 años,22,44,0.9831976083659271
+558,Mujer,Retorno tras 5 años,23,45,0.9818772526337003
+558,Mujer,Retorno tras 5 años,24,46,0.9804634966714957
+558,Mujer,Retorno tras 5 años,25,47,0.9789492590426012
+558,Mujer,Retorno tras 5 años,26,48,0.9773260828551679
+558,Mujer,Retorno tras 5 años,27,49,0.9755835495424804
+558,Mujer,Retorno tras 5 años,28,50,0.9737086925886407
+558,Mujer,Retorno tras 5 años,29,51,0.9716854427704845
+558,Mujer,Retorno tras 5 años,30,52,0.9694941171936574
+558,Mujer,Retorno tras 5 años,31,53,0.9671123513010066
+558,Mujer,Retorno tras 5 años,32,54,0.9645161285228154
+558,Mujer,Retorno tras 5 años,33,55,0.9616828238146345
+558,Mujer,Retorno tras 5 años,34,56,0.9585944755942363
+558,Mujer,Retorno tras 5 años,35,57,0.9552387814291919
+558,Mujer,Retorno tras 5 años,36,58,0.951609647803174
+558,Mujer,Retorno tras 5 años,37,59,0.94769986440421
+558,Mujer,Retorno tras 5 años,38,60,0.9434925982411806
+558,Mujer,Retorno tras 5 años,39,61,0.9389515872356978
+558,Mujer,Retorno tras 5 años,40,62,0.9340105047401239
+558,Mujer,Retorno tras 5 años,41,63,0.928580597310397
+558,Mujer,Retorno tras 5 años,42,64,0.922561890739258
+558,Mujer,Retorno tras 5 años,43,65,0.9158758356253601
+558,Mujer,Retorno tras 5 años,44,66,0.9085126060510582
+558,Mujer,Retorno tras 5 años,45,67,0.900550437912131
+558,Mujer,Retorno tras 5 años,46,68,0.8921623419077378
+558,Mujer,Retorno tras 5 años,47,69,0.8835453830067985
+558,Mujer,Retorno tras 5 años,48,70,0.8748272993454093
+558,Mujer,Retorno tras 5 años,49,71,0.8660034237767457
+558,Mujer,Retorno tras 5 años,50,72,0.8568775316571917
+558,Mujer,Retorno tras 5 años,51,73,0.8470895053008248
+558,Mujer,Retorno tras 5 años,52,74,0.8361290057208424
+558,Mujer,Retorno tras 5 años,53,75,0.8233673526549065
+558,Mujer,Retorno tras 5 años,54,76,0.8081770895341437
+558,Mujer,Retorno tras 5 años,55,77,0.7900494026356824
+558,Mujer,Retorno tras 5 años,56,78,0.7688207277838974
+558,Mujer,Retorno tras 5 años,57,79,0.7447540634548234
+558,Mujer,Retorno tras 5 años,58,80,0.7183985949441747
+558,Mujer,Retorno tras 5 años,59,81,0.6903775224042507
+558,Mujer,Retorno tras 5 años,60,82,0.6610377825155873
+558,Mujer,Retorno tras 5 años,61,83,0.6304107518458987
+558,Mujer,Retorno tras 5 años,62,84,0.5982857827288414
+558,Mujer,Retorno tras 5 años,63,85,0.5643345004448581
+558,Mujer,Retorno tras 5 años,64,86,0.528361426608221
+558,Mujer,Retorno tras 5 años,65,87,0.49039351714973944
+558,Mujer,Retorno tras 5 años,66,88,0.4507732665091695
+558,Mujer,Retorno tras 5 años,67,89,0.41010832946974485
+558,Mujer,Retorno tras 5 años,68,90,0.3690899710349246
+558,Mujer,Retorno tras 5 años,69,91,0.328391560416914
+558,Mujer,Retorno tras 5 años,70,92,0.28854599310228507
+558,Mujer,Retorno tras 5 años,71,93,0.24998034376867997
+558,Mujer,Retorno tras 5 años,72,94,0.21311741984121943
+558,Mujer,Retorno tras 5 años,73,95,0.17841784826656934
+558,Mujer,Retorno tras 5 años,74,96,0.14656920611732496
+558,Mujer,Retorno tras 5 años,75,97,0.1179855228452064
+558,Mujer,Retorno tras 5 años,76,98,0.09292614818080987
+558,Mujer,Retorno tras 5 años,77,99,0.0715010722247053
+558,Mujer,Retorno tras 5 años,78,100,0.05366673638734545
+558,Mujer,Retorno tras 5 años,79,101,0
+558,Mujer,Retorno tras 20 años,0,22,1
+558,Mujer,Retorno tras 20 años,1,23,0.9994855
+558,Mujer,Retorno tras 20 años,2,24,0.99895675218079
+558,Mujer,Retorno tras 20 años,3,25,0.9984356763597175
+558,Mujer,Retorno tras 20 años,4,26,0.9979356897260668
+558,Mujer,Retorno tras 20 años,5,27,0.9974576286339035
+558,Mujer,Retorno tras 20 años,6,28,0.996761642598948
+558,Mujer,Retorno tras 20 años,7,29,0.9960388608290501
+558,Mujer,Retorno tras 20 años,8,30,0.9953187944553911
+558,Mujer,Retorno tras 20 años,9,31,0.9946134518385122
+558,Mujer,Retorno tras 20 años,10,32,0.9939139203055652
+558,Mujer,Retorno tras 20 años,11,33,0.9931956286544995
+558,Mujer,Retorno tras 20 años,12,34,0.9924196349778754
+558,Mujer,Retorno tras 20 años,13,35,0.991542961244925
+558,Mujer,Retorno tras 20 años,14,36,0.990522970916122
+558,Mujer,Retorno tras 20 años,15,37,0.989331738275609
+558,Mujer,Retorno tras 20 años,16,38,0.9879726339068355
+558,Mujer,Retorno tras 20 años,17,39,0.9864782660196935
+558,Mujer,Retorno tras 20 años,18,40,0.9849042610279978
+558,Mujer,Retorno tras 20 años,19,41,0.9832999603262518
+558,Mujer,Retorno tras 20 años,20,42,0.9816909767681704
+558,Mujer,Retorno tras 20 años,21,43,0.9800765565061459
+558,Mujer,Retorno tras 20 años,22,44,0.9784305473317905
+558,Mujer,Retorno tras 20 años,23,45,0.9767118851538749
+558,Mujer,Retorno tras 20 años,24,46,0.9748676577723273
+558,Mujer,Retorno tras 20 años,25,47,0.9728376031104587
+558,Mujer,Retorno tras 20 años,26,48,0.9712245605374934
+558,Mujer,Retorno tras 20 años,27,49,0.9694929059950375
+558,Mujer,Retorno tras 20 años,28,50,0.9676297539181543
+558,Mujer,Retorno tras 20 años,29,51,0.9656191354050829
+558,Mujer,Retorno tras 20 años,30,52,0.9634414904433001
+558,Mujer,Retorno tras 20 años,31,53,0.9610745940993131
+558,Mujer,Retorno tras 20 años,32,54,0.9584945797407075
+558,Mujer,Retorno tras 20 años,33,55,0.9556789635729359
+558,Mujer,Retorno tras 20 años,34,56,0.9526098961493179
+558,Mujer,Retorno tras 20 años,35,57,0.9492751518424617
+558,Mujer,Retorno tras 20 años,36,58,0.9456686751783333
+558,Mujer,Retorno tras 20 años,37,59,0.9417833008594956
+558,Mujer,Retorno tras 20 años,38,60,0.9376023009844949
+558,Mujer,Retorno tras 20 años,39,61,0.9330896398619026
+558,Mujer,Retorno tras 20 años,40,62,0.9281794049264717
+558,Mujer,Retorno tras 20 años,41,63,0.9227833968287554
+558,Mujer,Retorno tras 20 años,42,64,0.9168022655082023
+558,Mujer,Retorno tras 20 años,43,65,0.9101579519534526
+558,Mujer,Retorno tras 20 años,44,66,0.9028406915908253
+558,Mujer,Retorno tras 20 años,45,67,0.8949282318833509
+558,Mujer,Retorno tras 20 años,46,68,0.8865925034110143
+558,Mujer,Retorno tras 20 años,47,69,0.878029340850894
+558,Mujer,Retorno tras 20 años,48,70,0.8693656848600237
+558,Mujer,Retorno tras 20 años,49,71,0.8605968974289379
+558,Mujer,Retorno tras 20 años,50,72,0.8515279789596456
+558,Mujer,Retorno tras 20 años,51,73,0.8418010600087874
+558,Mujer,Retorno tras 20 años,52,74,0.8309089876753232
+558,Mujer,Retorno tras 20 años,53,75,0.8182270065964119
+558,Mujer,Retorno tras 20 años,54,76,0.8031315774630651
+558,Mujer,Retorno tras 20 años,55,77,0.7851170631158322
+558,Mujer,Retorno tras 20 años,56,78,0.764020920522886
+558,Mujer,Retorno tras 20 años,57,79,0.7401045062404359
+558,Mujer,Retorno tras 20 años,58,80,0.7139135769579235
+558,Mujer,Retorno tras 20 años,59,81,0.6860674421409017
+558,Mujer,Retorno tras 20 años,60,82,0.6569108725173789
+558,Mujer,Retorno tras 20 años,61,83,0.6264750487687306
+558,Mujer,Retorno tras 20 años,62,84,0.5945506383182851
+558,Mujer,Retorno tras 20 años,63,85,0.5608113165152544
+558,Mujer,Retorno tras 20 años,64,86,0.52506282536059
+558,Mujer,Retorno tras 20 años,65,87,0.4873319524971409
+558,Mujer,Retorno tras 20 años,66,88,0.44795905414538845
+558,Mujer,Retorno tras 20 años,67,89,0.4075479914527612
+558,Mujer,Retorno tras 20 años,68,90,0.3667857138018419
+558,Mujer,Retorno tras 20 años,69,91,0.3263413865087684
+558,Mujer,Retorno tras 20 años,70,92,0.2867445781523783
+558,Mujer,Retorno tras 20 años,71,93,0.2484196971500728
+558,Mujer,Retorno tras 20 años,72,94,0.21178691130751942
+558,Mujer,Retorno tras 20 años,73,95,0.1773039718417331
+558,Mujer,Retorno tras 20 años,74,96,0.14565416322847044
+558,Mujer,Retorno tras 20 años,75,97,0.11724893010156508
+558,Mujer,Retorno tras 20 años,76,98,0.0923460030511881
+558,Mujer,Retorno tras 20 años,77,99,0.07105468550120542
+558,Mujer,Retorno tras 20 años,78,100,0.05333169080171294
+558,Mujer,Retorno tras 20 años,79,101,0
+558,Mujer,Emigración permanente,0,22,1
+558,Mujer,Emigración permanente,1,23,0.9994855
+558,Mujer,Emigración permanente,2,24,0.99895675218079
+558,Mujer,Emigración permanente,3,25,0.9984356763597175
+558,Mujer,Emigración permanente,4,26,0.9979356897260668
+558,Mujer,Emigración permanente,5,27,0.9974576286339035
+558,Mujer,Emigración permanente,6,28,0.996761642598948
+558,Mujer,Emigración permanente,7,29,0.9960388608290501
+558,Mujer,Emigración permanente,8,30,0.9953187944553911
+558,Mujer,Emigración permanente,9,31,0.9946134518385122
+558,Mujer,Emigración permanente,10,32,0.9939139203055652
+558,Mujer,Emigración permanente,11,33,0.9931956286544995
+558,Mujer,Emigración permanente,12,34,0.9924196349778754
+558,Mujer,Emigración permanente,13,35,0.991542961244925
+558,Mujer,Emigración permanente,14,36,0.990522970916122
+558,Mujer,Emigración permanente,15,37,0.989331738275609
+558,Mujer,Emigración permanente,16,38,0.9879726339068355
+558,Mujer,Emigración permanente,17,39,0.9864782660196935
+558,Mujer,Emigración permanente,18,40,0.9849042610279978
+558,Mujer,Emigración permanente,19,41,0.9832999603262518
+558,Mujer,Emigración permanente,20,42,0.9816909767681704
+558,Mujer,Emigración permanente,21,43,0.9800765565061459
+558,Mujer,Emigración permanente,22,44,0.9784305473317905
+558,Mujer,Emigración permanente,23,45,0.9767118851538749
+558,Mujer,Emigración permanente,24,46,0.9748676577723273
+558,Mujer,Emigración permanente,25,47,0.9728376031104587
+558,Mujer,Emigración permanente,26,48,0.9705561432771483
+558,Mujer,Emigración permanente,27,49,0.9679556157357286
+558,Mujer,Emigración permanente,28,50,0.9649721926164642
+558,Mujer,Emigración permanente,29,51,0.9615560945573826
+558,Mujer,Emigración permanente,30,52,0.9576849466451821
+558,Mujer,Emigración permanente,31,53,0.953364485084285
+558,Mujer,Emigración permanente,32,54,0.9486256534401456
+558,Mujer,Emigración permanente,33,55,0.943499014793772
+558,Mujer,Emigración permanente,34,56,0.9379878200435882
+558,Mujer,Emigración permanente,35,57,0.9320517359848077
+558,Mujer,Emigración permanente,36,58,0.9255918718130441
+558,Mujer,Emigración permanente,37,59,0.9184726726750755
+558,Mujer,Emigración permanente,38,60,0.9105469239949405
+558,Mujer,Emigración permanente,39,61,0.9017010972103683
+558,Mujer,Emigración permanente,40,62,0.8919157196822988
+558,Mujer,Emigración permanente,41,63,0.8812724448035439
+558,Mujer,Emigración permanente,42,64,0.8699433790802387
+558,Mujer,Emigración permanente,43,65,0.8581185171102822
+558,Mujer,Emigración permanente,44,66,0.84591938413445
+558,Mujer,Emigración permanente,45,67,0.8333643924414219
+558,Mujer,Emigración permanente,46,68,0.8203432154814714
+558,Mujer,Emigración permanente,47,69,0.8066587995907638
+558,Mujer,Emigración permanente,48,70,0.7920766026060977
+558,Mujer,Emigración permanente,49,71,0.7763713710957522
+558,Mujer,Emigración permanente,50,72,0.759396725328405
+558,Mujer,Emigración permanente,51,73,0.7410986207815163
+558,Mujer,Emigración permanente,52,74,0.7215199365123447
+558,Mujer,Emigración permanente,53,75,0.7007711876980591
+558,Mujer,Emigración permanente,54,76,0.6777672942742413
+558,Mujer,Emigración permanente,55,77,0.6523774265527422
+558,Mujer,Emigración permanente,56,78,0.6244976727550063
+558,Mujer,Emigración permanente,57,79,0.5940631283919878
+558,Mujer,Emigración permanente,58,80,0.5610620839808019
+558,Mujer,Emigración permanente,59,81,0.5255518980129521
+558,Mujer,Emigración permanente,60,82,0.4876759245526516
+558,Mujer,Emigración permanente,61,83,0.44768027599453686
+558,Mujer,Emigración permanente,62,84,0.40592862408187635
+558,Mujer,Emigración permanente,63,85,0.36291258698937695
+558,Mujer,Emigración permanente,64,86,0.31925460923665233
+558,Mujer,Emigración permanente,65,87,0.2756998554076352
+558,Mujer,Emigración permanente,66,88,0.23433137883156915
+558,Mujer,Emigración permanente,67,89,0.1958048302989263
+558,Mujer,Emigración permanente,68,90,0.1606541155558171
+558,Mujer,Emigración permanente,69,91,0.1292607880144419
+558,Mujer,Emigración permanente,70,92,0.10183753662667139
+558,Mujer,Emigración permanente,71,93,0.07843403745729376
+558,Mujer,Emigración permanente,72,94,0.05895549250869667
+558,Mujer,Emigración permanente,73,95,0.04317662444880164
+558,Mujer,Emigración permanente,74,96,0.030730293645521857
+558,Mujer,Emigración permanente,75,97,0.021254729599190964
+558,Mujer,Emigración permanente,76,98,0.014270199727668468
+558,Mujer,Emigración permanente,77,99,0.009291181629349714
+558,Mujer,Emigración permanente,78,100,0.0058618563836020845
+558,Mujer,Emigración permanente,79,101,0
+591,Mujer,Permanece en Costa Rica,0,22,1
+591,Mujer,Permanece en Costa Rica,1,23,0.9994855
+591,Mujer,Permanece en Costa Rica,2,24,0.99895675218079
+591,Mujer,Permanece en Costa Rica,3,25,0.9984356763597175
+591,Mujer,Permanece en Costa Rica,4,26,0.9979356897260668
+591,Mujer,Permanece en Costa Rica,5,27,0.9974576286339035
+591,Mujer,Permanece en Costa Rica,6,28,0.99699176604845
+591,Mujer,Permanece en Costa Rica,7,29,0.9965240772109967
+591,Mujer,Permanece en Costa Rica,8,30,0.9960379528356516
+591,Mujer,Permanece en Costa Rica,9,31,0.9955187381715974
+591,Mujer,Permanece en Costa Rica,10,32,0.9949552347450428
+591,Mujer,Permanece en Costa Rica,11,33,0.9943408896857971
+591,Mujer,Permanece en Costa Rica,12,34,0.9936749795919746
+591,Mujer,Permanece en Costa Rica,13,35,0.9929598515826618
+591,Mujer,Permanece en Costa Rica,14,36,0.9921994032099257
+591,Mujer,Permanece en Costa Rica,15,37,0.9913959102112122
+591,Mujer,Permanece en Costa Rica,16,38,0.9905483856754909
+591,Mujer,Permanece en Costa Rica,17,39,0.9896531280445173
+591,Mujer,Permanece en Costa Rica,18,40,0.9887039616259411
+591,Mujer,Permanece en Costa Rica,19,41,0.9876938126753876
+591,Mujer,Permanece en Costa Rica,20,42,0.9866154979553993
+591,Mujer,Permanece en Costa Rica,21,43,0.9854621937690643
+591,Mujer,Permanece en Costa Rica,22,44,0.9842276954243079
+591,Mujer,Permanece en Costa Rica,23,45,0.9829059563675686
+591,Mujer,Permanece en Costa Rica,24,46,0.9814907192262927
+591,Mujer,Permanece en Costa Rica,25,47,0.9799748951446124
+591,Mujer,Permanece en Costa Rica,26,48,0.978350018370471
+591,Mujer,Permanece en Costa Rica,27,49,0.9766056594217172
+591,Mujer,Permanece en Costa Rica,28,50,0.9747288381975537
+591,Mujer,Permanece en Costa Rica,29,51,0.9727034686392398
+591,Mujer,Permanece en Costa Rica,30,52,0.970509847230834
+591,Mujer,Permanece en Costa Rica,31,53,0.9681255859840435
+591,Mujer,Permanece en Costa Rica,32,54,0.9655266431672135
+591,Mujer,Permanece en Costa Rica,33,55,0.962690370031844
+591,Mujer,Permanece en Costa Rica,34,56,0.9595987861775238
+591,Mujer,Permanece en Costa Rica,35,57,0.9562395762826792
+591,Mujer,Permanece en Costa Rica,36,58,0.9526066404468618
+591,Mujer,Permanece en Costa Rica,37,59,0.9486927608039218
+591,Mujer,Permanece en Costa Rica,38,60,0.944481086726971
+591,Mujer,Permanece en Costa Rica,39,61,0.9399353181461758
+591,Mujer,Permanece en Costa Rica,40,62,0.9349890589240824
+591,Mujer,Permanece en Costa Rica,41,63,0.9295534626304649
+591,Mujer,Permanece en Costa Rica,42,64,0.92352845031601
+591,Mujer,Permanece en Costa Rica,43,65,0.9168353902838883
+591,Mujer,Permanece en Costa Rica,44,66,0.9094644463219315
+591,Mujer,Permanece en Costa Rica,45,67,0.9014939362929438
+591,Mujer,Permanece en Costa Rica,46,68,0.8930970521577976
+591,Mujer,Permanece en Costa Rica,47,69,0.884471065348561
+591,Mujer,Permanece en Costa Rica,48,70,0.8757438478313962
+591,Mujer,Permanece en Costa Rica,49,71,0.8669107275697526
+591,Mujer,Permanece en Costa Rica,50,72,0.8577752743372663
+591,Mujer,Permanece en Costa Rica,51,73,0.8479769931560391
+591,Mujer,Permanece en Costa Rica,52,74,0.8370050103618233
+591,Mujer,Permanece en Costa Rica,53,75,0.824229987029773
+591,Mujer,Permanece en Costa Rica,54,76,0.80902380921056
+591,Mujer,Permanece en Costa Rica,55,77,0.790877130101872
+591,Mujer,Permanece en Costa Rica,56,78,0.7696262141634069
+591,Mujer,Permanece en Costa Rica,57,79,0.7455343354122749
+591,Mujer,Permanece en Costa Rica,58,80,0.7191512545205551
+591,Mujer,Permanece en Costa Rica,59,81,0.6911008245615937
+591,Mujer,Permanece en Costa Rica,60,82,0.6617303456982844
+591,Mujer,Permanece en Costa Rica,61,83,0.6310712273712814
+591,Mujer,Permanece en Costa Rica,62,84,0.598912601220626
+591,Mujer,Permanece en Costa Rica,63,85,0.5649257484915984
+591,Mujer,Permanece en Costa Rica,64,86,0.5289149859975703
+591,Mujer,Permanece en Costa Rica,65,87,0.4909072979108311
+591,Mujer,Permanece en Costa Rica,66,88,0.4512455374993999
+591,Mujer,Permanece en Costa Rica,67,89,0.4105379961808174
+591,Mujer,Permanece en Costa Rica,68,90,0.3694766631905057
+591,Mujer,Permanece en Costa Rica,69,91,0.3287356132233779
+591,Mujer,Permanece en Costa Rica,70,92,0.2888483000756882
+591,Mujer,Permanece en Costa Rica,71,93,0.25024224586727606
+591,Mujer,Permanece en Costa Rica,72,94,0.21334070099469862
+591,Mujer,Permanece en Costa Rica,73,95,0.17860477499922175
+591,Mujer,Permanece en Costa Rica,74,96,0.14672276532159267
+591,Mujer,Permanece en Costa Rica,75,97,0.1181091351883661
+591,Mujer,Permanece en Costa Rica,76,98,0.09302350604845695
+591,Mujer,Permanece en Costa Rica,77,99,0.0715759832380482
+591,Mujer,Permanece en Costa Rica,78,100,0.05372296253166044
+591,Mujer,Permanece en Costa Rica,79,101,0
+591,Mujer,Retorno tras 5 años,0,22,1
+591,Mujer,Retorno tras 5 años,1,23,0.9994855
+591,Mujer,Retorno tras 5 años,2,24,0.99895675218079
+591,Mujer,Retorno tras 5 años,3,25,0.9984356763597175
+591,Mujer,Retorno tras 5 años,4,26,0.9979356897260668
+591,Mujer,Retorno tras 5 años,5,27,0.9974576286339035
+591,Mujer,Retorno tras 5 años,6,28,0.9969103036839195
+591,Mujer,Retorno tras 5 años,7,29,0.9963367811862103
+591,Mujer,Retorno tras 5 años,8,30,0.9957173785360824
+591,Mujer,Retorno tras 5 años,9,31,0.9950362879348161
+591,Mujer,Retorno tras 5 años,10,32,0.9942852544454088
+591,Mujer,Retorno tras 5 años,11,33,0.993671323072199
+591,Mujer,Retorno tras 5 años,12,34,0.9930058613871375
+591,Mujer,Retorno tras 5 años,13,35,0.9922912149288144
+591,Mujer,Retorno tras 5 años,14,36,0.9915312786247733
+591,Mujer,Retorno tras 5 años,15,37,0.9907283266800302
+591,Mujer,Retorno tras 5 años,16,38,0.989881372848118
+591,Mujer,Retorno tras 5 años,17,39,0.9889867180633378
+591,Mujer,Retorno tras 5 años,18,40,0.9880381907919104
+591,Mujer,Retorno tras 5 años,19,41,0.9870287220527603
+591,Mujer,Retorno tras 5 años,20,42,0.9859511334454591
+591,Mujer,Retorno tras 5 años,21,43,0.9847986058680182
+591,Mujer,Retorno tras 5 años,22,44,0.9835649388064612
+591,Mujer,Retorno tras 5 años,23,45,0.9822440897788393
+591,Mujer,Retorno tras 5 años,24,46,0.9808298056261712
+591,Mujer,Retorno tras 5 años,25,47,0.9793150022660639
+591,Mujer,Retorno tras 5 años,26,48,0.9776912196471066
+591,Mujer,Retorno tras 5 años,27,49,0.9759480353101246
+591,Mujer,Retorno tras 5 años,28,50,0.9740724778948263
+591,Mujer,Retorno tras 5 años,29,51,0.9720484721744582
+591,Mujer,Retorno tras 5 años,30,52,0.9698563279009799
+591,Mujer,Retorno tras 5 años,31,53,0.9674736721616622
+591,Mujer,Retorno tras 5 años,32,54,0.9648764794140074
+591,Mujer,Retorno tras 5 años,33,55,0.9620421161606696
+591,Mujer,Retorno tras 5 años,34,56,0.9589526141088313
+591,Mujer,Retorno tras 5 años,35,57,0.9555956662297773
+591,Mujer,Retorno tras 5 años,36,58,0.9519651767305939
+591,Mujer,Retorno tras 5 años,37,59,0.9480539326054785
+591,Mujer,Retorno tras 5 años,38,60,0.9438450945743732
+591,Mujer,Retorno tras 5 años,39,61,0.9393023870110886
+591,Mujer,Retorno tras 5 años,40,62,0.9343594584878246
+591,Mujer,Retorno tras 5 años,41,63,0.9289275224015273
+591,Mujer,Retorno tras 5 años,42,64,0.9229065671937792
+591,Mujer,Retorno tras 5 años,43,65,0.9162180141165527
+591,Mujer,Retorno tras 5 años,44,66,0.908852033581162
+591,Mujer,Retorno tras 5 años,45,67,0.9008868907129379
+591,Mujer,Retorno tras 5 años,46,68,0.8924956608492125
+591,Mujer,Retorno tras 5 años,47,69,0.8838754825839438
+591,Mujer,Retorno tras 5 años,48,70,0.8751541417772107
+591,Mujer,Retorno tras 5 años,49,71,0.8663269695385063
+591,Mujer,Retorno tras 5 años,50,72,0.8571976679131277
+591,Mujer,Retorno tras 5 años,51,73,0.8474059846723228
+591,Mujer,Retorno tras 5 años,52,74,0.8364413901625878
+591,Mujer,Retorno tras 5 años,53,75,0.8236749692416421
+591,Mujer,Retorno tras 5 años,54,76,0.8084790309178514
+591,Mujer,Retorno tras 5 años,55,77,0.7903445713714935
+591,Mujer,Retorno tras 5 años,56,78,0.7691079653180671
+591,Mujer,Retorno tras 5 años,57,79,0.7450323094919279
+591,Mujer,Retorno tras 5 años,58,80,0.7186669943687811
+591,Mujer,Retorno tras 5 años,59,81,0.6906354529334564
+591,Mujer,Retorno tras 5 años,60,82,0.6612847514847905
+591,Mujer,Retorno tras 5 años,61,83,0.6306462783130327
+591,Mujer,Retorno tras 5 años,62,84,0.5985093070521972
+591,Mujer,Retorno tras 5 años,63,85,0.5645453402993219
+591,Mujer,Retorno tras 5 años,64,86,0.5285588266364003
+591,Mujer,Retorno tras 5 años,65,87,0.49057673206519176
+591,Mujer,Retorno tras 5 años,66,88,0.4509416789840971
+591,Mujer,Retorno tras 5 años,67,89,0.41026154920100644
+591,Mujer,Retorno tras 5 años,68,90,0.36922786598147794
+591,Mujer,Retorno tras 5 años,69,91,0.32851425011380625
+591,Mujer,Retorno tras 5 años,70,92,0.28865379617855247
+591,Mujer,Retorno tras 5 años,71,93,0.2500737384118525
+591,Mujer,Retorno tras 5 años,72,94,0.21319704220304136
+591,Mujer,Retorno tras 5 años,73,95,0.1784845065926731
+591,Mujer,Retorno tras 5 años,74,96,0.14662396553760193
+591,Mujer,Retorno tras 5 años,75,97,0.11802960317424158
+591,Mujer,Retorno tras 5 años,76,98,0.09296086612830887
+591,Mujer,Retorno tras 5 años,77,99,0.07152778559354944
+591,Mujer,Retorno tras 5 años,78,100,0.05368678670658082
+591,Mujer,Retorno tras 5 años,79,101,0
+591,Mujer,Retorno tras 20 años,0,22,1
+591,Mujer,Retorno tras 20 años,1,23,0.9994855
+591,Mujer,Retorno tras 20 años,2,24,0.99895675218079
+591,Mujer,Retorno tras 20 años,3,25,0.9984356763597175
+591,Mujer,Retorno tras 20 años,4,26,0.9979356897260668
+591,Mujer,Retorno tras 20 años,5,27,0.9974576286339035
+591,Mujer,Retorno tras 20 años,6,28,0.9969103036839195
+591,Mujer,Retorno tras 20 años,7,29,0.9963367811862103
+591,Mujer,Retorno tras 20 años,8,30,0.9957173785360824
+591,Mujer,Retorno tras 20 años,9,31,0.9950362879348161
+591,Mujer,Retorno tras 20 años,10,32,0.9942852544454088
+591,Mujer,Retorno tras 20 años,11,33,0.9934657148244321
+591,Mujer,Retorno tras 20 años,12,34,0.9925902827711861
+591,Mujer,Retorno tras 20 años,13,35,0.991675630677418
+591,Mujer,Retorno tras 20 años,14,36,0.9907377236994359
+591,Mujer,Retorno tras 20 años,15,37,0.9897854365067933
+591,Mujer,Retorno tras 20 años,16,38,0.9888182280760933
+591,Mujer,Retorno tras 20 años,17,39,0.987828628681617
+591,Mujer,Retorno tras 20 años,18,40,0.9868033712261947
+591,Mujer,Retorno tras 20 años,19,41,0.985726561519479
+591,Mujer,Retorno tras 20 años,20,42,0.9845808515370249
+591,Mujer,Retorno tras 20 años,21,43,0.9833487667510284
+591,Mujer,Retorno tras 20 años,22,44,0.98201363479646
+591,Mujer,Retorno tras 20 años,23,45,0.9805607652640513
+591,Mujer,Retorno tras 20 años,24,46,0.9789788167758432
+591,Mujer,Retorno tras 20 años,25,47,0.9772605425260027
+591,Mujer,Retorno tras 20 años,26,48,0.9756401663656512
+591,Mujer,Retorno tras 20 años,27,49,0.9739006389746279
+591,Mujer,Retorno tras 20 años,28,50,0.9720290162046592
+591,Mujer,Retorno tras 20 años,29,51,0.970009256552468
+591,Mujer,Retorno tras 20 años,30,52,0.9678217110772759
+591,Mujer,Retorno tras 20 años,31,53,0.9654440538014553
+591,Mujer,Retorno tras 20 años,32,54,0.9628523095845847
+591,Mujer,Retorno tras 20 años,33,55,0.9600238924110875
+591,Mujer,Retorno tras 20 años,34,56,0.9569408716829986
+591,Mujer,Retorno tras 20 años,35,57,0.9535909661899502
+591,Mujer,Retorno tras 20 años,36,58,0.949968092927111
+591,Mujer,Retorno tras 20 años,37,59,0.9460650540205107
+591,Mujer,Retorno tras 20 años,38,60,0.9418650455164393
+591,Mujer,Retorno tras 20 años,39,61,0.9373318678896696
+591,Mujer,Retorno tras 20 años,40,62,0.932399308907999
+591,Mujer,Retorno tras 20 años,41,63,0.92697876822969
+591,Mujer,Retorno tras 20 años,42,64,0.9209704441059572
+591,Mujer,Retorno tras 20 años,43,65,0.9142959226355014
+591,Mujer,Retorno tras 20 años,44,66,0.9069453948506772
+591,Mujer,Retorno tras 20 años,45,67,0.8989969616880216
+591,Mujer,Retorno tras 20 años,46,68,0.890623335398105
+591,Mujer,Retorno tras 20 años,47,69,0.8820212410069291
+591,Mujer,Retorno tras 20 años,48,70,0.8733181962985153
+591,Mujer,Retorno tras 20 años,49,71,0.8645095421770059
+591,Mujer,Retorno tras 20 años,50,72,0.8553993924921172
+591,Mujer,Retorno tras 20 años,51,73,0.845628250771619
+591,Mujer,Retorno tras 20 años,52,74,0.8346866583786025
+591,Mujer,Retorno tras 20 años,53,75,0.8219470195428347
+591,Mujer,Retorno tras 20 años,54,76,0.8067829600766399
+591,Mujer,Retorno tras 20 años,55,77,0.7886865439759144
+591,Mujer,Retorno tras 20 años,56,78,0.7674944892180889
+591,Mujer,Retorno tras 20 años,57,79,0.7434693405990239
+591,Mujer,Retorno tras 20 años,58,80,0.7171593360535047
+591,Mujer,Retorno tras 20 años,59,81,0.689186600695078
+591,Mujer,Retorno tras 20 años,60,82,0.6598974727282124
+591,Mujer,Retorno tras 20 años,61,83,0.6293232745951118
+591,Mujer,Retorno tras 20 años,62,84,0.5972537220029072
+591,Mujer,Retorno tras 20 años,63,85,0.563361006688175
+591,Mujer,Retorno tras 20 años,64,86,0.5274499874712023
+591,Mujer,Retorno tras 20 años,65,87,0.4895475737830184
+591,Mujer,Retorno tras 20 años,66,88,0.449995669250309
+591,Mujer,Retorno tras 20 años,67,89,0.409400880433778
+591,Mujer,Retorno tras 20 años,68,90,0.3684532798842442
+591,Mujer,Retorno tras 20 años,69,91,0.32782507523204346
+591,Mujer,Retorno tras 20 años,70,92,0.2880482427032228
+591,Mujer,Retorno tras 20 años,71,93,0.24954912025893444
+591,Mujer,Retorno tras 20 años,72,94,0.21274978596894634
+591,Mujer,Retorno tras 20 años,73,95,0.17811007218477487
+591,Mujer,Retorno tras 20 años,74,96,0.14631636988816524
+591,Mujer,Retorno tras 20 años,75,97,0.11778199431774926
+591,Mujer,Retorno tras 20 años,76,98,0.09276584781814318
+591,Mujer,Retorno tras 20 años,77,99,0.07137773075373013
+591,Mujer,Retorno tras 20 años,78,100,0.05357415967482219
+591,Mujer,Retorno tras 20 años,79,101,0
+591,Mujer,Emigración permanente,0,22,1
+591,Mujer,Emigración permanente,1,23,0.9994855
+591,Mujer,Emigración permanente,2,24,0.99895675218079
+591,Mujer,Emigración permanente,3,25,0.9984356763597175
+591,Mujer,Emigración permanente,4,26,0.9979356897260668
+591,Mujer,Emigración permanente,5,27,0.9974576286339035
+591,Mujer,Emigración permanente,6,28,0.9969103036839195
+591,Mujer,Emigración permanente,7,29,0.9963367811862103
+591,Mujer,Emigración permanente,8,30,0.9957173785360824
+591,Mujer,Emigración permanente,9,31,0.9950362879348161
+591,Mujer,Emigración permanente,10,32,0.9942852544454088
+591,Mujer,Emigración permanente,11,33,0.9934657148244321
+591,Mujer,Emigración permanente,12,34,0.9925902827711861
+591,Mujer,Emigración permanente,13,35,0.991675630677418
+591,Mujer,Emigración permanente,14,36,0.9907377236994359
+591,Mujer,Emigración permanente,15,37,0.9897854365067933
+591,Mujer,Emigración permanente,16,38,0.9888182280760933
+591,Mujer,Emigración permanente,17,39,0.987828628681617
+591,Mujer,Emigración permanente,18,40,0.9868033712261947
+591,Mujer,Emigración permanente,19,41,0.985726561519479
+591,Mujer,Emigración permanente,20,42,0.9845808515370249
+591,Mujer,Emigración permanente,21,43,0.9833487667510284
+591,Mujer,Emigración permanente,22,44,0.98201363479646
+591,Mujer,Emigración permanente,23,45,0.9805607652640513
+591,Mujer,Emigración permanente,24,46,0.9789788167758432
+591,Mujer,Emigración permanente,25,47,0.9772605425260027
+591,Mujer,Emigración permanente,26,48,0.9754035129526731
+591,Mujer,Emigración permanente,27,49,0.9734078081030665
+591,Mujer,Emigración permanente,28,50,0.9712738061653621
+591,Mujer,Emigración permanente,29,51,0.9689979465209697
+591,Mujer,Emigración permanente,30,52,0.9665690853381587
+591,Mujer,Emigración permanente,31,53,0.9639677386274063
+591,Mujer,Emigración permanente,32,54,0.9611650699050888
+591,Mujer,Emigración permanente,33,55,0.958124875954027
+591,Mujer,Emigración permanente,34,56,0.9548052894400553
+591,Mujer,Emigración permanente,35,57,0.951161752455552
+591,Mujer,Emigración permanente,36,58,0.9471507033454469
+591,Mujer,Emigración permanente,37,59,0.9427341585587612
+591,Mujer,Emigración permanente,38,60,0.937885667353952
+591,Mujer,Emigración permanente,39,61,0.932596067220929
+591,Mujer,Emigración permanente,40,62,0.9268791787211793
+591,Mujer,Emigración permanente,41,63,0.9207664383438885
+591,Mujer,Emigración permanente,42,64,0.9142980633221871
+591,Mujer,Emigración permanente,43,65,0.9075052035739092
+591,Mujer,Emigración permanente,44,66,0.9003902085020051
+591,Mujer,Emigración permanente,45,67,0.8929188695947784
+591,Mujer,Emigración permanente,46,68,0.8850130284277071
+591,Mujer,Emigración permanente,47,69,0.8765602955435848
+591,Mujer,Emigración permanente,48,70,0.8674275102459488
+591,Mujer,Emigración permanente,49,71,0.8574749592672906
+591,Mujer,Emigración permanente,50,72,0.8465793422256159
+591,Mujer,Emigración permanente,51,73,0.8346384845220118
+591,Mujer,Emigración permanente,52,74,0.8215738632846343
+591,Mujer,Emigración permanente,53,75,0.8073219064578948
+591,Mujer,Emigración permanente,54,76,0.7918136724422301
+591,Mujer,Emigración permanente,55,77,0.7749675515080996
+591,Mujer,Emigración permanente,56,78,0.7566803399578178
+591,Mujer,Emigración permanente,57,79,0.7368389177879561
+591,Mujer,Emigración permanente,58,80,0.7153463876041231
+591,Mujer,Emigración permanente,59,81,0.6921403075724736
+591,Mujer,Emigración permanente,60,82,0.667216999551484
+591,Mujer,Emigración permanente,61,83,0.6406110144443491
+591,Mujer,Emigración permanente,62,84,0.6123383904306244
+591,Mujer,Emigración permanente,63,85,0.5823385181817463
+591,Mujer,Emigración permanente,64,86,0.5503768045541041
+591,Mujer,Emigración permanente,65,87,0.5160584716887364
+591,Mujer,Emigración permanente,66,88,0.47890942461873437
+591,Mujer,Emigración permanente,67,89,0.43855582208169414
+591,Mujer,Emigración permanente,68,90,0.3951302701704252
+591,Mujer,Emigración permanente,69,91,0.3495186484627669
+591,Mujer,Emigración permanente,70,92,0.3035296278123492
+591,Mujer,Emigración permanente,71,93,0.25945980298531346
+591,Mujer,Emigración permanente,72,94,0.21921395510504954
+591,Mujer,Emigración permanente,73,95,0.18385230867956384
+591,Mujer,Emigración permanente,74,96,0.14934212171098837
+591,Mujer,Emigración permanente,75,97,0.11835170942285186
+591,Mujer,Emigración permanente,76,98,0.09131863923493291
+591,Mujer,Emigración permanente,77,99,0.06846425125188124
+591,Mujer,Emigración permanente,78,100,0.049779147321923234
+591,Mujer,Emigración permanente,79,101,0
+724,Mujer,Permanece en Costa Rica,0,22,1
+724,Mujer,Permanece en Costa Rica,1,23,0.9994855
+724,Mujer,Permanece en Costa Rica,2,24,0.99895675218079
+724,Mujer,Permanece en Costa Rica,3,25,0.9984356763597175
+724,Mujer,Permanece en Costa Rica,4,26,0.9979356897260668
+724,Mujer,Permanece en Costa Rica,5,27,0.9974576286339035
+724,Mujer,Permanece en Costa Rica,6,28,0.99699176604845
+724,Mujer,Permanece en Costa Rica,7,29,0.9965240772109967
+724,Mujer,Permanece en Costa Rica,8,30,0.9960379528356516
+724,Mujer,Permanece en Costa Rica,9,31,0.9955187381715974
+724,Mujer,Permanece en Costa Rica,10,32,0.9949552347450428
+724,Mujer,Permanece en Costa Rica,11,33,0.9943408896857971
+724,Mujer,Permanece en Costa Rica,12,34,0.9936749795919746
+724,Mujer,Permanece en Costa Rica,13,35,0.9929598515826618
+724,Mujer,Permanece en Costa Rica,14,36,0.9921994032099257
+724,Mujer,Permanece en Costa Rica,15,37,0.9913959102112122
+724,Mujer,Permanece en Costa Rica,16,38,0.9905483856754909
+724,Mujer,Permanece en Costa Rica,17,39,0.9896531280445173
+724,Mujer,Permanece en Costa Rica,18,40,0.9887039616259411
+724,Mujer,Permanece en Costa Rica,19,41,0.9876938126753876
+724,Mujer,Permanece en Costa Rica,20,42,0.9866154979553993
+724,Mujer,Permanece en Costa Rica,21,43,0.9854621937690643
+724,Mujer,Permanece en Costa Rica,22,44,0.9842276954243079
+724,Mujer,Permanece en Costa Rica,23,45,0.9829059563675686
+724,Mujer,Permanece en Costa Rica,24,46,0.9814907192262927
+724,Mujer,Permanece en Costa Rica,25,47,0.9799748951446124
+724,Mujer,Permanece en Costa Rica,26,48,0.978350018370471
+724,Mujer,Permanece en Costa Rica,27,49,0.9766056594217172
+724,Mujer,Permanece en Costa Rica,28,50,0.9747288381975537
+724,Mujer,Permanece en Costa Rica,29,51,0.9727034686392398
+724,Mujer,Permanece en Costa Rica,30,52,0.970509847230834
+724,Mujer,Permanece en Costa Rica,31,53,0.9681255859840435
+724,Mujer,Permanece en Costa Rica,32,54,0.9655266431672135
+724,Mujer,Permanece en Costa Rica,33,55,0.962690370031844
+724,Mujer,Permanece en Costa Rica,34,56,0.9595987861775238
+724,Mujer,Permanece en Costa Rica,35,57,0.9562395762826792
+724,Mujer,Permanece en Costa Rica,36,58,0.9526066404468618
+724,Mujer,Permanece en Costa Rica,37,59,0.9486927608039218
+724,Mujer,Permanece en Costa Rica,38,60,0.944481086726971
+724,Mujer,Permanece en Costa Rica,39,61,0.9399353181461758
+724,Mujer,Permanece en Costa Rica,40,62,0.9349890589240824
+724,Mujer,Permanece en Costa Rica,41,63,0.9295534626304649
+724,Mujer,Permanece en Costa Rica,42,64,0.92352845031601
+724,Mujer,Permanece en Costa Rica,43,65,0.9168353902838883
+724,Mujer,Permanece en Costa Rica,44,66,0.9094644463219315
+724,Mujer,Permanece en Costa Rica,45,67,0.9014939362929438
+724,Mujer,Permanece en Costa Rica,46,68,0.8930970521577976
+724,Mujer,Permanece en Costa Rica,47,69,0.884471065348561
+724,Mujer,Permanece en Costa Rica,48,70,0.8757438478313962
+724,Mujer,Permanece en Costa Rica,49,71,0.8669107275697526
+724,Mujer,Permanece en Costa Rica,50,72,0.8577752743372663
+724,Mujer,Permanece en Costa Rica,51,73,0.8479769931560391
+724,Mujer,Permanece en Costa Rica,52,74,0.8370050103618233
+724,Mujer,Permanece en Costa Rica,53,75,0.824229987029773
+724,Mujer,Permanece en Costa Rica,54,76,0.80902380921056
+724,Mujer,Permanece en Costa Rica,55,77,0.790877130101872
+724,Mujer,Permanece en Costa Rica,56,78,0.7696262141634069
+724,Mujer,Permanece en Costa Rica,57,79,0.7455343354122749
+724,Mujer,Permanece en Costa Rica,58,80,0.7191512545205551
+724,Mujer,Permanece en Costa Rica,59,81,0.6911008245615937
+724,Mujer,Permanece en Costa Rica,60,82,0.6617303456982844
+724,Mujer,Permanece en Costa Rica,61,83,0.6310712273712814
+724,Mujer,Permanece en Costa Rica,62,84,0.598912601220626
+724,Mujer,Permanece en Costa Rica,63,85,0.5649257484915984
+724,Mujer,Permanece en Costa Rica,64,86,0.5289149859975703
+724,Mujer,Permanece en Costa Rica,65,87,0.4909072979108311
+724,Mujer,Permanece en Costa Rica,66,88,0.4512455374993999
+724,Mujer,Permanece en Costa Rica,67,89,0.4105379961808174
+724,Mujer,Permanece en Costa Rica,68,90,0.3694766631905057
+724,Mujer,Permanece en Costa Rica,69,91,0.3287356132233779
+724,Mujer,Permanece en Costa Rica,70,92,0.2888483000756882
+724,Mujer,Permanece en Costa Rica,71,93,0.25024224586727606
+724,Mujer,Permanece en Costa Rica,72,94,0.21334070099469862
+724,Mujer,Permanece en Costa Rica,73,95,0.17860477499922175
+724,Mujer,Permanece en Costa Rica,74,96,0.14672276532159267
+724,Mujer,Permanece en Costa Rica,75,97,0.1181091351883661
+724,Mujer,Permanece en Costa Rica,76,98,0.09302350604845695
+724,Mujer,Permanece en Costa Rica,77,99,0.0715759832380482
+724,Mujer,Permanece en Costa Rica,78,100,0.05372296253166044
+724,Mujer,Permanece en Costa Rica,79,101,0
+724,Mujer,Retorno tras 5 años,0,22,1
+724,Mujer,Retorno tras 5 años,1,23,0.9994855
+724,Mujer,Retorno tras 5 años,2,24,0.99895675218079
+724,Mujer,Retorno tras 5 años,3,25,0.9984356763597175
+724,Mujer,Retorno tras 5 años,4,26,0.9979356897260668
+724,Mujer,Retorno tras 5 años,5,27,0.9974576286339035
+724,Mujer,Retorno tras 5 años,6,28,0.9973190518455574
+724,Mujer,Retorno tras 5 años,7,29,0.9971814716823553
+724,Mujer,Retorno tras 5 años,8,30,0.9970099464974111
+724,Mujer,Retorno tras 5 años,9,31,0.9968462673744947
+724,Mujer,Retorno tras 5 años,10,32,0.9966390230355074
+724,Mujer,Retorno tras 5 años,11,33,0.996023638304344
+724,Mujer,Retorno tras 5 años,12,34,0.9953566012737716
+724,Mujer,Retorno tras 5 años,13,35,0.9946402630349669
+724,Mujer,Retorno tras 5 años,14,36,0.9938785277359242
+724,Mujer,Retorno tras 5 años,15,37,0.9930736749653784
+724,Mujer,Retorno tras 5 años,16,38,0.9922247161421239
+724,Mujer,Retorno tras 5 años,17,39,0.9913279434436747
+724,Mujer,Retorno tras 5 años,18,40,0.9903771707263972
+724,Mujer,Retorno tras 5 años,19,41,0.9893653122748378
+724,Mujer,Retorno tras 5 años,20,42,0.9882851726951618
+724,Mujer,Retorno tras 5 años,21,43,0.9871299167425398
+724,Mujer,Retorno tras 5 años,22,44,0.9858933292245372
+724,Mujer,Retorno tras 5 años,23,45,0.984569353354855
+724,Mujer,Retorno tras 5 años,24,46,0.983151721171427
+724,Mujer,Retorno tras 5 años,25,47,0.9816333318217326
+724,Mujer,Retorno tras 5 años,26,48,0.9800057052269056
+724,Mujer,Retorno tras 5 años,27,49,0.9782583942547143
+724,Mujer,Retorno tras 5 años,28,50,0.9763783968378035
+724,Mujer,Retorno tras 5 años,29,51,0.9743495996945821
+724,Mujer,Retorno tras 5 años,30,52,0.9721522659643429
+724,Mujer,Retorno tras 5 años,31,53,0.9697639697710255
+724,Mujer,Retorno tras 5 años,32,54,0.9671606286965355
+724,Mujer,Retorno tras 5 años,33,55,0.9643195556633143
+724,Mujer,Retorno tras 5 años,34,56,0.9612227398422571
+724,Mujer,Retorno tras 5 años,35,57,0.9578578450702557
+724,Mujer,Retorno tras 5 años,36,58,0.9542187611238433
+724,Mujer,Retorno tras 5 años,37,59,0.9502982579218898
+724,Mujer,Retorno tras 5 años,38,60,0.9460794563207585
+724,Mujer,Retorno tras 5 años,39,61,0.9415259948190758
+724,Mujer,Retorno tras 5 años,40,62,0.9365713649154996
+724,Mujer,Retorno tras 5 años,41,63,0.9311265698227087
+724,Mujer,Retorno tras 5 años,42,64,0.9250913612252145
+724,Mujer,Retorno tras 5 años,43,65,0.9183869743557478
+724,Mujer,Retorno tras 5 años,44,66,0.911003556356066
+724,Mujer,Retorno tras 5 años,45,67,0.9030195576283038
+724,Mujer,Retorno tras 5 años,46,68,0.8946084632305351
+724,Mujer,Retorno tras 5 años,47,69,0.8859678784423384
+724,Mujer,Retorno tras 5 años,48,70,0.8772258916308873
+724,Mujer,Retorno tras 5 años,49,71,0.8683778228530237
+724,Mujer,Retorno tras 5 años,50,72,0.8592269094584679
+724,Mujer,Retorno tras 5 años,51,73,0.8494120463944147
+724,Mujer,Retorno tras 5 años,52,74,0.838421495431997
+724,Mujer,Retorno tras 5 años,53,75,0.8256248525999473
+724,Mujer,Retorno tras 5 años,54,76,0.8103929409755736
+724,Mujer,Retorno tras 5 años,55,77,0.7922155517758915
+724,Mujer,Retorno tras 5 años,56,78,0.7709286723667401
+724,Mujer,Retorno tras 5 años,57,79,0.7467960223106088
+724,Mujer,Retorno tras 5 años,58,80,0.7203682926536776
+724,Mujer,Retorno tras 5 años,59,81,0.6922703922318674
+724,Mujer,Retorno tras 5 años,60,82,0.6628502089530542
+724,Mujer,Retorno tras 5 años,61,83,0.6321392054128957
+724,Mujer,Retorno tras 5 años,62,84,0.5999261563934931
+724,Mujer,Retorno tras 5 años,63,85,0.5658817868409377
+724,Mujer,Retorno tras 5 años,64,86,0.5298100824089201
+724,Mujer,Retorno tras 5 años,65,87,0.49173807293573735
+724,Mujer,Retorno tras 5 años,66,88,0.4520091919087971
+724,Mujer,Retorno tras 5 años,67,89,0.41123276017282473
+724,Mujer,Retorno tras 5 años,68,90,0.37010193803439306
+724,Mujer,Retorno tras 5 años,69,91,0.32929194094232905
+724,Mujer,Retorno tras 5 años,70,92,0.2893371254704435
+724,Mujer,Retorno tras 5 años,71,93,0.2506657372452363
+724,Mujer,Retorno tras 5 años,72,94,0.2137017429407782
+724,Mujer,Retorno tras 5 años,73,95,0.17890703244585135
+724,Mujer,Retorno tras 5 años,74,96,0.1469710680246348
+724,Mujer,Retorno tras 5 años,75,97,0.11830901431044344
+724,Mujer,Retorno tras 5 años,76,98,0.09318093211623628
+724,Mujer,Retorno tras 5 años,77,99,0.07169711311228381
+724,Mujer,Retorno tras 5 años,78,100,0.05381387928055625
+724,Mujer,Retorno tras 5 años,79,101,0
+724,Mujer,Retorno tras 20 años,0,22,1
+724,Mujer,Retorno tras 20 años,1,23,0.9994855
+724,Mujer,Retorno tras 20 años,2,24,0.99895675218079
+724,Mujer,Retorno tras 20 años,3,25,0.9984356763597175
+724,Mujer,Retorno tras 20 años,4,26,0.9979356897260668
+724,Mujer,Retorno tras 20 años,5,27,0.9974576286339035
+724,Mujer,Retorno tras 20 años,6,28,0.9973190518455574
+724,Mujer,Retorno tras 20 años,7,29,0.9971814716823553
+724,Mujer,Retorno tras 20 años,8,30,0.9970099464974111
+724,Mujer,Retorno tras 20 años,9,31,0.9968462673744947
+724,Mujer,Retorno tras 20 años,10,32,0.9966390230355074
+724,Mujer,Retorno tras 20 años,11,33,0.9964566480606822
+724,Mujer,Retorno tras 20 años,12,34,0.9962705697462234
+724,Mujer,Retorno tras 20 años,13,35,0.9960192306068878
+724,Mujer,Retorno tras 20 años,14,36,0.9957547576205849
+724,Mujer,Retorno tras 20 años,15,37,0.9955104691058977
+724,Mujer,Retorno tras 20 años,16,38,0.9951771224253176
+724,Mujer,Retorno tras 20 años,17,39,0.9947972633176878
+724,Mujer,Retorno tras 20 años,18,40,0.994406497004684
+724,Mujer,Retorno tras 20 años,19,41,0.9939514764797847
+724,Mujer,Retorno tras 20 años,20,42,0.9935205488171568
+724,Mujer,Retorno tras 20 años,21,43,0.9930056766631433
+724,Mujer,Retorno tras 20 años,22,44,0.99239806641965
+724,Mujer,Retorno tras 20 años,23,45,0.9917163484919036
+724,Mujer,Retorno tras 20 años,24,46,0.9909668886130213
+724,Mujer,Retorno tras 20 años,25,47,0.9901870174910207
+724,Mujer,Retorno tras 20 años,26,48,0.9885452082010592
+724,Mujer,Retorno tras 20 años,27,49,0.986782671636645
+724,Mujer,Retorno tras 20 años,28,50,0.9848862924339471
+724,Mujer,Retorno tras 20 años,29,51,0.9828398169046245
+724,Mujer,Retorno tras 20 años,30,52,0.9806233362063375
+724,Mujer,Retorno tras 20 años,31,53,0.978214229050046
+724,Mujer,Retorno tras 20 años,32,54,0.9755882031700188
+724,Mujer,Retorno tras 20 años,33,55,0.9727223737996787
+724,Mujer,Retorno tras 20 años,34,56,0.9695985731684585
+724,Mujer,Retorno tras 20 años,35,57,0.966204357619282
+724,Mujer,Retorno tras 20 años,36,58,0.9625335636858584
+724,Mujer,Retorno tras 20 años,37,59,0.9585788982860988
+724,Mujer,Retorno tras 20 años,38,60,0.9543233351961025
+724,Mujer,Retorno tras 20 años,39,61,0.9497301960702704
+724,Mujer,Retorno tras 20 años,40,62,0.9447323928702819
+724,Mujer,Retorno tras 20 años,41,63,0.9392401533150349
+724,Mujer,Retorno tras 20 años,42,64,0.9331523555525051
+724,Mujer,Retorno tras 20 años,43,65,0.92638954848068
+724,Mujer,Retorno tras 20 años,44,66,0.9189417933861922
+724,Mujer,Retorno tras 20 años,45,67,0.9108882242666273
+724,Mujer,Retorno tras 20 años,46,68,0.902403837881636
+724,Mujer,Retorno tras 20 años,47,69,0.8936879613894179
+724,Mujer,Retorno tras 20 años,48,70,0.8848697992843146
+724,Mujer,Retorno tras 20 años,49,71,0.8759446308434173
+724,Mujer,Retorno tras 20 años,50,72,0.8667139788802672
+724,Mujer,Retorno tras 20 años,51,73,0.8568135917709159
+724,Mujer,Retorno tras 20 años,52,74,0.8457272721388561
+724,Mujer,Retorno tras 20 años,53,75,0.8328191228442006
+724,Mujer,Retorno tras 20 años,54,76,0.8174544844878041
+724,Mujer,Retorno tras 20 años,55,77,0.7991187024662179
+724,Mujer,Retorno tras 20 años,56,78,0.7776463349838284
+724,Mujer,Retorno tras 20 años,57,79,0.7533033995836125
+724,Mujer,Retorno tras 20 años,58,80,0.7266453858836377
+724,Mujer,Retorno tras 20 años,59,81,0.6983026480053312
+724,Mujer,Retorno tras 20 años,60,82,0.6686261052571093
+724,Mujer,Retorno tras 20 años,61,83,0.6376474943911243
+724,Mujer,Retorno tras 20 años,62,84,0.6051537496304208
+724,Mujer,Retorno tras 20 años,63,85,0.5708127267078935
+724,Mujer,Retorno tras 20 años,64,86,0.5344267032615712
+724,Mujer,Retorno tras 20 años,65,87,0.49602294466040453
+724,Mujer,Retorno tras 20 años,66,88,0.45594787697773376
+724,Mujer,Retorno tras 20 años,67,89,0.4148161305142781
+724,Mujer,Retorno tras 20 años,68,90,0.3733269055868554
+724,Mujer,Retorno tras 20 años,69,91,0.3321613012879311
+724,Mujer,Retorno tras 20 años,70,92,0.2918583304290573
+724,Mujer,Retorno tras 20 años,71,93,0.25284997025256195
+724,Mujer,Retorno tras 20 años,72,94,0.21556388176271704
+724,Mujer,Retorno tras 20 años,73,95,0.18046597963107677
+724,Mujer,Retorno tras 20 años,74,96,0.14825173390833016
+724,Mujer,Retorno tras 20 años,75,97,0.11933992685940588
+724,Mujer,Retorno tras 20 años,76,98,0.09399288539640291
+724,Mujer,Retorno tras 20 años,77,99,0.0723218622411869
+724,Mujer,Retorno tras 20 años,78,100,0.05428279877736739
+724,Mujer,Retorno tras 20 años,79,101,0
+724,Mujer,Emigración permanente,0,22,1
+724,Mujer,Emigración permanente,1,23,0.9994855
+724,Mujer,Emigración permanente,2,24,0.99895675218079
+724,Mujer,Emigración permanente,3,25,0.9984356763597175
+724,Mujer,Emigración permanente,4,26,0.9979356897260668
+724,Mujer,Emigración permanente,5,27,0.9974576286339035
+724,Mujer,Emigración permanente,6,28,0.9973190518455574
+724,Mujer,Emigración permanente,7,29,0.9971814716823553
+724,Mujer,Emigración permanente,8,30,0.9970099464974111
+724,Mujer,Emigración permanente,9,31,0.9968462673744947
+724,Mujer,Emigración permanente,10,32,0.9966390230355074
+724,Mujer,Emigración permanente,11,33,0.9964566480606822
+724,Mujer,Emigración permanente,12,34,0.9962705697462234
+724,Mujer,Emigración permanente,13,35,0.9960192306068878
+724,Mujer,Emigración permanente,14,36,0.9957547576205849
+724,Mujer,Emigración permanente,15,37,0.9955104691058977
+724,Mujer,Emigración permanente,16,38,0.9951771224253176
+724,Mujer,Emigración permanente,17,39,0.9947972633176878
+724,Mujer,Emigración permanente,18,40,0.994406497004684
+724,Mujer,Emigración permanente,19,41,0.9939514764797847
+724,Mujer,Emigración permanente,20,42,0.9935205488171568
+724,Mujer,Emigración permanente,21,43,0.9930056766631433
+724,Mujer,Emigración permanente,22,44,0.99239806641965
+724,Mujer,Emigración permanente,23,45,0.9917163484919036
+724,Mujer,Emigración permanente,24,46,0.9909668886130213
+724,Mujer,Emigración permanente,25,47,0.9901870174910207
+724,Mujer,Emigración permanente,26,48,0.989123091246337
+724,Mujer,Emigración permanente,27,49,0.9879976472106552
+724,Mujer,Emigración permanente,28,50,0.9867880120512458
+724,Mujer,Emigración permanente,29,51,0.9854508748233959
+724,Mujer,Emigración permanente,30,52,0.9838989276586715
+724,Mujer,Emigración permanente,31,53,0.9821789936212099
+724,Mujer,Emigración permanente,32,54,0.9803292264571534
+724,Mujer,Emigración permanente,33,55,0.9783549904444526
+724,Mujer,Emigración permanente,34,56,0.9761899593354484
+724,Mujer,Emigración permanente,35,57,0.9736854658995766
+724,Mujer,Emigración permanente,36,58,0.9709408413082988
+724,Mujer,Emigración permanente,37,59,0.9680432819743994
+724,Mujer,Emigración permanente,38,60,0.9648291459478567
+724,Mujer,Emigración permanente,39,61,0.9613691624992816
+724,Mujer,Emigración permanente,40,62,0.9574588222718907
+724,Mujer,Emigración permanente,41,63,0.953338886534243
+724,Mujer,Emigración permanente,42,64,0.9489119620807326
+724,Mujer,Emigración permanente,43,65,0.9446236106743385
+724,Mujer,Emigración permanente,44,66,0.939642185294628
+724,Mujer,Emigración permanente,45,67,0.9344170794091727
+724,Mujer,Emigración permanente,46,68,0.92878812289029955
+724,Mujer,Emigración permanente,47,69,0.9230786115260996
+724,Mujer,Emigración permanente,48,70,0.9167021321702552
+724,Mujer,Emigración permanente,49,71,0.9098098613544265
+724,Mujer,Emigración permanente,50,72,0.9023925454787485
+724,Mujer,Emigración permanente,51,73,0.8941293008440978
+724,Mujer,Emigración permanente,52,74,0.8847530854611402
+724,Mujer,Emigración permanente,53,75,0.8743409837927919
+724,Mujer,Emigración permanente,54,76,0.862666599365584
+724,Mujer,Emigración permanente,55,77,0.8495236925642634
+724,Mujer,Emigración permanente,56,78,0.8346662707621638
+724,Mujer,Emigración permanente,57,79,0.8186629472596342
+724,Mujer,Emigración permanente,58,80,0.8005835537992051
+724,Mujer,Emigración permanente,59,81,0.7798267759648398
+724,Mujer,Emigración permanente,60,82,0.7561499951219735
+724,Mujer,Emigración permanente,61,83,0.7294739457970644
+724,Mujer,Emigración permanente,62,84,0.7002290508152211
+724,Mujer,Emigración permanente,63,85,0.6667032812538652
+724,Mujer,Emigración permanente,64,86,0.6296378056600317
+724,Mujer,Emigración permanente,65,87,0.5891585485435996
+724,Mujer,Emigración permanente,66,88,0.5445059570281333
+724,Mujer,Emigración permanente,67,89,0.4972693192827817
+724,Mujer,Emigración permanente,68,90,0.4472950107862399
+724,Mujer,Emigración permanente,69,91,0.3951392003590851
+724,Mujer,Emigración permanente,70,92,0.3428653306748129
+724,Mujer,Emigración permanente,71,93,0.2920034360640542
+724,Mujer,Emigración permanente,72,94,0.24284905225438347
+724,Mujer,Emigración permanente,73,95,0.1986900605697927
+724,Mujer,Emigración permanente,74,96,0.15699104312573028
+724,Mujer,Emigración permanente,75,97,0.12030298519452282
+724,Mujer,Emigración permanente,76,98,0.08917829551344374
+724,Mujer,Emigración permanente,77,99,0.06378683945174882
+724,Mujer,Emigración permanente,78,100,0.04392048571265716
+724,Mujer,Emigración permanente,79,101,0
+124,Mujer,Permanece en Costa Rica,0,22,1
+124,Mujer,Permanece en Costa Rica,1,23,0.9994855
+124,Mujer,Permanece en Costa Rica,2,24,0.99895675218079
+124,Mujer,Permanece en Costa Rica,3,25,0.9984356763597175
+124,Mujer,Permanece en Costa Rica,4,26,0.9979356897260668
+124,Mujer,Permanece en Costa Rica,5,27,0.9974576286339035
+124,Mujer,Permanece en Costa Rica,6,28,0.99699176604845
+124,Mujer,Permanece en Costa Rica,7,29,0.9965240772109967
+124,Mujer,Permanece en Costa Rica,8,30,0.9960379528356516
+124,Mujer,Permanece en Costa Rica,9,31,0.9955187381715974
+124,Mujer,Permanece en Costa Rica,10,32,0.9949552347450428
+124,Mujer,Permanece en Costa Rica,11,33,0.9943408896857971
+124,Mujer,Permanece en Costa Rica,12,34,0.9936749795919746
+124,Mujer,Permanece en Costa Rica,13,35,0.9929598515826618
+124,Mujer,Permanece en Costa Rica,14,36,0.9921994032099257
+124,Mujer,Permanece en Costa Rica,15,37,0.9913959102112122
+124,Mujer,Permanece en Costa Rica,16,38,0.9905483856754909
+124,Mujer,Permanece en Costa Rica,17,39,0.9896531280445173
+124,Mujer,Permanece en Costa Rica,18,40,0.9887039616259411
+124,Mujer,Permanece en Costa Rica,19,41,0.9876938126753876
+124,Mujer,Permanece en Costa Rica,20,42,0.9866154979553993
+124,Mujer,Permanece en Costa Rica,21,43,0.9854621937690643
+124,Mujer,Permanece en Costa Rica,22,44,0.9842276954243079
+124,Mujer,Permanece en Costa Rica,23,45,0.9829059563675686
+124,Mujer,Permanece en Costa Rica,24,46,0.9814907192262927
+124,Mujer,Permanece en Costa Rica,25,47,0.9799748951446124
+124,Mujer,Permanece en Costa Rica,26,48,0.978350018370471
+124,Mujer,Permanece en Costa Rica,27,49,0.9766056594217172
+124,Mujer,Permanece en Costa Rica,28,50,0.9747288381975537
+124,Mujer,Permanece en Costa Rica,29,51,0.9727034686392398
+124,Mujer,Permanece en Costa Rica,30,52,0.970509847230834
+124,Mujer,Permanece en Costa Rica,31,53,0.9681255859840435
+124,Mujer,Permanece en Costa Rica,32,54,0.9655266431672135
+124,Mujer,Permanece en Costa Rica,33,55,0.962690370031844
+124,Mujer,Permanece en Costa Rica,34,56,0.9595987861775238
+124,Mujer,Permanece en Costa Rica,35,57,0.9562395762826792
+124,Mujer,Permanece en Costa Rica,36,58,0.9526066404468618
+124,Mujer,Permanece en Costa Rica,37,59,0.9486927608039218
+124,Mujer,Permanece en Costa Rica,38,60,0.944481086726971
+124,Mujer,Permanece en Costa Rica,39,61,0.9399353181461758
+124,Mujer,Permanece en Costa Rica,40,62,0.9349890589240824
+124,Mujer,Permanece en Costa Rica,41,63,0.9295534626304649
+124,Mujer,Permanece en Costa Rica,42,64,0.92352845031601
+124,Mujer,Permanece en Costa Rica,43,65,0.9168353902838883
+124,Mujer,Permanece en Costa Rica,44,66,0.9094644463219315
+124,Mujer,Permanece en Costa Rica,45,67,0.9014939362929438
+124,Mujer,Permanece en Costa Rica,46,68,0.8930970521577976
+124,Mujer,Permanece en Costa Rica,47,69,0.884471065348561
+124,Mujer,Permanece en Costa Rica,48,70,0.8757438478313962
+124,Mujer,Permanece en Costa Rica,49,71,0.8669107275697526
+124,Mujer,Permanece en Costa Rica,50,72,0.8577752743372663
+124,Mujer,Permanece en Costa Rica,51,73,0.8479769931560391
+124,Mujer,Permanece en Costa Rica,52,74,0.8370050103618233
+124,Mujer,Permanece en Costa Rica,53,75,0.824229987029773
+124,Mujer,Permanece en Costa Rica,54,76,0.80902380921056
+124,Mujer,Permanece en Costa Rica,55,77,0.790877130101872
+124,Mujer,Permanece en Costa Rica,56,78,0.7696262141634069
+124,Mujer,Permanece en Costa Rica,57,79,0.7455343354122749
+124,Mujer,Permanece en Costa Rica,58,80,0.7191512545205551
+124,Mujer,Permanece en Costa Rica,59,81,0.6911008245615937
+124,Mujer,Permanece en Costa Rica,60,82,0.6617303456982844
+124,Mujer,Permanece en Costa Rica,61,83,0.6310712273712814
+124,Mujer,Permanece en Costa Rica,62,84,0.598912601220626
+124,Mujer,Permanece en Costa Rica,63,85,0.5649257484915984
+124,Mujer,Permanece en Costa Rica,64,86,0.5289149859975703
+124,Mujer,Permanece en Costa Rica,65,87,0.4909072979108311
+124,Mujer,Permanece en Costa Rica,66,88,0.4512455374993999
+124,Mujer,Permanece en Costa Rica,67,89,0.4105379961808174
+124,Mujer,Permanece en Costa Rica,68,90,0.3694766631905057
+124,Mujer,Permanece en Costa Rica,69,91,0.3287356132233779
+124,Mujer,Permanece en Costa Rica,70,92,0.2888483000756882
+124,Mujer,Permanece en Costa Rica,71,93,0.25024224586727606
+124,Mujer,Permanece en Costa Rica,72,94,0.21334070099469862
+124,Mujer,Permanece en Costa Rica,73,95,0.17860477499922175
+124,Mujer,Permanece en Costa Rica,74,96,0.14672276532159267
+124,Mujer,Permanece en Costa Rica,75,97,0.1181091351883661
+124,Mujer,Permanece en Costa Rica,76,98,0.09302350604845695
+124,Mujer,Permanece en Costa Rica,77,99,0.0715759832380482
+124,Mujer,Permanece en Costa Rica,78,100,0.05372296253166044
+124,Mujer,Permanece en Costa Rica,79,101,0
+124,Mujer,Retorno tras 5 años,0,22,1
+124,Mujer,Retorno tras 5 años,1,23,0.9994855
+124,Mujer,Retorno tras 5 años,2,24,0.99895675218079
+124,Mujer,Retorno tras 5 años,3,25,0.9984356763597175
+124,Mujer,Retorno tras 5 años,4,26,0.9979356897260668
+124,Mujer,Retorno tras 5 años,5,27,0.9974576286339035
+124,Mujer,Retorno tras 5 años,6,28,0.9971167275401652
+124,Mujer,Retorno tras 5 años,7,29,0.9966990054294969
+124,Mujer,Retorno tras 5 años,8,30,0.996308767867901
+124,Mujer,Retorno tras 5 años,9,31,0.9958223201119895
+124,Mujer,Retorno tras 5 años,10,32,0.9953590536104502
+124,Mujer,Retorno tras 5 años,11,33,0.994744459209208
+124,Mujer,Retorno tras 5 años,12,34,0.9940782788448755
+124,Mujer,Retorno tras 5 años,13,35,0.9933628605891565
+124,Mujer,Retorno tras 5 años,14,36,0.9926021035760029
+124,Mujer,Retorno tras 5 años,15,37,0.991798284466506
+124,Mujer,Retorno tras 5 años,16,38,0.9909504159490812
+124,Mujer,Retorno tras 5 años,17,39,0.9900547949631464
+124,Mujer,Retorno tras 5 años,18,40,0.9891052433098452
+124,Mujer,Retorno tras 5 años,19,41,0.988094684373808
+124,Mujer,Retorno tras 5 años,20,42,0.9870159320021429
+124,Mujer,Retorno tras 5 años,21,43,0.985862159728429
+124,Mujer,Retorno tras 5 años,22,44,0.9846271603423156
+124,Mujer,Retorno tras 5 años,23,45,0.9833048848361486
+124,Mujer,Retorno tras 5 años,24,46,0.9818890732977174
+124,Mujer,Retorno tras 5 años,25,47,0.9803726339940255
+124,Mujer,Retorno tras 5 años,26,48,0.9787470977370527
+124,Mujer,Retorno tras 5 años,27,49,0.9770020308116715
+124,Mujer,Retorno tras 5 años,28,50,0.9751244478488983
+124,Mujer,Retorno tras 5 años,29,51,0.973098256261202
+124,Mujer,Retorno tras 5 años,30,52,0.9709037445356469
+124,Mujer,Retorno tras 5 años,31,53,0.9685185155974086
+124,Mujer,Retorno tras 5 años,32,54,0.9659185179571023
+124,Mujer,Retorno tras 5 años,33,55,0.9630810936738625
+124,Mujer,Retorno tras 5 años,34,56,0.9599882550496383
+124,Mujer,Retorno tras 5 años,35,57,0.9566276817644813
+124,Mujer,Retorno tras 5 años,36,58,0.9529932714421985
+124,Mujer,Retorno tras 5 años,37,59,0.9490778032871511
+124,Mujer,Retorno tras 5 años,38,60,0.9448644198333479
+124,Mujer,Retorno tras 5 años,39,61,0.9403168062779784
+124,Mujer,Retorno tras 5 años,40,62,0.9353685395356296
+124,Mujer,Retorno tras 5 años,41,63,0.9299307371162976
+124,Mujer,Retorno tras 5 años,42,64,0.9239032794519899
+124,Mujer,Retorno tras 5 años,43,65,0.9172075029319159
+124,Mujer,Retorno tras 5 años,44,66,0.9098335673517195
+124,Mujer,Retorno tras 5 años,45,67,0.9018598223607918
+124,Mujer,Retorno tras 5 años,46,68,0.8934595302127962
+124,Mujer,Retorno tras 5 años,47,69,0.8848300424056407
+124,Mujer,Retorno tras 5 años,48,70,0.8760992828044174
+124,Mujer,Retorno tras 5 años,49,71,0.8672625774763533
+124,Mujer,Retorno tras 5 años,50,72,0.8581234164706621
+124,Mujer,Retorno tras 5 años,51,73,0.8483211584966593
+124,Mujer,Retorno tras 5 años,52,74,0.8373447225436595
+124,Mujer,Retorno tras 5 años,53,75,0.8245645142593145
+124,Mujer,Retorno tras 5 años,54,76,0.8093521647639702
+124,Mujer,Retorno tras 5 años,55,77,0.7911981205285783
+124,Mujer,Retorno tras 5 años,56,78,0.7699385795580882
+124,Mujer,Retorno tras 5 años,57,79,0.7458369227236785
+124,Mujer,Retorno tras 5 años,58,80,0.7194431338267946
+124,Mujer,Retorno tras 5 años,59,81,0.6913813191417626
+124,Mujer,Retorno tras 5 años,60,82,0.6619989197889308
+124,Mujer,Retorno tras 5 años,61,83,0.6313273579569892
+124,Mujer,Retorno tras 5 años,62,84,0.5991556797016042
+124,Mujer,Retorno tras 5 años,63,85,0.5651550328521694
+124,Mujer,Retorno tras 5 años,64,86,0.5291296548008328
+124,Mujer,Retorno tras 5 años,65,87,0.4911065406718518
+124,Mujer,Retorno tras 5 años,66,88,0.45142868288585525
+124,Mujer,Retorno tras 5 años,67,89,0.41070461974541106
+124,Mujer,Retorno tras 5 años,68,90,0.36962662134109764
+124,Mujer,Retorno tras 5 años,69,91,0.32886903595207473
+124,Mujer,Retorno tras 5 años,70,92,0.2889655338855503
+124,Mujer,Retorno tras 5 años,71,93,0.250343810778213
+124,Mujer,Retorno tras 5 años,72,94,0.21342728880972026
+124,Mujer,Retorno tras 5 años,73,95,0.17867726467019177
+124,Mujer,Retorno tras 5 años,74,96,0.14678231515715567
+124,Mujer,Retorno tras 5 años,75,97,0.11815707171385033
+124,Mujer,Retorno tras 5 años,76,98,0.09306126116080463
+124,Mujer,Retorno tras 5 años,77,99,0.07160503352225422
+124,Mujer,Retorno tras 5 años,78,100,0.05374476687523116
+124,Mujer,Retorno tras 5 años,79,101,0
+124,Mujer,Retorno tras 20 años,0,22,1
+124,Mujer,Retorno tras 20 años,1,23,0.9994855
+124,Mujer,Retorno tras 20 años,2,24,0.99895675218079
+124,Mujer,Retorno tras 20 años,3,25,0.9984356763597175
+124,Mujer,Retorno tras 20 años,4,26,0.9979356897260668
+124,Mujer,Retorno tras 20 años,5,27,0.9974576286339035
+124,Mujer,Retorno tras 20 años,6,28,0.9971167275401652
+124,Mujer,Retorno tras 20 años,7,29,0.9966990054294969
+124,Mujer,Retorno tras 20 años,8,30,0.996308767867901
+124,Mujer,Retorno tras 20 años,9,31,0.9958223201119895
+124,Mujer,Retorno tras 20 años,10,32,0.9953590536104502
+124,Mujer,Retorno tras 20 años,11,33,0.994850624205866
+124,Mujer,Retorno tras 20 años,12,34,0.9943311231584119
+124,Mujer,Retorno tras 20 años,13,35,0.993833410714715
+124,Mujer,Retorno tras 20 años,14,36,0.9932471682624024
+124,Mujer,Retorno tras 20 años,15,37,0.9926512298939167
+124,Mujer,Retorno tras 20 años,16,38,0.9919462589169583
+124,Mujer,Retorno tras 20 años,17,39,0.9912758024405564
+124,Mujer,Retorno tras 20 años,18,40,0.9905577222492685
+124,Mujer,Retorno tras 20 años,19,41,0.9898309797651859
+124,Mujer,Retorno tras 20 años,20,42,0.9889862976002934
+124,Mujer,Retorno tras 20 años,21,43,0.9880505583249559
+124,Mujer,Retorno tras 20 años,22,44,0.9871417691824197
+124,Mujer,Retorno tras 20 años,23,45,0.9861587437944148
+124,Mujer,Retorno tras 20 años,24,46,0.9850488122666867
+124,Mujer,Retorno tras 20 años,25,47,0.9837469028029782
+124,Mujer,Retorno tras 20 años,26,48,0.9821157717383785
+124,Mujer,Retorno tras 20 años,27,49,0.9803646986019999
+124,Mujer,Retorno tras 20 años,28,50,0.9784806533315206
+124,Mujer,Retorno tras 20 años,29,51,0.9764474879515761
+124,Mujer,Retorno tras 20 años,30,52,0.9742454231056974
+124,Mujer,Retorno tras 20 años,31,53,0.9718519846322994
+124,Mujer,Retorno tras 20 años,32,54,0.9692430382610341
+124,Mujer,Retorno tras 20 años,33,55,0.9663958480664208
+124,Mujer,Retorno tras 20 años,34,56,0.9632923644399403
+124,Mujer,Retorno tras 20 años,35,57,0.9599202246572872
+124,Mujer,Retorno tras 20 años,36,58,0.9562733053389715
+124,Mujer,Retorno tras 20 años,37,59,0.9523443608366559
+124,Mujer,Retorno tras 20 años,38,60,0.9481164756639395
+124,Mujer,Retorno tras 20 años,39,61,0.9435532100288985
+124,Mujer,Retorno tras 20 años,40,62,0.938587912229635
+124,Mujer,Retorno tras 20 años,41,63,0.9331313938583715
+124,Mujer,Retorno tras 20 años,42,64,0.9270831907533112
+124,Mujer,Retorno tras 20 años,43,65,0.9203643685574605
+124,Mujer,Retorno tras 20 años,44,66,0.9129650531982244
+124,Mujer,Retorno tras 20 años,45,67,0.9049638639905973
+124,Mujer,Retorno tras 20 años,46,68,0.8965346595262046
+124,Mujer,Retorno tras 20 años,47,69,0.8878754705518241
+124,Mujer,Retorno tras 20 años,48,70,0.8791146612238141
+124,Mujer,Retorno tras 20 años,49,71,0.8702475415225529
+124,Mujer,Retorno tras 20 años,50,72,0.8610769251448408
+124,Mujer,Retorno tras 20 años,51,73,0.8512409295366038
+124,Mujer,Retorno tras 20 años,52,74,0.8402267146369203
+124,Mujer,Retorno tras 20 años,53,75,0.8274025191412943
+124,Mujer,Retorno tras 20 años,54,76,0.8121378114357825
+124,Mujer,Retorno tras 20 años,55,77,0.793921284198422
+124,Mujer,Retorno tras 20 años,56,78,0.7725885716567333
+124,Mujer,Retorno tras 20 años,57,79,0.7484039611921626
+124,Mujer,Retorno tras 20 años,58,80,0.7219193295529002
+124,Mujer,Retorno tras 20 años,59,81,0.693760931076429
+124,Mujer,Retorno tras 20 años,60,82,0.6642774027138405
+124,Mujer,Retorno tras 20 años,61,83,0.6335002748034275
+124,Mujer,Retorno tras 20 años,62,84,0.6012178673347773
+124,Mujer,Retorno tras 20 años,63,85,0.5671001962864103
+124,Mujer,Retorno tras 20 años,64,86,0.5309508252702823
+124,Mujer,Retorno tras 20 años,65,87,0.49279684232308263
+124,Mujer,Retorno tras 20 años,66,88,0.45298242038454756
+124,Mujer,Retorno tras 20 años,67,89,0.41211819223820273
+124,Mujer,Retorno tras 20 años,68,90,0.37089881064555486
+124,Mujer,Retorno tras 20 años,69,91,0.3300009448729944
+124,Mujer,Retorno tras 20 años,70,92,0.2899601020263194
+124,Mujer,Retorno tras 20 años,71,93,0.25120544979477943
+124,Mujer,Retorno tras 20 años,72,94,0.21416186770211143
+124,Mujer,Retorno tras 20 años,73,95,0.17929224013986533
+124,Mujer,Retorno tras 20 años,74,96,0.14728751386483774
+124,Mujer,Retorno tras 20 años,75,97,0.11856374740819009
+124,Mujer,Retorno tras 20 años,76,98,0.09338156152412404
+124,Mujer,Retorno tras 20 años,77,99,0.07185148535373162
+124,Mujer,Retorno tras 20 años,78,100,0.05392974683511917
+124,Mujer,Retorno tras 20 años,79,101,0
+124,Mujer,Emigración permanente,0,22,1
+124,Mujer,Emigración permanente,1,23,0.9994855
+124,Mujer,Emigración permanente,2,24,0.99895675218079
+124,Mujer,Emigración permanente,3,25,0.9984356763597175
+124,Mujer,Emigración permanente,4,26,0.9979356897260668
+124,Mujer,Emigración permanente,5,27,0.9974576286339035
+124,Mujer,Emigración permanente,6,28,0.9971167275401652
+124,Mujer,Emigración permanente,7,29,0.9966990054294969
+124,Mujer,Emigración permanente,8,30,0.996308767867901
+124,Mujer,Emigración permanente,9,31,0.9958223201119895
+124,Mujer,Emigración permanente,10,32,0.9953590536104502
+124,Mujer,Emigración permanente,11,33,0.994850624205866
+124,Mujer,Emigración permanente,12,34,0.9943311231584119
+124,Mujer,Emigración permanente,13,35,0.993833410714715
+124,Mujer,Emigración permanente,14,36,0.9932471682624024
+124,Mujer,Emigración permanente,15,37,0.9926512298939167
+124,Mujer,Emigración permanente,16,38,0.9919462589169583
+124,Mujer,Emigración permanente,17,39,0.9912758024405564
+124,Mujer,Emigración permanente,18,40,0.9905577222492685
+124,Mujer,Emigración permanente,19,41,0.9898309797651859
+124,Mujer,Emigración permanente,20,42,0.9889862976002934
+124,Mujer,Emigración permanente,21,43,0.9880505583249559
+124,Mujer,Emigración permanente,22,44,0.9871417691824197
+124,Mujer,Emigración permanente,23,45,0.9861587437944148
+124,Mujer,Emigración permanente,24,46,0.9850488122666867
+124,Mujer,Emigración permanente,25,47,0.9837469028029782
+124,Mujer,Emigración permanente,26,48,0.9824755574931406
+124,Mujer,Emigración permanente,27,49,0.9810684952987212
+124,Mujer,Emigración permanente,28,50,0.9794318670241791
+124,Mujer,Emigración permanente,29,51,0.9776735811421785
+124,Mujer,Emigración permanente,30,52,0.975679821184891
+124,Mujer,Emigración permanente,31,53,0.9736751211266971
+124,Mujer,Emigración permanente,32,54,0.9713263148952519
+124,Mujer,Emigración permanente,33,55,0.9687811388390688
+124,Mujer,Emigración permanente,34,56,0.9660903879771888
+124,Mujer,Emigración permanente,35,57,0.9631763115745099
+124,Mujer,Emigración permanente,36,58,0.9598650366282373
+124,Mujer,Emigración permanente,37,59,0.9562791728244016
+124,Mujer,Emigración permanente,38,60,0.9522226556988639
+124,Mujer,Emigración permanente,39,61,0.9478321760446473
+124,Mujer,Emigración permanente,40,62,0.9432866762346335
+124,Mujer,Emigración permanente,41,63,0.938287417209325
+124,Mujer,Emigración permanente,42,64,0.9329016662002918
+124,Mujer,Emigración permanente,43,65,0.9273960910431108
+124,Mujer,Emigración permanente,44,66,0.9213751944970752
+124,Mujer,Emigración permanente,45,67,0.9146846008809789
+124,Mujer,Emigración permanente,46,68,0.9076437155503915
+124,Mujer,Emigración permanente,47,69,0.9000262430561375
+124,Mujer,Emigración permanente,48,70,0.8912755399022508
+124,Mujer,Emigración permanente,49,71,0.8822090662108614
+124,Mujer,Emigración permanente,50,72,0.8718729901039562
+124,Mujer,Emigración permanente,51,73,0.8602261793904113
+124,Mujer,Emigración permanente,52,74,0.8484643584531771
+124,Mujer,Emigración permanente,53,75,0.8353355858101468
+124,Mujer,Emigración permanente,54,76,0.8210698666827306
+124,Mujer,Emigración permanente,55,77,0.8055051654372741
+124,Mujer,Emigración permanente,56,78,0.7885178670033675
+124,Mujer,Emigración permanente,57,79,0.7695703503921407
+124,Mujer,Emigración permanente,58,80,0.7486501191159756
+124,Mujer,Emigración permanente,59,81,0.7263701792735663
+124,Mujer,Emigración permanente,60,82,0.7022183417579131
+124,Mujer,Emigración permanente,61,83,0.675157332719493
+124,Mujer,Emigración permanente,62,84,0.6460808449908354
+124,Mujer,Emigración permanente,63,85,0.6139371600070204
+124,Mujer,Emigración permanente,64,86,0.5804748466269041
+124,Mujer,Emigración permanente,65,87,0.5442975760851645
+124,Mujer,Emigración permanente,66,88,0.5058908505214431
+124,Mujer,Emigración permanente,67,89,0.4641908241928961
+124,Mujer,Emigración permanente,68,90,0.42137926575053697
+124,Mujer,Emigración permanente,69,91,0.3759663500255215
+124,Mujer,Emigración permanente,70,92,0.33069454245104635
+124,Mujer,Emigración permanente,71,93,0.2850814903676131
+124,Mujer,Emigración permanente,72,94,0.2418757256264976
+124,Mujer,Emigración permanente,73,95,0.20011210349824848
+124,Mujer,Emigración permanente,74,96,0.1618067206892131
+124,Mujer,Emigración permanente,75,97,0.12739017392593158
+124,Mujer,Emigración permanente,76,98,0.09743070314243622
+124,Mujer,Emigración permanente,77,99,0.07222753150941336
+124,Mujer,Emigración permanente,78,100,0.05178820905971572
+124,Mujer,Emigración permanente,79,101,0
+840,Hombre,Permanece en Costa Rica,0,22,1
+840,Hombre,Permanece en Costa Rica,1,23,0.99840123
+840,Hombre,Permanece en Costa Rica,2,24,0.9967677956676585
+840,Hombre,Permanece en Costa Rica,3,25,0.9951242053140261
+840,Hombre,Permanece en Costa Rica,4,26,0.993485046674275
+840,Hombre,Permanece en Costa Rica,5,27,0.9918583440634019
+840,Hombre,Permanece en Costa Rica,6,28,0.9902475760312264
+840,Hombre,Permanece en Costa Rica,7,29,0.9886530892867766
+840,Hombre,Permanece en Costa Rica,8,30,0.9870729448272314
+840,Hombre,Permanece en Costa Rica,9,31,0.9855036469058979
+840,Hombre,Permanece en Costa Rica,10,32,0.9839404607312487
+840,Hombre,Permanece en Costa Rica,11,33,0.9823768514268868
+840,Hombre,Permanece en Costa Rica,12,34,0.9808039874976042
+840,Hombre,Permanece en Costa Rica,13,35,0.9792096906159269
+840,Hombre,Permanece en Costa Rica,14,36,0.9775775047352206
+840,Hombre,Permanece en Costa Rica,15,37,0.9758872732295335
+840,Hombre,Permanece en Costa Rica,16,38,0.9741156474737126
+840,Hombre,Permanece en Costa Rica,17,39,0.9722392669489228
+840,Hombre,Permanece en Costa Rica,18,40,0.9702389916034948
+840,Hombre,Permanece en Costa Rica,19,41,0.968104019512031
+840,Hombre,Permanece en Costa Rica,20,42,0.9658373491659464
+840,Hombre,Permanece en Costa Rica,21,43,0.9634536529298314
+840,Hombre,Permanece en Costa Rica,22,44,0.9609739833596763
+840,Hombre,Permanece en Costa Rica,23,45,0.9584172928574681
+840,Hombre,Permanece en Costa Rica,24,46,0.9557884884015811
+840,Hombre,Permanece en Costa Rica,25,47,0.953075826861109
+840,Hombre,Permanece en Costa Rica,26,48,0.9502488800587815
+840,Hombre,Permanece en Costa Rica,27,49,0.9472627324556856
+840,Hombre,Permanece en Costa Rica,28,50,0.9440673216076655
+840,Hombre,Permanece en Costa Rica,29,51,0.940612667735687
+840,Hombre,Permanece en Costa Rica,30,52,0.9368607143021161
+840,Hombre,Permanece en Costa Rica,31,53,0.9327886023643663
+840,Hombre,Permanece en Costa Rica,32,54,0.9283876404432091
+840,Hombre,Permanece en Costa Rica,33,55,0.9236608661784094
+840,Hombre,Permanece en Costa Rica,34,56,0.9186109720711868
+840,Hombre,Permanece en Costa Rica,35,57,0.913235003451554
+840,Hombre,Permanece en Costa Rica,36,58,0.9075165906980914
+840,Hombre,Permanece en Costa Rica,37,59,0.9014228073700378
+840,Hombre,Permanece en Costa Rica,38,60,0.8949040331251202
+840,Hombre,Permanece en Costa Rica,39,61,0.8878933638786584
+840,Hombre,Permanece en Costa Rica,40,62,0.8803116690812994
+840,Hombre,Permanece en Costa Rica,41,63,0.8720724712425832
+840,Hombre,Permanece en Costa Rica,42,64,0.8631025169386011
+840,Hombre,Permanece en Costa Rica,43,65,0.8533586936941261
+840,Hombre,Permanece en Costa Rica,44,66,0.8428599752901721
+840,Hombre,Permanece en Costa Rica,45,67,0.8317006693607256
+840,Hombre,Permanece en Costa Rica,46,68,0.820017703522162
+840,Hombre,Permanece en Costa Rica,47,69,0.8079588511812464
+840,Hombre,Permanece en Costa Rica,48,70,0.7955870055112991
+840,Hombre,Permanece en Costa Rica,49,71,0.7828368883816248
+840,Hombre,Permanece en Costa Rica,50,72,0.769482990575069
+840,Hombre,Permanece en Costa Rica,51,73,0.7551183898346323
+840,Hombre,Permanece en Costa Rica,52,74,0.7392239028470031
+840,Hombre,Permanece en Costa Rica,53,75,0.7211931082362324
+840,Hombre,Permanece en Costa Rica,54,76,0.7004793098945079
+840,Hombre,Permanece en Costa Rica,55,77,0.6767602258767218
+840,Hombre,Permanece en Costa Rica,56,78,0.6500319462062426
+840,Hombre,Permanece en Costa Rica,57,79,0.6206882820944339
+840,Hombre,Permanece en Costa Rica,58,80,0.5893236432029896
+840,Hombre,Permanece en Costa Rica,59,81,0.5565261323525422
+840,Hombre,Permanece en Costa Rica,60,82,0.5227015815151581
+840,Hombre,Permanece en Costa Rica,61,83,0.48797204440952696
+840,Hombre,Permanece en Costa Rica,62,84,0.4523152195650584
+840,Hombre,Permanece en Costa Rica,63,85,0.4156878819653377
+840,Hombre,Permanece en Costa Rica,64,86,0.37818083410291187
+840,Hombre,Permanece en Costa Rica,65,87,0.3401404749073767
+840,Hombre,Permanece en Costa Rica,66,88,0.30212275973848
+840,Hombre,Permanece en Costa Rica,67,89,0.26481855078181404
+840,Hombre,Permanece en Costa Rica,68,90,0.22890932742785808
+840,Hombre,Permanece en Costa Rica,69,91,0.19494642821777702
+840,Hombre,Permanece en Costa Rica,70,92,0.16334473494474838
+840,Hombre,Permanece en Costa Rica,71,93,0.1343960181979279
+840,Hombre,Permanece en Costa Rica,72,94,0.10833536963469897
+840,Hombre,Permanece en Costa Rica,73,95,0.08537833779468924
+840,Hombre,Permanece en Costa Rica,74,96,0.06580571756697574
+840,Hombre,Permanece en Costa Rica,75,97,0.04950786095248939
+840,Hombre,Permanece en Costa Rica,76,98,0.03630586701473819
+840,Hombre,Permanece en Costa Rica,77,99,0.025917847184559525
+840,Hombre,Permanece en Costa Rica,78,100,0.017989068963462532
+840,Hombre,Permanece en Costa Rica,79,101,0
+840,Hombre,Retorno tras 5 años,0,22,1
+840,Hombre,Retorno tras 5 años,1,23,0.99840123
+840,Hombre,Retorno tras 5 años,2,24,0.9967677956676585
+840,Hombre,Retorno tras 5 años,3,25,0.9951242053140261
+840,Hombre,Retorno tras 5 años,4,26,0.993485046674275
+840,Hombre,Retorno tras 5 años,5,27,0.9918583440634019
+840,Hombre,Retorno tras 5 años,6,28,0.9902474173338913
+840,Hombre,Retorno tras 5 años,7,29,0.9885619766196924
+840,Hombre,Retorno tras 5 años,8,30,0.9868055095852543
+840,Hombre,Retorno tras 5 años,9,31,0.9849958760376115
+840,Hombre,Retorno tras 5 años,10,32,0.9831748156619932
+840,Hombre,Retorno tras 5 años,11,33,0.9816124230671802
+840,Hombre,Retorno tras 5 años,12,34,0.9800407830488558
+840,Hombre,Retorno tras 5 años,13,35,0.9784477267560099
+840,Hombre,Retorno tras 5 años,14,36,0.976816810947144
+840,Hombre,Retorno tras 5 años,15,37,0.9751278946810163
+840,Hombre,Retorno tras 5 años,16,38,0.9733576475010124
+840,Hombre,Retorno tras 5 años,17,39,0.9714827270660901
+840,Hombre,Retorno tras 5 años,18,40,0.9694840082182515
+840,Hombre,Retorno tras 5 años,19,41,0.9673506974375277
+840,Hombre,Retorno tras 5 años,20,42,0.9650857908820822
+840,Hombre,Retorno tras 5 años,21,43,0.9627039494993275
+840,Hombre,Retorno tras 5 años,22,44,0.9602262094633824
+840,Hombre,Retorno tras 5 años,23,45,0.957671508428581
+840,Hombre,Retorno tras 5 años,24,46,0.9550447495549724
+840,Hombre,Retorno tras 5 años,25,47,0.9523341988494705
+840,Hombre,Retorno tras 5 años,26,48,0.9495094518122371
+840,Hombre,Retorno tras 5 años,27,49,0.9465256278550117
+840,Hombre,Retorno tras 5 años,28,50,0.9433327034893121
+840,Hombre,Retorno tras 5 años,29,51,0.9398807378274526
+840,Hombre,Retorno tras 5 años,30,52,0.936131703945177
+840,Hombre,Retorno tras 5 años,31,53,0.9320627606873941
+840,Hombre,Retorno tras 5 años,32,54,0.9276652233380777
+840,Hombre,Retorno tras 5 años,33,55,0.9229421271732787
+840,Hombre,Retorno tras 5 años,34,56,0.9178961625990694
+840,Hombre,Retorno tras 5 años,35,57,0.912524377244614
+840,Hombre,Retorno tras 5 años,36,58,0.9068104142263776
+840,Hombre,Retorno tras 5 años,37,59,0.9007213727250346
+840,Hombre,Retorno tras 5 años,38,60,0.8942076710099676
+840,Hombre,Retorno tras 5 años,39,61,0.8872024570573522
+840,Hombre,Retorno tras 5 años,40,62,0.8796266618926132
+840,Hombre,Retorno tras 5 años,41,63,0.8713938753170288
+840,Hombre,Retorno tras 5 años,42,64,0.8624309009082317
+840,Hombre,Retorno tras 5 años,43,65,0.8526946597386085
+840,Hombre,Retorno tras 5 años,44,66,0.8422041108248831
+840,Hombre,Retorno tras 5 años,45,67,0.8310534884163427
+840,Hombre,Retorno tras 5 años,46,68,0.8193796135802793
+840,Hombre,Retorno tras 5 años,47,69,0.8073301447348131
+840,Hombre,Retorno tras 5 años,48,70,0.7949679261134657
+840,Hombre,Retorno tras 5 años,49,71,0.7822277303811749
+840,Hombre,Retorno tras 5 años,50,72,0.7688842237989045
+840,Hombre,Retorno tras 5 años,51,73,0.754530800752818
+840,Hombre,Retorno tras 5 años,52,74,0.7386486819277719
+840,Hombre,Retorno tras 5 años,53,75,0.720631917829557
+840,Hombre,Retorno tras 5 años,54,76,0.6999342377573812
+840,Hombre,Retorno tras 5 años,55,77,0.6762336105471461
+840,Hombre,Retorno tras 5 años,56,78,0.6495261292647363
+840,Hombre,Retorno tras 5 años,57,79,0.6202052986806031
+840,Hombre,Retorno tras 5 años,58,80,0.588865065921516
+840,Hombre,Retorno tras 5 años,59,81,0.556093076180799
+840,Hombre,Retorno tras 5 años,60,82,0.5222948456357516
+840,Hombre,Retorno tras 5 años,61,83,0.4875923330299796
+840,Hombre,Retorno tras 5 años,62,84,0.4519632542465961
+840,Hombre,Retorno tras 5 años,63,85,0.41536441790437256
+840,Hombre,Retorno tras 5 años,64,86,0.37788655583865327
+840,Hombre,Retorno tras 5 años,65,87,0.33987579743159374
+840,Hombre,Retorno tras 5 años,66,88,0.30188766543091217
+840,Hombre,Retorno tras 5 años,67,89,0.2646124844335486
+840,Hombre,Retorno tras 5 años,68,90,0.2287312035424743
+840,Hombre,Retorno tras 5 años,69,91,0.19479473227936325
+840,Hombre,Retorno tras 5 años,70,92,0.1632176296005832
+840,Hombre,Retorno tras 5 años,71,93,0.13429143905643762
+840,Hombre,Retorno tras 5 años,72,94,0.10825106936969602
+840,Hombre,Retorno tras 5 años,73,95,0.08531190135268629
+840,Hombre,Retorno tras 5 años,74,96,0.06575451139628272
+840,Hombre,Retorno tras 5 años,75,97,0.04946933682309289
+840,Hombre,Retorno tras 5 años,76,98,0.036277615906897556
+840,Hombre,Retorno tras 5 años,77,99,0.025897679427774902
+840,Hombre,Retorno tras 5 años,78,100,0.017975070919371394
+840,Hombre,Retorno tras 5 años,79,101,0
+840,Hombre,Retorno tras 20 años,0,22,1
+840,Hombre,Retorno tras 20 años,1,23,0.99840123
+840,Hombre,Retorno tras 20 años,2,24,0.9967677956676585
+840,Hombre,Retorno tras 20 años,3,25,0.9951242053140261
+840,Hombre,Retorno tras 20 años,4,26,0.993485046674275
+840,Hombre,Retorno tras 20 años,5,27,0.9918583440634019
+840,Hombre,Retorno tras 20 años,6,28,0.9902474173338913
+840,Hombre,Retorno tras 20 años,7,29,0.9885619766196924
+840,Hombre,Retorno tras 20 años,8,30,0.9868055095852543
+840,Hombre,Retorno tras 20 años,9,31,0.9849958760376115
+840,Hombre,Retorno tras 20 años,10,32,0.9831748156619932
+840,Hombre,Retorno tras 20 años,11,33,0.9813380091443809
+840,Hombre,Retorno tras 20 años,12,34,0.9794659596912365
+840,Hombre,Retorno tras 20 años,13,35,0.9774822081044355
+840,Hombre,Retorno tras 20 años,14,36,0.975452270802865
+840,Hombre,Retorno tras 20 años,15,37,0.973372947969808
+840,Hombre,Retorno tras 20 años,16,38,0.9711998149936295
+840,Hombre,Retorno tras 20 años,17,39,0.9689562948610035
+840,Hombre,Retorno tras 20 años,18,40,0.9666348209219608
+840,Hombre,Retorno tras 20 años,19,41,0.964111836374917
+840,Hombre,Retorno tras 20 años,20,42,0.9616430544777486
+840,Hombre,Retorno tras 20 años,21,43,0.9590165380359146
+840,Hombre,Retorno tras 20 años,22,44,0.9563796453432617
+840,Hombre,Retorno tras 20 años,23,45,0.9535584305912601
+840,Hombre,Retorno tras 20 años,24,46,0.950492921413011
+840,Hombre,Retorno tras 20 años,25,47,0.9471929620687324
+840,Hombre,Retorno tras 20 años,26,48,0.9443834646081515
+840,Hombre,Retorno tras 20 años,27,49,0.941415749014455
+840,Hombre,Retorno tras 20 años,28,50,0.9382400618541471
+840,Hombre,Retorno tras 20 años,29,51,0.9348067318486024
+840,Hombre,Retorno tras 20 años,30,52,0.9310779373643354
+840,Hombre,Retorno tras 20 años,31,53,0.9270309605556846
+840,Hombre,Retorno tras 20 años,32,54,0.9226571635916155
+840,Hombre,Retorno tras 20 años,33,55,0.9179595653620485
+840,Hombre,Retorno tras 20 años,34,56,0.9129408417487272
+840,Hombre,Retorno tras 20 años,35,57,0.907598056319378
+840,Hombre,Retorno tras 20 años,36,58,0.9019149404941423
+840,Hombre,Retorno tras 20 años,37,59,0.8958587710708616
+840,Hombre,Retorno tras 20 años,38,60,0.8893802339890471
+840,Hombre,Retorno tras 20 años,39,61,0.8824128381297792
+840,Hombre,Retorno tras 20 años,40,62,0.8748779413773742
+840,Hombre,Retorno tras 20 años,41,63,0.8666896000240674
+840,Hombre,Retorno tras 20 años,42,64,0.8577750128030359
+840,Hombre,Retorno tras 20 años,43,65,0.8480913333509986
+840,Hombre,Retorno tras 20 años,44,66,0.8376574183332213
+840,Hombre,Retorno tras 20 años,45,67,0.8265669932693989
+840,Hombre,Retorno tras 20 años,46,68,0.8149561405895842
+840,Hombre,Retorno tras 20 años,47,69,0.80297172156853
+840,Hombre,Retorno tras 20 años,48,70,0.7906762411711635
+840,Hombre,Retorno tras 20 años,49,71,0.7780048241963424
+840,Hombre,Retorno tras 20 años,50,72,0.764733353383561
+840,Hombre,Retorno tras 20 años,51,73,0.7504574182052662
+840,Hombre,Retorno tras 20 años,52,74,0.7346610400094635
+840,Hombre,Retorno tras 20 años,53,75,0.716741540558852
+840,Hombre,Retorno tras 20 años,54,76,0.696155598229783
+840,Hombre,Retorno tras 20 años,55,77,0.6725829203638928
+840,Hombre,Retorno tras 20 años,56,78,0.6460196211188978
+840,Hombre,Retorno tras 20 años,57,79,0.616857080904703
+840,Hombre,Retorno tras 20 años,58,80,0.5856860403867142
+840,Hombre,Retorno tras 20 años,59,81,0.5530909723182804
+840,Hombre,Retorno tras 20 años,60,82,0.5194752036718102
+840,Hombre,Retorno tras 20 años,61,83,0.4849600347888704
+840,Hombre,Retorno tras 20 años,62,84,0.44952330185479716
+840,Hombre,Retorno tras 20 años,63,85,0.41312204665978247
+840,Hombre,Retorno tras 20 años,64,86,0.375846511217583
+840,Hombre,Retorno tras 20 años,65,87,0.33804095630885655
+840,Hombre,Retorno tras 20 años,66,88,0.3002579056564132
+840,Hombre,Retorno tras 20 años,67,89,0.263183957095923
+840,Hombre,Retorno tras 20 años,68,90,0.227496383583288
+840,Hombre,Retorno tras 20 años,69,91,0.19374312052006845
+840,Hombre,Retorno tras 20 años,70,92,0.16233648883972301
+840,Hombre,Retorno tras 20 años,71,93,0.13356645817614443
+840,Hombre,Retorno tras 20 años,72,94,0.10766666908241233
+840,Hombre,Retorno tras 20 años,73,95,0.08485133962383205
+840,Hombre,Retorno tras 20 años,74,96,0.06539953148177535
+840,Hombre,Retorno tras 20 años,75,97,0.04920227345993648
+840,Hombre,Retorno tras 20 años,76,98,0.03608176888865191
+840,Hombre,Retorno tras 20 años,77,99,0.02575786915720949
+840,Hombre,Retorno tras 20 años,78,100,0.01787803135504755
+840,Hombre,Retorno tras 20 años,79,101,0
+840,Hombre,Emigración permanente,0,22,1
+840,Hombre,Emigración permanente,1,23,0.99840123
+840,Hombre,Emigración permanente,2,24,0.9967677956676585
+840,Hombre,Emigración permanente,3,25,0.9951242053140261
+840,Hombre,Emigración permanente,4,26,0.993485046674275
+840,Hombre,Emigración permanente,5,27,0.9918583440634019
+840,Hombre,Emigración permanente,6,28,0.9902474173338913
+840,Hombre,Emigración permanente,7,29,0.9885619766196924
+840,Hombre,Emigración permanente,8,30,0.9868055095852543
+840,Hombre,Emigración permanente,9,31,0.9849958760376115
+840,Hombre,Emigración permanente,10,32,0.9831748156619932
+840,Hombre,Emigración permanente,11,33,0.9813380091443809
+840,Hombre,Emigración permanente,12,34,0.9794659596912365
+840,Hombre,Emigración permanente,13,35,0.9774822081044355
+840,Hombre,Emigración permanente,14,36,0.975452270802865
+840,Hombre,Emigración permanente,15,37,0.973372947969808
+840,Hombre,Emigración permanente,16,38,0.9711998149936295
+840,Hombre,Emigración permanente,17,39,0.9689562948610035
+840,Hombre,Emigración permanente,18,40,0.9666348209219608
+840,Hombre,Emigración permanente,19,41,0.964111836374917
+840,Hombre,Emigración permanente,20,42,0.9616430544777486
+840,Hombre,Emigración permanente,21,43,0.9590165380359146
+840,Hombre,Emigración permanente,22,44,0.9563796453432617
+840,Hombre,Emigración permanente,23,45,0.9535584305912601
+840,Hombre,Emigración permanente,24,46,0.950492921413011
+840,Hombre,Emigración permanente,25,47,0.9471929620687324
+840,Hombre,Emigración permanente,26,48,0.9436055160845452
+840,Hombre,Emigración permanente,27,49,0.9397908964252218
+840,Hombre,Emigración permanente,28,50,0.9356474053524279
+840,Hombre,Emigración permanente,29,51,0.9311492991641441
+840,Hombre,Emigración permanente,30,52,0.9262046729097507
+840,Hombre,Emigración permanente,31,53,0.9208722069602673
+840,Hombre,Emigración permanente,32,54,0.9152319751973005
+840,Hombre,Emigración permanente,33,55,0.9088775562027845
+840,Hombre,Emigración permanente,34,56,0.9018808895322776
+840,Hombre,Emigración permanente,35,57,0.8944477585981216
+840,Hombre,Emigración permanente,36,58,0.8864235425330517
+840,Hombre,Emigración permanente,37,59,0.8780147958450518
+840,Hombre,Emigración permanente,38,60,0.8688904221858902
+840,Hombre,Emigración permanente,39,61,0.8593803643816403
+840,Hombre,Emigración permanente,40,62,0.8491030002287857
+840,Hombre,Emigración permanente,41,63,0.8381975543363773
+840,Hombre,Emigración permanente,42,64,0.8267030495226431
+840,Hombre,Emigración permanente,43,65,0.8147754523274048
+840,Hombre,Emigración permanente,44,66,0.8021680651045894
+840,Hombre,Emigración permanente,45,67,0.7889412763126928
+840,Hombre,Emigración permanente,46,68,0.7751459596068677
+840,Hombre,Emigración permanente,47,69,0.7610272883179368
+840,Hombre,Emigración permanente,48,70,0.7463330081419957
+840,Hombre,Emigración permanente,49,71,0.7305857548367036
+840,Hombre,Emigración permanente,50,72,0.7139778383644566
+840,Hombre,Emigración permanente,51,73,0.6964840033472993
+840,Hombre,Emigración permanente,52,74,0.6779764035747519
+840,Hombre,Emigración permanente,53,75,0.6582797110623455
+840,Hombre,Emigración permanente,54,76,0.6368043558224887
+840,Hombre,Emigración permanente,55,77,0.614180811250577
+840,Hombre,Emigración permanente,56,78,0.5902888828861401
+840,Hombre,Emigración permanente,57,79,0.5653969614692703
+840,Hombre,Emigración permanente,58,80,0.5391654994832046
+840,Hombre,Emigración permanente,59,81,0.5115835124675873
+840,Hombre,Emigración permanente,60,82,0.48248573195131245
+840,Hombre,Emigración permanente,61,83,0.45231737553873663
+840,Hombre,Emigración permanente,62,84,0.4208881660238601
+840,Hombre,Emigración permanente,63,85,0.38818260494152007
+840,Hombre,Emigración permanente,64,86,0.35446226896154404
+840,Hombre,Emigración permanente,65,87,0.32063533204868666
+840,Hombre,Emigración permanente,66,88,0.28522319886462105
+840,Hombre,Emigración permanente,67,89,0.2509774847371579
+840,Hombre,Emigración permanente,68,90,0.217220357988775
+840,Hombre,Emigración permanente,69,91,0.1847872080595068
+840,Hombre,Emigración permanente,70,92,0.15386847012083993
+840,Hombre,Emigración permanente,71,93,0.1252508549568708
+840,Hombre,Emigración permanente,72,94,0.09933821284080639
+840,Hombre,Emigración permanente,73,95,0.07669646822834893
+840,Hombre,Emigración permanente,74,96,0.05785604906791174
+840,Hombre,Emigración permanente,75,97,0.042383180045158966
+840,Hombre,Emigración permanente,76,98,0.030099032408171095
+840,Hombre,Emigración permanente,77,99,0.020688104895705696
+840,Hombre,Emigración permanente,78,100,0.013742380481568112
+840,Hombre,Emigración permanente,79,101,0
+558,Hombre,Permanece en Costa Rica,0,22,1
+558,Hombre,Permanece en Costa Rica,1,23,0.99840123
+558,Hombre,Permanece en Costa Rica,2,24,0.9967677956676585
+558,Hombre,Permanece en Costa Rica,3,25,0.9951242053140261
+558,Hombre,Permanece en Costa Rica,4,26,0.993485046674275
+558,Hombre,Permanece en Costa Rica,5,27,0.9918583440634019
+558,Hombre,Permanece en Costa Rica,6,28,0.9902475760312264
+558,Hombre,Permanece en Costa Rica,7,29,0.9886530892867766
+558,Hombre,Permanece en Costa Rica,8,30,0.9870729448272314
+558,Hombre,Permanece en Costa Rica,9,31,0.9855036469058979
+558,Hombre,Permanece en Costa Rica,10,32,0.9839404607312487
+558,Hombre,Permanece en Costa Rica,11,33,0.9823768514268868
+558,Hombre,Permanece en Costa Rica,12,34,0.9808039874976042
+558,Hombre,Permanece en Costa Rica,13,35,0.9792096906159269
+558,Hombre,Permanece en Costa Rica,14,36,0.9775775047352206
+558,Hombre,Permanece en Costa Rica,15,37,0.9758872732295335
+558,Hombre,Permanece en Costa Rica,16,38,0.9741156474737126
+558,Hombre,Permanece en Costa Rica,17,39,0.9722392669489228
+558,Hombre,Permanece en Costa Rica,18,40,0.9702389916034948
+558,Hombre,Permanece en Costa Rica,19,41,0.968104019512031
+558,Hombre,Permanece en Costa Rica,20,42,0.9658373491659464
+558,Hombre,Permanece en Costa Rica,21,43,0.9634536529298314
+558,Hombre,Permanece en Costa Rica,22,44,0.9609739833596763
+558,Hombre,Permanece en Costa Rica,23,45,0.9584172928574681
+558,Hombre,Permanece en Costa Rica,24,46,0.9557884884015811
+558,Hombre,Permanece en Costa Rica,25,47,0.953075826861109
+558,Hombre,Permanece en Costa Rica,26,48,0.9502488800587815
+558,Hombre,Permanece en Costa Rica,27,49,0.9472627324556856
+558,Hombre,Permanece en Costa Rica,28,50,0.9440673216076655
+558,Hombre,Permanece en Costa Rica,29,51,0.940612667735687
+558,Hombre,Permanece en Costa Rica,30,52,0.9368607143021161
+558,Hombre,Permanece en Costa Rica,31,53,0.9327886023643663
+558,Hombre,Permanece en Costa Rica,32,54,0.9283876404432091
+558,Hombre,Permanece en Costa Rica,33,55,0.9236608661784094
+558,Hombre,Permanece en Costa Rica,34,56,0.9186109720711868
+558,Hombre,Permanece en Costa Rica,35,57,0.913235003451554
+558,Hombre,Permanece en Costa Rica,36,58,0.9075165906980914
+558,Hombre,Permanece en Costa Rica,37,59,0.9014228073700378
+558,Hombre,Permanece en Costa Rica,38,60,0.8949040331251202
+558,Hombre,Permanece en Costa Rica,39,61,0.8878933638786584
+558,Hombre,Permanece en Costa Rica,40,62,0.8803116690812994
+558,Hombre,Permanece en Costa Rica,41,63,0.8720724712425832
+558,Hombre,Permanece en Costa Rica,42,64,0.8631025169386011
+558,Hombre,Permanece en Costa Rica,43,65,0.8533586936941261
+558,Hombre,Permanece en Costa Rica,44,66,0.8428599752901721
+558,Hombre,Permanece en Costa Rica,45,67,0.8317006693607256
+558,Hombre,Permanece en Costa Rica,46,68,0.820017703522162
+558,Hombre,Permanece en Costa Rica,47,69,0.8079588511812464
+558,Hombre,Permanece en Costa Rica,48,70,0.7955870055112991
+558,Hombre,Permanece en Costa Rica,49,71,0.7828368883816248
+558,Hombre,Permanece en Costa Rica,50,72,0.769482990575069
+558,Hombre,Permanece en Costa Rica,51,73,0.7551183898346323
+558,Hombre,Permanece en Costa Rica,52,74,0.7392239028470031
+558,Hombre,Permanece en Costa Rica,53,75,0.7211931082362324
+558,Hombre,Permanece en Costa Rica,54,76,0.7004793098945079
+558,Hombre,Permanece en Costa Rica,55,77,0.6767602258767218
+558,Hombre,Permanece en Costa Rica,56,78,0.6500319462062426
+558,Hombre,Permanece en Costa Rica,57,79,0.6206882820944339
+558,Hombre,Permanece en Costa Rica,58,80,0.5893236432029896
+558,Hombre,Permanece en Costa Rica,59,81,0.5565261323525422
+558,Hombre,Permanece en Costa Rica,60,82,0.5227015815151581
+558,Hombre,Permanece en Costa Rica,61,83,0.48797204440952696
+558,Hombre,Permanece en Costa Rica,62,84,0.4523152195650584
+558,Hombre,Permanece en Costa Rica,63,85,0.4156878819653377
+558,Hombre,Permanece en Costa Rica,64,86,0.37818083410291187
+558,Hombre,Permanece en Costa Rica,65,87,0.3401404749073767
+558,Hombre,Permanece en Costa Rica,66,88,0.30212275973848
+558,Hombre,Permanece en Costa Rica,67,89,0.26481855078181404
+558,Hombre,Permanece en Costa Rica,68,90,0.22890932742785808
+558,Hombre,Permanece en Costa Rica,69,91,0.19494642821777702
+558,Hombre,Permanece en Costa Rica,70,92,0.16334473494474838
+558,Hombre,Permanece en Costa Rica,71,93,0.1343960181979279
+558,Hombre,Permanece en Costa Rica,72,94,0.10833536963469897
+558,Hombre,Permanece en Costa Rica,73,95,0.08537833779468924
+558,Hombre,Permanece en Costa Rica,74,96,0.06580571756697574
+558,Hombre,Permanece en Costa Rica,75,97,0.04950786095248939
+558,Hombre,Permanece en Costa Rica,76,98,0.03630586701473819
+558,Hombre,Permanece en Costa Rica,77,99,0.025917847184559525
+558,Hombre,Permanece en Costa Rica,78,100,0.017989068963462532
+558,Hombre,Permanece en Costa Rica,79,101,0
+558,Hombre,Retorno tras 5 años,0,22,1
+558,Hombre,Retorno tras 5 años,1,23,0.99840123
+558,Hombre,Retorno tras 5 años,2,24,0.9967677956676585
+558,Hombre,Retorno tras 5 años,3,25,0.9951242053140261
+558,Hombre,Retorno tras 5 años,4,26,0.993485046674275
+558,Hombre,Retorno tras 5 años,5,27,0.9918583440634019
+558,Hombre,Retorno tras 5 años,6,28,0.9900678909736158
+558,Hombre,Retorno tras 5 años,7,29,0.9881726931160352
+558,Hombre,Retorno tras 5 años,8,30,0.9862244019525607
+558,Hombre,Retorno tras 5 años,9,31,0.9842457103481912
+558,Hombre,Retorno tras 5 años,10,32,0.9822191976428698
+558,Hombre,Retorno tras 5 años,11,33,0.9806583236493196
+558,Hombre,Retorno tras 5 años,12,34,0.9790882112204911
+558,Hombre,Retorno tras 5 años,13,35,0.9774967033331522
+558,Hombre,Retorno tras 5 años,14,36,0.9758673727281685
+558,Hombre,Retorno tras 5 años,15,37,0.9741800980407215
+558,Hombre,Retorno tras 5 años,16,38,0.9724115714907383
+558,Hombre,Retorno tras 5 años,17,39,0.97053847342527
+558,Hombre,Retorno tras 5 años,18,40,0.9685416972754296
+558,Hombre,Retorno tras 5 años,19,41,0.966410460012243
+558,Hombre,Retorno tras 5 años,20,42,0.9641477548816932
+558,Hombre,Retorno tras 5 años,21,43,0.9617682285811677
+558,Hombre,Retorno tras 5 años,22,44,0.9592928968382214
+558,Hombre,Retorno tras 5 años,23,45,0.9567406789003253
+558,Hombre,Retorno tras 5 años,24,46,0.9541164731617968
+558,Hombre,Retorno tras 5 años,25,47,0.9514085570346573
+558,Hombre,Retorno tras 5 años,26,48,0.9485865555713802
+558,Hombre,Retorno tras 5 años,27,49,0.9456056318063626
+558,Hombre,Retorno tras 5 años,28,50,0.9424158108725339
+558,Hombre,Retorno tras 5 años,29,51,0.9389672004233338
+558,Hombre,Retorno tras 5 años,30,52,0.9352218104955972
+558,Hombre,Retorno tras 5 años,31,53,0.9311568221351876
+558,Hombre,Retorno tras 5 años,32,54,0.9267635590673762
+558,Hombre,Retorno tras 5 años,33,55,0.9220450536180117
+558,Hombre,Retorno tras 5 años,34,56,0.9170039935781682
+558,Hombre,Retorno tras 5 años,35,57,0.9116374294466305
+558,Hombre,Retorno tras 5 años,36,58,0.9059290202382903
+558,Hombre,Retorno tras 5 años,37,59,0.8998458971124844
+558,Hombre,Retorno tras 5 años,38,60,0.8933385265306308
+558,Hombre,Retorno tras 5 años,39,61,0.8863401214471752
+558,Hombre,Retorno tras 5 años,40,62,0.8787716897403414
+558,Hombre,Retorno tras 5 años,41,63,0.8705469051996688
+558,Hombre,Retorno tras 5 años,42,64,0.8615926425476351
+558,Hombre,Retorno tras 5 años,43,65,0.8518658647281222
+558,Hombre,Retorno tras 5 años,44,66,0.8413855123302276
+558,Hombre,Retorno tras 5 años,45,67,0.8302457280102228
+558,Hombre,Retorno tras 5 años,46,68,0.818583199849205
+558,Hombre,Retorno tras 5 años,47,69,0.8065454427455025
+558,Hombre,Retorno tras 5 años,48,70,0.7941952398498253
+558,Hombre,Retorno tras 5 años,49,71,0.78146742722623
+558,Hombre,Retorno tras 5 años,50,72,0.7681368901536797
+558,Hombre,Retorno tras 5 años,51,73,0.7537974182274555
+558,Hombre,Retorno tras 5 años,52,74,0.7379307363711858
+558,Hombre,Retorno tras 5 años,53,75,0.7199314840563733
+558,Hombre,Retorno tras 5 años,54,76,0.6992539215418443
+558,Hombre,Retorno tras 5 años,55,77,0.6755763306686532
+558,Hombre,Retorno tras 5 años,56,78,0.6488948083001133
+558,Hombre,Retorno tras 5 años,57,79,0.6196024767312066
+558,Hombre,Retorno tras 5 años,58,80,0.588292705788951
+558,Hombre,Retorno tras 5 años,59,81,0.5555525694922195
+558,Hombre,Retorno tras 5 años,60,82,0.5217871898680957
+558,Hombre,Retorno tras 5 años,61,83,0.4871184071197476
+558,Hombre,Retorno tras 5 años,62,84,0.45152395878981727
+558,Hombre,Retorno tras 5 años,63,85,0.41496069547787323
+558,Hombre,Retorno tras 5 años,64,86,0.3775192608304906
+558,Hombre,Retorno tras 5 años,65,87,0.33954544780188844
+558,Hombre,Retorno tras 5 años,66,88,0.3015942391874393
+558,Hombre,Retorno tras 5 años,67,89,0.26435528860816593
+558,Hombre,Retorno tras 5 años,68,90,0.2285088833038362
+558,Hombre,Retorno tras 5 años,69,91,0.19460539732770346
+558,Hombre,Retorno tras 5 años,70,92,0.16305898669659477
+558,Hombre,Retorno tras 5 años,71,93,0.13416091158875637
+558,Hombre,Retorno tras 5 años,72,94,0.10814585240234581
+558,Hombre,Retorno tras 5 años,73,95,0.08522898060565372
+558,Hombre,Retorno tras 5 años,74,96,0.06569059987726499
+558,Hombre,Retorno tras 5 años,75,97,0.04942125403160031
+558,Hombre,Retorno tras 5 años,76,98,0.03624235509376523
+558,Hombre,Retorno tras 5 años,77,99,0.025872507618326143
+558,Hombre,Retorno tras 5 años,78,100,0.01795759966055563
+558,Hombre,Retorno tras 5 años,79,101,0
+558,Hombre,Retorno tras 20 años,0,22,1
+558,Hombre,Retorno tras 20 años,1,23,0.99840123
+558,Hombre,Retorno tras 20 años,2,24,0.9967677956676585
+558,Hombre,Retorno tras 20 años,3,25,0.9951242053140261
+558,Hombre,Retorno tras 20 años,4,26,0.993485046674275
+558,Hombre,Retorno tras 20 años,5,27,0.9918583440634019
+558,Hombre,Retorno tras 20 años,6,28,0.9900678909736158
+558,Hombre,Retorno tras 20 años,7,29,0.9881726931160352
+558,Hombre,Retorno tras 20 años,8,30,0.9862244019525607
+558,Hombre,Retorno tras 20 años,9,31,0.9842457103481912
+558,Hombre,Retorno tras 20 años,10,32,0.9822191976428698
+558,Hombre,Retorno tras 20 años,11,33,0.9800946280517924
+558,Hombre,Retorno tras 20 años,12,34,0.9777918663203459
+558,Hombre,Retorno tras 20 años,13,35,0.9752317040988406
+558,Hombre,Retorno tras 20 años,14,36,0.9723554239769908
+558,Hombre,Retorno tras 20 años,15,37,0.9691596903641023
+558,Hombre,Retorno tras 20 años,16,38,0.965723166401234
+558,Hombre,Retorno tras 20 años,17,39,0.962170898592102
+558,Hombre,Retorno tras 20 años,18,40,0.9586376723485459
+558,Hombre,Retorno tras 20 años,19,41,0.955202566804466
+558,Hombre,Retorno tras 20 años,20,42,0.9518683271727527
+558,Hombre,Retorno tras 20 años,21,43,0.9485821255160714
+558,Hombre,Retorno tras 20 años,22,44,0.9452486751255103
+558,Hombre,Retorno tras 20 años,23,45,0.9417639402647661
+558,Hombre,Retorno tras 20 años,24,46,0.9380285277720999
+558,Hombre,Retorno tras 20 años,25,47,0.9339641252035455
+558,Hombre,Retorno tras 20 años,26,48,0.9311938661928556
+558,Hombre,Retorno tras 20 años,27,49,0.9282675987802832
+558,Hombre,Retorno tras 20 años,28,50,0.9251362644066418
+558,Hombre,Retorno tras 20 años,29,51,0.9217508855202106
+558,Hombre,Retorno tras 20 años,30,52,0.9180741687180122
+558,Hombre,Retorno tras 20 años,31,53,0.914083713439971
+558,Hombre,Retorno tras 20 años,32,54,0.9097710024941011
+558,Hombre,Retorno tras 20 años,33,55,0.9051390126074228
+558,Hombre,Retorno tras 20 años,34,56,0.9001903822893548
+558,Hombre,Retorno tras 20 años,35,57,0.8949222161188903
+558,Hombre,Retorno tras 20 años,36,58,0.8893184727289966
+558,Hombre,Retorno tras 20 años,37,59,0.8833468859415007
+558,Hombre,Retorno tras 20 años,38,60,0.8769588304337818
+558,Hombre,Retorno tras 20 años,39,61,0.8700887437257518
+558,Hombre,Retorno tras 20 años,40,62,0.8626590820457399
+558,Hombre,Retorno tras 20 años,41,63,0.8545851020066503
+558,Hombre,Retorno tras 20 años,42,64,0.8457950191102813
+558,Hombre,Retorno tras 20 años,43,65,0.8362465854010397
+558,Hombre,Retorno tras 20 años,44,66,0.825958394185236
+558,Hombre,Retorno tras 20 años,45,67,0.8150228619783184
+558,Hombre,Retorno tras 20 años,46,68,0.80357417063428
+558,Hombre,Retorno tras 20 años,47,69,0.7917571303106006
+558,Hombre,Retorno tras 20 años,48,70,0.7796333730054334
+558,Hombre,Retorno tras 20 años,49,71,0.7671389295879797
+558,Hombre,Retorno tras 20 años,50,72,0.7540528128998318
+558,Hombre,Retorno tras 20 años,51,73,0.7399762605560116
+558,Hombre,Retorno tras 20 años,52,74,0.7244005002475682
+558,Hombre,Retorno tras 20 años,53,75,0.7067312709577696
+558,Hombre,Retorno tras 20 años,54,76,0.6864328392877671
+558,Hombre,Retorno tras 20 años,55,77,0.6631893859014193
+558,Hombre,Retorno tras 20 años,56,78,0.6369970792275111
+558,Hombre,Retorno tras 20 años,57,79,0.6082418335166724
+558,Hombre,Retorno tras 20 años,58,80,0.577506138938153
+558,Hombre,Retorno tras 20 años,59,81,0.5453663052890556
+558,Hombre,Retorno tras 20 años,60,82,0.5122200265325343
+558,Hombre,Retorno tras 20 años,61,83,0.4781869088860496
+558,Hombre,Retorno tras 20 años,62,84,0.44324509808272805
+558,Hombre,Retorno tras 20 años,63,85,0.4073522358825379
+558,Hombre,Retorno tras 20 años,64,86,0.37059730394688306
+558,Hombre,Retorno tras 20 años,65,87,0.33331975498679994
+558,Hombre,Retorno tras 20 años,66,88,0.2960643959804797
+558,Hombre,Retorno tras 20 años,67,89,0.25950823549179264
+558,Hombre,Retorno tras 20 años,68,90,0.22431908743945864
+558,Hombre,Retorno tras 20 años,69,91,0.19103723456256042
+558,Hombre,Retorno tras 20 años,70,92,0.16006923917241384
+558,Hombre,Retorno tras 20 años,71,93,0.13170102108293175
+558,Hombre,Retorno tras 20 años,72,94,0.10616295773937351
+558,Hombre,Retorno tras 20 años,73,95,0.08366627536065947
+558,Hombre,Retorno tras 20 años,74,96,0.06448613815256132
+558,Hombre,Retorno tras 20 años,75,97,0.04851509684961177
+558,Hombre,Retorno tras 20 años,76,98,0.03557783795424879
+558,Hombre,Retorno tras 20 años,77,99,0.02539812551180556
+558,Hombre,Retorno tras 20 años,78,100,0.017628340352540444
+558,Hombre,Retorno tras 20 años,79,101,0
+558,Hombre,Emigración permanente,0,22,1
+558,Hombre,Emigración permanente,1,23,0.99840123
+558,Hombre,Emigración permanente,2,24,0.9967677956676585
+558,Hombre,Emigración permanente,3,25,0.9951242053140261
+558,Hombre,Emigración permanente,4,26,0.993485046674275
+558,Hombre,Emigración permanente,5,27,0.9918583440634019
+558,Hombre,Emigración permanente,6,28,0.9900678909736158
+558,Hombre,Emigración permanente,7,29,0.9881726931160352
+558,Hombre,Emigración permanente,8,30,0.9862244019525607
+558,Hombre,Emigración permanente,9,31,0.9842457103481912
+558,Hombre,Emigración permanente,10,32,0.9822191976428698
+558,Hombre,Emigración permanente,11,33,0.9800946280517924
+558,Hombre,Emigración permanente,12,34,0.9777918663203459
+558,Hombre,Emigración permanente,13,35,0.9752317040988406
+558,Hombre,Emigración permanente,14,36,0.9723554239769908
+558,Hombre,Emigración permanente,15,37,0.9691596903641023
+558,Hombre,Emigración permanente,16,38,0.965723166401234
+558,Hombre,Emigración permanente,17,39,0.962170898592102
+558,Hombre,Emigración permanente,18,40,0.9586376723485459
+558,Hombre,Emigración permanente,19,41,0.955202566804466
+558,Hombre,Emigración permanente,20,42,0.9518683271727527
+558,Hombre,Emigración permanente,21,43,0.9485821255160714
+558,Hombre,Emigración permanente,22,44,0.9452486751255103
+558,Hombre,Emigración permanente,23,45,0.9417639402647661
+558,Hombre,Emigración permanente,24,46,0.9380285277720999
+558,Hombre,Emigración permanente,25,47,0.9339641252035455
+558,Hombre,Emigración permanente,26,48,0.9295294207064067
+558,Hombre,Emigración permanente,27,49,0.9247115209941781
+558,Hombre,Emigración permanente,28,50,0.9195196911710954
+558,Hombre,Emigración permanente,29,51,0.9139608452204836
+558,Hombre,Emigración permanente,30,52,0.9080188476001925
+558,Hombre,Emigración permanente,31,53,0.9016492860682351
+558,Hombre,Emigración permanente,32,54,0.8947746069876507
+558,Hombre,Emigración permanente,33,55,0.8872958034423197
+558,Hombre,Emigración permanente,34,56,0.8791031972111021
+558,Hombre,Emigración permanente,35,57,0.8700919059329298
+558,Hombre,Emigración permanente,36,58,0.860180715135205
+558,Hombre,Emigración permanente,37,59,0.849329062314381
+558,Hombre,Emigración permanente,38,60,0.8375560875171102
+558,Hombre,Emigración permanente,39,61,0.8249506673865168
+558,Hombre,Emigración permanente,40,62,0.8116741588307984
+558,Hombre,Emigración permanente,41,63,0.797918595109969
+558,Hombre,Emigración permanente,42,64,0.7838566522911393
+558,Hombre,Emigración permanente,43,65,0.7695749722119913
+558,Hombre,Emigración permanente,44,66,0.7550164607176738
+558,Hombre,Emigración permanente,45,67,0.7399841056352786
+558,Hombre,Emigración permanente,46,68,0.7241405797436408
+558,Hombre,Emigración permanente,47,69,0.7070723545540977
+558,Hombre,Emigración permanente,48,70,0.6883747170490813
+558,Hombre,Emigración permanente,49,71,0.6677501087554114
+558,Hombre,Emigración permanente,50,72,0.645167227437373
+558,Hombre,Emigración permanente,51,73,0.6208823716993019
+558,Hombre,Emigración permanente,52,74,0.5953875134878737
+558,Hombre,Emigración permanente,53,75,0.5692499182915042
+558,Hombre,Emigración permanente,54,76,0.5411871952095467
+558,Hombre,Emigración permanente,55,77,0.5112378092366991
+558,Hombre,Emigración permanente,56,78,0.4794901202163334
+558,Hombre,Emigración permanente,57,79,0.4460911399946406
+558,Hombre,Emigración permanente,58,80,0.411254553520862
+558,Hombre,Emigración permanente,59,81,0.375267086370461
+558,Hombre,Emigración permanente,60,82,0.3384920414600858
+558,Hombre,Emigración permanente,61,83,0.30136862749147675
+558,Hombre,Emigración permanente,62,84,0.26440567491905886
+558,Hombre,Emigración permanente,63,85,0.22816836686844927
+558,Hombre,Emigración permanente,64,86,0.19325706203773285
+558,Hombre,Emigración permanente,65,87,0.16027796471404446
+558,Hombre,Emigración permanente,66,88,0.13063048888821713
+558,Hombre,Emigración permanente,67,89,0.10449987652087774
+558,Hombre,Emigración permanente,68,90,0.08195199459390128
+558,Hombre,Emigración permanente,69,91,0.06292973933001578
+558,Hombre,Emigración permanente,70,92,0.04726027010679326
+558,Hombre,Emigración permanente,71,93,0.03467348726650762
+558,Hombre,Emigración permanente,72,94,0.024827639189267125
+558,Hombre,Emigración permanente,73,95,0.01733685269352703
+558,Hombre,Emigración permanente,74,96,0.011772964470926238
+558,Hombre,Emigración permanente,75,97,0.007776441665623765
+558,Hombre,Emigración permanente,76,98,0.0049927398705826714
+558,Hombre,Emigración permanente,77,99,0.003113899212917295
+558,Hombre,Emigración permanente,78,100,0.0018857711666832803
+558,Hombre,Emigración permanente,79,101,0
+591,Hombre,Permanece en Costa Rica,0,22,1
+591,Hombre,Permanece en Costa Rica,1,23,0.99840123
+591,Hombre,Permanece en Costa Rica,2,24,0.9967677956676585
+591,Hombre,Permanece en Costa Rica,3,25,0.9951242053140261
+591,Hombre,Permanece en Costa Rica,4,26,0.993485046674275
+591,Hombre,Permanece en Costa Rica,5,27,0.9918583440634019
+591,Hombre,Permanece en Costa Rica,6,28,0.9902475760312264
+591,Hombre,Permanece en Costa Rica,7,29,0.9886530892867766
+591,Hombre,Permanece en Costa Rica,8,30,0.9870729448272314
+591,Hombre,Permanece en Costa Rica,9,31,0.9855036469058979
+591,Hombre,Permanece en Costa Rica,10,32,0.9839404607312487
+591,Hombre,Permanece en Costa Rica,11,33,0.9823768514268868
+591,Hombre,Permanece en Costa Rica,12,34,0.9808039874976042
+591,Hombre,Permanece en Costa Rica,13,35,0.9792096906159269
+591,Hombre,Permanece en Costa Rica,14,36,0.9775775047352206
+591,Hombre,Permanece en Costa Rica,15,37,0.9758872732295335
+591,Hombre,Permanece en Costa Rica,16,38,0.9741156474737126
+591,Hombre,Permanece en Costa Rica,17,39,0.9722392669489228
+591,Hombre,Permanece en Costa Rica,18,40,0.9702389916034948
+591,Hombre,Permanece en Costa Rica,19,41,0.968104019512031
+591,Hombre,Permanece en Costa Rica,20,42,0.9658373491659464
+591,Hombre,Permanece en Costa Rica,21,43,0.9634536529298314
+591,Hombre,Permanece en Costa Rica,22,44,0.9609739833596763
+591,Hombre,Permanece en Costa Rica,23,45,0.9584172928574681
+591,Hombre,Permanece en Costa Rica,24,46,0.9557884884015811
+591,Hombre,Permanece en Costa Rica,25,47,0.953075826861109
+591,Hombre,Permanece en Costa Rica,26,48,0.9502488800587815
+591,Hombre,Permanece en Costa Rica,27,49,0.9472627324556856
+591,Hombre,Permanece en Costa Rica,28,50,0.9440673216076655
+591,Hombre,Permanece en Costa Rica,29,51,0.940612667735687
+591,Hombre,Permanece en Costa Rica,30,52,0.9368607143021161
+591,Hombre,Permanece en Costa Rica,31,53,0.9327886023643663
+591,Hombre,Permanece en Costa Rica,32,54,0.9283876404432091
+591,Hombre,Permanece en Costa Rica,33,55,0.9236608661784094
+591,Hombre,Permanece en Costa Rica,34,56,0.9186109720711868
+591,Hombre,Permanece en Costa Rica,35,57,0.913235003451554
+591,Hombre,Permanece en Costa Rica,36,58,0.9075165906980914
+591,Hombre,Permanece en Costa Rica,37,59,0.9014228073700378
+591,Hombre,Permanece en Costa Rica,38,60,0.8949040331251202
+591,Hombre,Permanece en Costa Rica,39,61,0.8878933638786584
+591,Hombre,Permanece en Costa Rica,40,62,0.8803116690812994
+591,Hombre,Permanece en Costa Rica,41,63,0.8720724712425832
+591,Hombre,Permanece en Costa Rica,42,64,0.8631025169386011
+591,Hombre,Permanece en Costa Rica,43,65,0.8533586936941261
+591,Hombre,Permanece en Costa Rica,44,66,0.8428599752901721
+591,Hombre,Permanece en Costa Rica,45,67,0.8317006693607256
+591,Hombre,Permanece en Costa Rica,46,68,0.820017703522162
+591,Hombre,Permanece en Costa Rica,47,69,0.8079588511812464
+591,Hombre,Permanece en Costa Rica,48,70,0.7955870055112991
+591,Hombre,Permanece en Costa Rica,49,71,0.7828368883816248
+591,Hombre,Permanece en Costa Rica,50,72,0.769482990575069
+591,Hombre,Permanece en Costa Rica,51,73,0.7551183898346323
+591,Hombre,Permanece en Costa Rica,52,74,0.7392239028470031
+591,Hombre,Permanece en Costa Rica,53,75,0.7211931082362324
+591,Hombre,Permanece en Costa Rica,54,76,0.7004793098945079
+591,Hombre,Permanece en Costa Rica,55,77,0.6767602258767218
+591,Hombre,Permanece en Costa Rica,56,78,0.6500319462062426
+591,Hombre,Permanece en Costa Rica,57,79,0.6206882820944339
+591,Hombre,Permanece en Costa Rica,58,80,0.5893236432029896
+591,Hombre,Permanece en Costa Rica,59,81,0.5565261323525422
+591,Hombre,Permanece en Costa Rica,60,82,0.5227015815151581
+591,Hombre,Permanece en Costa Rica,61,83,0.48797204440952696
+591,Hombre,Permanece en Costa Rica,62,84,0.4523152195650584
+591,Hombre,Permanece en Costa Rica,63,85,0.4156878819653377
+591,Hombre,Permanece en Costa Rica,64,86,0.37818083410291187
+591,Hombre,Permanece en Costa Rica,65,87,0.3401404749073767
+591,Hombre,Permanece en Costa Rica,66,88,0.30212275973848
+591,Hombre,Permanece en Costa Rica,67,89,0.26481855078181404
+591,Hombre,Permanece en Costa Rica,68,90,0.22890932742785808
+591,Hombre,Permanece en Costa Rica,69,91,0.19494642821777702
+591,Hombre,Permanece en Costa Rica,70,92,0.16334473494474838
+591,Hombre,Permanece en Costa Rica,71,93,0.1343960181979279
+591,Hombre,Permanece en Costa Rica,72,94,0.10833536963469897
+591,Hombre,Permanece en Costa Rica,73,95,0.08537833779468924
+591,Hombre,Permanece en Costa Rica,74,96,0.06580571756697574
+591,Hombre,Permanece en Costa Rica,75,97,0.04950786095248939
+591,Hombre,Permanece en Costa Rica,76,98,0.03630586701473819
+591,Hombre,Permanece en Costa Rica,77,99,0.025917847184559525
+591,Hombre,Permanece en Costa Rica,78,100,0.017989068963462532
+591,Hombre,Permanece en Costa Rica,79,101,0
+591,Hombre,Retorno tras 5 años,0,22,1
+591,Hombre,Retorno tras 5 años,1,23,0.99840123
+591,Hombre,Retorno tras 5 años,2,24,0.9967677956676585
+591,Hombre,Retorno tras 5 años,3,25,0.9951242053140261
+591,Hombre,Retorno tras 5 años,4,26,0.993485046674275
+591,Hombre,Retorno tras 5 años,5,27,0.9918583440634019
+591,Hombre,Retorno tras 5 años,6,28,0.9901401379353975
+591,Hombre,Retorno tras 5 años,7,29,0.9884414634161569
+591,Hombre,Retorno tras 5 años,8,30,0.9867092889424225
+591,Hombre,Retorno tras 5 años,9,31,0.9849119683713352
+591,Hombre,Retorno tras 5 años,10,32,0.98305557674599
+591,Hombre,Retorno tras 5 años,11,33,0.9814933736373156
+591,Hombre,Retorno tras 5 años,12,34,0.9799219242266523
+591,Hombre,Retorno tras 5 años,13,35,0.9783290611388219
+591,Hombre,Retorno tras 5 años,14,36,0.9766983431265533
+591,Hombre,Retorno tras 5 años,15,37,0.9750096316912875
+591,Hombre,Retorno tras 5 años,16,38,0.9732395992059152
+591,Hombre,Retorno tras 5 años,17,39,0.9713649061603408
+591,Hombre,Retorno tras 5 años,18,40,0.9693664297160555
+591,Hombre,Retorno tras 5 años,19,41,0.9672333776621226
+591,Hombre,Retorno tras 5 años,20,42,0.9649687457933334
+591,Hombre,Retorno tras 5 años,21,43,0.962587193279028
+591,Hombre,Retorno tras 5 años,22,44,0.9601097537420699
+591,Hombre,Retorno tras 5 años,23,45,0.9575553625400439
+591,Hombre,Retorno tras 5 años,24,46,0.9549289222383474
+591,Hombre,Retorno tras 5 años,25,47,0.9522187002669857
+591,Hombre,Retorno tras 5 años,26,48,0.9493942958135628
+591,Hombre,Retorno tras 5 años,27,49,0.9464108337329117
+591,Hombre,Retorno tras 5 años,28,50,0.9432182966033722
+591,Hombre,Retorno tras 5 años,29,51,0.9397667495940626
+591,Hombre,Retorno tras 5 años,30,52,0.9360181703926118
+591,Hombre,Retorno tras 5 años,31,53,0.9319497206140919
+591,Hombre,Retorno tras 5 años,32,54,0.9275527165957541
+591,Hombre,Retorno tras 5 años,33,55,0.9228301932455328
+591,Hombre,Retorno tras 5 años,34,56,0.9177848406432093
+591,Hombre,Retorno tras 5 años,35,57,0.9124137067760097
+591,Hombre,Retorno tras 5 años,36,58,0.9067004367441535
+591,Hombre,Retorno tras 5 años,37,59,0.9006121337185081
+591,Hombre,Retorno tras 5 años,38,60,0.8940992219817027
+591,Hombre,Retorno tras 5 años,39,61,0.8870948576176902
+591,Hombre,Retorno tras 5 años,40,62,0.8795199812413386
+591,Hombre,Retorno tras 5 años,41,63,0.8712881931337085
+591,Hombre,Retorno tras 5 años,42,64,0.8623263057496559
+591,Hombre,Retorno tras 5 años,43,65,0.8525912453861563
+591,Hombre,Retorno tras 5 años,44,66,0.8421019687605945
+591,Hombre,Retorno tras 5 años,45,67,0.8309526986935784
+591,Hombre,Retorno tras 5 años,46,68,0.8192802396588138
+591,Hombre,Retorno tras 5 años,47,69,0.8072322321664871
+591,Hombre,Retorno tras 5 años,48,70,0.7948715128284047
+591,Hombre,Retorno tras 5 años,49,71,0.782132862220241
+591,Hombre,Retorno tras 5 años,50,72,0.7687909739313151
+591,Hombre,Retorno tras 5 años,51,73,0.7544392916607017
+591,Hombre,Retorno tras 5 años,52,74,0.7385590990105356
+591,Hombre,Retorno tras 5 años,53,75,0.7205445199758381
+591,Hombre,Retorno tras 5 años,54,76,0.6998493501072357
+591,Hombre,Retorno tras 5 años,55,77,0.6761515972963975
+591,Hombre,Retorno tras 5 años,56,78,0.6494473550830389
+591,Hombre,Retorno tras 5 años,57,79,0.620130080513563
+591,Hombre,Retorno tras 5 años,58,80,0.5887936486811493
+591,Hombre,Retorno tras 5 años,59,81,0.5560256335098269
+591,Hombre,Retorno tras 5 años,60,82,0.5222315019961102
+591,Hombre,Retorno tras 5 años,61,83,0.48753319809251394
+591,Hombre,Retorno tras 5 años,62,84,0.4519084403847567
+591,Hombre,Retorno tras 5 años,63,85,0.41531404272983774
+591,Hombre,Retorno tras 5 años,64,86,0.3778407259591927
+591,Hombre,Retorno tras 5 años,65,87,0.33983457747659096
+591,Hombre,Retorno tras 5 años,66,88,0.30185105265624856
+591,Hombre,Retorno tras 5 años,67,89,0.26458039237290776
+591,Hombre,Retorno tras 5 años,68,90,0.22870346314439652
+591,Hombre,Retorno tras 5 años,69,91,0.1947711076783766
+591,Hombre,Retorno tras 5 años,70,92,0.1631978346537272
+591,Hombre,Retorno tras 5 años,71,93,0.13427515226250583
+591,Hombre,Retorno tras 5 años,72,94,0.10823794073787774
+591,Hombre,Retorno tras 5 años,73,95,0.08530155477090101
+591,Hombre,Retorno tras 5 años,74,96,0.06574653672429528
+591,Hombre,Retorno tras 5 años,75,97,0.04946333720837105
+591,Hombre,Retorno tras 5 años,76,98,0.036273216177035675
+591,Hombre,Retorno tras 5 años,77,99,0.025894538571059722
+591,Hombre,Retorno tras 5 años,78,100,0.017972890912380402
+591,Hombre,Retorno tras 5 años,79,101,0
+591,Hombre,Retorno tras 20 años,0,22,1
+591,Hombre,Retorno tras 20 años,1,23,0.99840123
+591,Hombre,Retorno tras 20 años,2,24,0.9967677956676585
+591,Hombre,Retorno tras 20 años,3,25,0.9951242053140261
+591,Hombre,Retorno tras 20 años,4,26,0.993485046674275
+591,Hombre,Retorno tras 20 años,5,27,0.9918583440634019
+591,Hombre,Retorno tras 20 años,6,28,0.9901401379353975
+591,Hombre,Retorno tras 20 años,7,29,0.9884414634161569
+591,Hombre,Retorno tras 20 años,8,30,0.9867092889424225
+591,Hombre,Retorno tras 20 años,9,31,0.9849119683713352
+591,Hombre,Retorno tras 20 años,10,32,0.98305557674599
+591,Hombre,Retorno tras 20 años,11,33,0.9811754436332402
+591,Hombre,Retorno tras 20 años,12,34,0.979325398087252
+591,Hombre,Retorno tras 20 años,13,35,0.9775485982242483
+591,Hombre,Retorno tras 20 años,14,36,0.9758575662306381
+591,Hombre,Retorno tras 20 años,15,37,0.9742350761652961
+591,Hombre,Retorno tras 20 años,16,38,0.9726369019769515
+591,Hombre,Retorno tras 20 años,17,39,0.971006665265548
+591,Hombre,Retorno tras 20 años,18,40,0.969285662762098
+591,Hombre,Retorno tras 20 años,19,41,0.9674204663612449
+591,Hombre,Retorno tras 20 años,20,42,0.9653768003002615
+591,Hombre,Retorno tras 20 años,21,43,0.9631428894230627
+591,Hombre,Retorno tras 20 años,22,44,0.9607318056708255
+591,Hombre,Retorno tras 20 años,23,45,0.9581749236505311
+591,Hombre,Retorno tras 20 años,24,46,0.9555057070204701
+591,Hombre,Retorno tras 20 años,25,47,0.9527501241119938
+591,Hombre,Retorno tras 20 años,26,48,0.9499241433863614
+591,Hombre,Retorno tras 20 años,27,49,0.9469390162650112
+591,Hombre,Retorno tras 20 años,28,50,0.9437446974120544
+591,Hombre,Retorno tras 20 años,29,51,0.9402912241284735
+591,Hombre,Retorno tras 20 años,30,52,0.9365405528820209
+591,Hombre,Retorno tras 20 años,31,53,0.9324698325418916
+591,Hombre,Retorno tras 20 años,32,54,0.9280703745990707
+591,Hombre,Retorno tras 20 años,33,55,0.9233452156552445
+591,Hombre,Retorno tras 20 años,34,56,0.9182970472915012
+591,Hombre,Retorno tras 20 años,35,57,0.9129229158475781
+591,Hombre,Retorno tras 20 años,36,58,0.9072064572961862
+591,Hombre,Retorno tras 20 años,37,59,0.9011147564487983
+591,Hombre,Retorno tras 20 años,38,60,0.8945982099203253
+591,Hombre,Retorno tras 20 años,39,61,0.8875899364897917
+591,Hombre,Retorno tras 20 años,40,62,0.8800108326498034
+591,Hombre,Retorno tras 20 años,41,63,0.8717744504625925
+591,Hombre,Retorno tras 20 años,42,64,0.8628075615377689
+591,Hombre,Retorno tras 20 años,43,65,0.8530670681333007
+591,Hombre,Retorno tras 20 años,44,66,0.8425719375461289
+591,Hombre,Retorno tras 20 años,45,67,0.8314164451816863
+591,Hombre,Retorno tras 20 años,46,68,0.8197374718629036
+591,Hombre,Retorno tras 20 años,47,69,0.8076827404966764
+591,Hombre,Retorno tras 20 años,48,70,0.7953151227633033
+591,Hombre,Retorno tras 20 años,49,71,0.7825693628401424
+591,Hombre,Retorno tras 20 años,50,72,0.769220028575232
+591,Hombre,Retorno tras 20 años,51,73,0.7548603367725936
+591,Hombre,Retorno tras 20 años,52,74,0.7389712815438673
+591,Hombre,Retorno tras 20 años,53,75,0.7209466487506644
+591,Hombre,Retorno tras 20 años,54,76,0.7002399291123067
+591,Hombre,Retorno tras 20 años,55,77,0.6765289508198505
+591,Hombre,Retorno tras 20 años,56,78,0.6498098052328539
+591,Hombre,Retorno tras 20 años,57,79,0.6204761689822091
+591,Hombre,Retorno tras 20 años,58,80,0.5891222485969151
+591,Hombre,Retorno tras 20 años,59,81,0.5563359459202006
+591,Hombre,Retorno tras 20 años,60,82,0.5225229542357032
+591,Hombre,Retorno tras 20 años,61,83,0.487805285551652
+591,Hombre,Retorno tras 20 años,62,84,0.45216064601872874
+591,Hombre,Retorno tras 20 años,63,85,0.415545825392173
+591,Hombre,Retorno tras 20 años,64,86,0.3780515951338199
+591,Hombre,Retorno tras 20 años,65,87,0.34002423579539803
+591,Hombre,Retorno tras 20 años,66,88,0.30201951274527783
+591,Hombre,Retorno tras 20 años,67,89,0.2647280520748115
+591,Hombre,Retorno tras 20 años,68,90,0.22883110028670087
+591,Hombre,Retorno tras 20 años,69,91,0.19487980750847853
+591,Hombre,Retorno tras 20 años,70,92,0.16328891375222038
+591,Hombre,Retorno tras 20 años,71,93,0.13435008989782465
+591,Hombre,Retorno tras 20 años,72,94,0.10829834726279322
+591,Hombre,Retorno tras 20 años,73,95,0.08534916072550872
+591,Hombre,Retorno tras 20 años,74,96,0.06578322921661053
+591,Hombre,Retorno tras 20 años,75,97,0.04949094220797758
+591,Hombre,Retorno tras 20 años,76,98,0.03629345990046413
+591,Hombre,Retorno tras 20 años,77,99,0.025908990057097837
+591,Hombre,Retorno tras 20 años,78,100,0.01798292140515679
+591,Hombre,Retorno tras 20 años,79,101,0
+591,Hombre,Emigración permanente,0,22,1
+591,Hombre,Emigración permanente,1,23,0.99840123
+591,Hombre,Emigración permanente,2,24,0.9967677956676585
+591,Hombre,Emigración permanente,3,25,0.9951242053140261
+591,Hombre,Emigración permanente,4,26,0.993485046674275
+591,Hombre,Emigración permanente,5,27,0.9918583440634019
+591,Hombre,Emigración permanente,6,28,0.9901401379353975
+591,Hombre,Emigración permanente,7,29,0.9884414634161569
+591,Hombre,Emigración permanente,8,30,0.9867092889424225
+591,Hombre,Emigración permanente,9,31,0.9849119683713352
+591,Hombre,Emigración permanente,10,32,0.98305557674599
+591,Hombre,Emigración permanente,11,33,0.9811754436332402
+591,Hombre,Emigración permanente,12,34,0.979325398087252
+591,Hombre,Emigración permanente,13,35,0.9775485982242483
+591,Hombre,Emigración permanente,14,36,0.9758575662306381
+591,Hombre,Emigración permanente,15,37,0.9742350761652961
+591,Hombre,Emigración permanente,16,38,0.9726369019769515
+591,Hombre,Emigración permanente,17,39,0.971006665265548
+591,Hombre,Emigración permanente,18,40,0.969285662762098
+591,Hombre,Emigración permanente,19,41,0.9674204663612449
+591,Hombre,Emigración permanente,20,42,0.9653768003002615
+591,Hombre,Emigración permanente,21,43,0.9631428894230627
+591,Hombre,Emigración permanente,22,44,0.9607318056708255
+591,Hombre,Emigración permanente,23,45,0.9581749236505311
+591,Hombre,Emigración permanente,24,46,0.9555057070204701
+591,Hombre,Emigración permanente,25,47,0.9527501241119938
+591,Hombre,Emigración permanente,26,48,0.9499150732051799
+591,Hombre,Emigración permanente,27,49,0.9469861810616649
+591,Hombre,Emigración permanente,28,50,0.9439268948544361
+591,Hombre,Emigración permanente,29,51,0.9406778607252713
+591,Hombre,Emigración permanente,30,52,0.9371570916281488
+591,Hombre,Emigración permanente,31,53,0.9332614701718143
+591,Hombre,Emigración permanente,32,54,0.9288798169019723
+591,Hombre,Emigración permanente,33,55,0.9239082291907569
+591,Hombre,Emigración permanente,34,56,0.918293712794623
+591,Hombre,Emigración permanente,35,57,0.91206219920841
+591,Hombre,Emigración permanente,36,58,0.9053246589335276
+591,Hombre,Emigración permanente,37,59,0.8982560016887803
+591,Hombre,Emigración permanente,38,60,0.8910014436900212
+591,Hombre,Emigración permanente,39,61,0.8836311421179184
+591,Hombre,Emigración permanente,40,62,0.876088784796011
+591,Hombre,Emigración permanente,41,63,0.8681920884471495
+591,Hombre,Emigración permanente,42,64,0.8596851429961836
+591,Hombre,Emigración permanente,43,65,0.850250648750292
+591,Hombre,Emigración permanente,44,66,0.8395990742305273
+591,Hombre,Emigración permanente,45,67,0.8275251861595923
+591,Hombre,Emigración permanente,46,68,0.8139572321618531
+591,Hombre,Emigración permanente,47,69,0.7989970156780388
+591,Hombre,Emigración permanente,48,70,0.7828202504396359
+591,Hombre,Emigración permanente,49,71,0.7656070273141864
+591,Hombre,Emigración permanente,50,72,0.7474354899862193
+591,Hombre,Emigración permanente,51,73,0.7282331397616931
+591,Hombre,Emigración permanente,52,74,0.7078459544384773
+591,Hombre,Emigración permanente,53,75,0.6860805124408013
+591,Hombre,Emigración permanente,54,76,0.6628181705347117
+591,Hombre,Emigración permanente,55,77,0.6380889813593249
+591,Hombre,Emigración permanente,56,78,0.6120525644670741
+591,Hombre,Emigración permanente,57,79,0.5849719315206898
+591,Hombre,Emigración permanente,58,80,0.557069829186349
+591,Hombre,Emigración permanente,59,81,0.528431465332596
+591,Hombre,Emigración permanente,60,82,0.4989688905222141
+591,Hombre,Emigración permanente,61,83,0.4684090967398685
+591,Hombre,Emigración permanente,62,84,0.43642903711905207
+591,Hombre,Emigración permanente,63,85,0.40277357188564594
+591,Hombre,Emigración permanente,64,86,0.3674137215413261
+591,Hombre,Emigración permanente,65,87,0.3306940672122738
+591,Hombre,Emigración permanente,66,88,0.29330302806391156
+591,Hombre,Emigración permanente,67,89,0.2561822507345698
+591,Hombre,Emigración permanente,68,90,0.2203194383544753
+591,Hombre,Emigración permanente,69,91,0.18654833946726612
+591,Hombre,Emigración permanente,70,92,0.15547586493584928
+591,Hombre,Emigración permanente,71,93,0.12746096734671927
+591,Hombre,Emigración permanente,72,94,0.10268076446792583
+591,Hombre,Emigración permanente,73,95,0.08118993305946955
+591,Hombre,Emigración permanente,74,96,0.06248031379141943
+591,Hombre,Emigración permanente,75,97,0.04693088745759677
+591,Hombre,Emigración permanente,76,98,0.034359769223520215
+591,Hombre,Emigración permanente,77,99,0.024487775279706022
+591,Hombre,Emigración permanente,78,100,0.01696793725770514
+591,Hombre,Emigración permanente,79,101,0
+724,Hombre,Permanece en Costa Rica,0,22,1
+724,Hombre,Permanece en Costa Rica,1,23,0.99840123
+724,Hombre,Permanece en Costa Rica,2,24,0.9967677956676585
+724,Hombre,Permanece en Costa Rica,3,25,0.9951242053140261
+724,Hombre,Permanece en Costa Rica,4,26,0.993485046674275
+724,Hombre,Permanece en Costa Rica,5,27,0.9918583440634019
+724,Hombre,Permanece en Costa Rica,6,28,0.9902475760312264
+724,Hombre,Permanece en Costa Rica,7,29,0.9886530892867766
+724,Hombre,Permanece en Costa Rica,8,30,0.9870729448272314
+724,Hombre,Permanece en Costa Rica,9,31,0.9855036469058979
+724,Hombre,Permanece en Costa Rica,10,32,0.9839404607312487
+724,Hombre,Permanece en Costa Rica,11,33,0.9823768514268868
+724,Hombre,Permanece en Costa Rica,12,34,0.9808039874976042
+724,Hombre,Permanece en Costa Rica,13,35,0.9792096906159269
+724,Hombre,Permanece en Costa Rica,14,36,0.9775775047352206
+724,Hombre,Permanece en Costa Rica,15,37,0.9758872732295335
+724,Hombre,Permanece en Costa Rica,16,38,0.9741156474737126
+724,Hombre,Permanece en Costa Rica,17,39,0.9722392669489228
+724,Hombre,Permanece en Costa Rica,18,40,0.9702389916034948
+724,Hombre,Permanece en Costa Rica,19,41,0.968104019512031
+724,Hombre,Permanece en Costa Rica,20,42,0.9658373491659464
+724,Hombre,Permanece en Costa Rica,21,43,0.9634536529298314
+724,Hombre,Permanece en Costa Rica,22,44,0.9609739833596763
+724,Hombre,Permanece en Costa Rica,23,45,0.9584172928574681
+724,Hombre,Permanece en Costa Rica,24,46,0.9557884884015811
+724,Hombre,Permanece en Costa Rica,25,47,0.953075826861109
+724,Hombre,Permanece en Costa Rica,26,48,0.9502488800587815
+724,Hombre,Permanece en Costa Rica,27,49,0.9472627324556856
+724,Hombre,Permanece en Costa Rica,28,50,0.9440673216076655
+724,Hombre,Permanece en Costa Rica,29,51,0.940612667735687
+724,Hombre,Permanece en Costa Rica,30,52,0.9368607143021161
+724,Hombre,Permanece en Costa Rica,31,53,0.9327886023643663
+724,Hombre,Permanece en Costa Rica,32,54,0.9283876404432091
+724,Hombre,Permanece en Costa Rica,33,55,0.9236608661784094
+724,Hombre,Permanece en Costa Rica,34,56,0.9186109720711868
+724,Hombre,Permanece en Costa Rica,35,57,0.913235003451554
+724,Hombre,Permanece en Costa Rica,36,58,0.9075165906980914
+724,Hombre,Permanece en Costa Rica,37,59,0.9014228073700378
+724,Hombre,Permanece en Costa Rica,38,60,0.8949040331251202
+724,Hombre,Permanece en Costa Rica,39,61,0.8878933638786584
+724,Hombre,Permanece en Costa Rica,40,62,0.8803116690812994
+724,Hombre,Permanece en Costa Rica,41,63,0.8720724712425832
+724,Hombre,Permanece en Costa Rica,42,64,0.8631025169386011
+724,Hombre,Permanece en Costa Rica,43,65,0.8533586936941261
+724,Hombre,Permanece en Costa Rica,44,66,0.8428599752901721
+724,Hombre,Permanece en Costa Rica,45,67,0.8317006693607256
+724,Hombre,Permanece en Costa Rica,46,68,0.820017703522162
+724,Hombre,Permanece en Costa Rica,47,69,0.8079588511812464
+724,Hombre,Permanece en Costa Rica,48,70,0.7955870055112991
+724,Hombre,Permanece en Costa Rica,49,71,0.7828368883816248
+724,Hombre,Permanece en Costa Rica,50,72,0.769482990575069
+724,Hombre,Permanece en Costa Rica,51,73,0.7551183898346323
+724,Hombre,Permanece en Costa Rica,52,74,0.7392239028470031
+724,Hombre,Permanece en Costa Rica,53,75,0.7211931082362324
+724,Hombre,Permanece en Costa Rica,54,76,0.7004793098945079
+724,Hombre,Permanece en Costa Rica,55,77,0.6767602258767218
+724,Hombre,Permanece en Costa Rica,56,78,0.6500319462062426
+724,Hombre,Permanece en Costa Rica,57,79,0.6206882820944339
+724,Hombre,Permanece en Costa Rica,58,80,0.5893236432029896
+724,Hombre,Permanece en Costa Rica,59,81,0.5565261323525422
+724,Hombre,Permanece en Costa Rica,60,82,0.5227015815151581
+724,Hombre,Permanece en Costa Rica,61,83,0.48797204440952696
+724,Hombre,Permanece en Costa Rica,62,84,0.4523152195650584
+724,Hombre,Permanece en Costa Rica,63,85,0.4156878819653377
+724,Hombre,Permanece en Costa Rica,64,86,0.37818083410291187
+724,Hombre,Permanece en Costa Rica,65,87,0.3401404749073767
+724,Hombre,Permanece en Costa Rica,66,88,0.30212275973848
+724,Hombre,Permanece en Costa Rica,67,89,0.26481855078181404
+724,Hombre,Permanece en Costa Rica,68,90,0.22890932742785808
+724,Hombre,Permanece en Costa Rica,69,91,0.19494642821777702
+724,Hombre,Permanece en Costa Rica,70,92,0.16334473494474838
+724,Hombre,Permanece en Costa Rica,71,93,0.1343960181979279
+724,Hombre,Permanece en Costa Rica,72,94,0.10833536963469897
+724,Hombre,Permanece en Costa Rica,73,95,0.08537833779468924
+724,Hombre,Permanece en Costa Rica,74,96,0.06580571756697574
+724,Hombre,Permanece en Costa Rica,75,97,0.04950786095248939
+724,Hombre,Permanece en Costa Rica,76,98,0.03630586701473819
+724,Hombre,Permanece en Costa Rica,77,99,0.025917847184559525
+724,Hombre,Permanece en Costa Rica,78,100,0.017989068963462532
+724,Hombre,Permanece en Costa Rica,79,101,0
+724,Hombre,Retorno tras 5 años,0,22,1
+724,Hombre,Retorno tras 5 años,1,23,0.99840123
+724,Hombre,Retorno tras 5 años,2,24,0.9967677956676585
+724,Hombre,Retorno tras 5 años,3,25,0.9951242053140261
+724,Hombre,Retorno tras 5 años,4,26,0.993485046674275
+724,Hombre,Retorno tras 5 años,5,27,0.9918583440634019
+724,Hombre,Retorno tras 5 años,6,28,0.9914955222811436
+724,Hombre,Retorno tras 5 años,7,29,0.9911680511400445
+724,Hombre,Retorno tras 5 años,8,30,0.99083809129582
+724,Hombre,Retorno tras 5 años,9,31,0.9904365442509415
+724,Hombre,Retorno tras 5 años,10,32,0.9900057043541923
+724,Hombre,Retorno tras 5 años,11,33,0.988432456589232
+724,Hombre,Retorno tras 5 años,12,34,0.9868498971516361
+724,Hombre,Retorno tras 5 años,13,35,0.9852457726438161
+724,Hombre,Retorno tras 5 años,14,36,0.9836035255801425
+724,Hombre,Retorno tras 5 años,15,37,0.9819028750844145
+724,Hombre,Retorno tras 5 años,16,38,0.9801203286049862
+724,Hombre,Retorno tras 5 años,17,39,0.9782323816232141
+724,Hombre,Retorno tras 5 años,18,40,0.9762197761035863
+724,Hombre,Retorno tras 5 años,19,41,0.9740716435350615
+724,Hombre,Retorno tras 5 años,20,42,0.9717910008924706
+724,Hombre,Retorno tras 5 años,21,43,0.969392610984358
+724,Hombre,Retorno tras 5 años,22,44,0.9668976561396893
+724,Hombre,Retorno tras 5 años,23,45,0.9643252055875764
+724,Hombre,Retorno tras 5 años,24,46,0.9616801965541785
+724,Hombre,Retorno tras 5 años,25,47,0.9589508135211302
+724,Hombre,Retorno tras 5 años,26,48,0.9561064407446207
+724,Hombre,Retorno tras 5 años,27,49,0.9531018858156451
+724,Hombre,Retorno tras 5 años,28,50,0.9498867776932044
+724,Hombre,Retorno tras 5 años,29,51,0.9464108285109883
+724,Hombre,Retorno tras 5 años,30,52,0.9426357471417907
+724,Hombre,Retorno tras 5 años,31,53,0.9385385337350515
+724,Hombre,Retorno tras 5 años,32,54,0.9341104432351922
+724,Hombre,Retorno tras 5 años,33,55,0.9293545320067134
+724,Hombre,Retorno tras 5 años,34,56,0.9242735091480544
+724,Hombre,Retorno tras 5 años,35,57,0.9188644017759374
+724,Hombre,Retorno tras 5 años,36,58,0.9131107393626929
+724,Hombre,Retorno tras 5 años,37,59,0.9069793925011278
+724,Hombre,Retorno tras 5 años,38,60,0.900420434977347
+724,Hombre,Retorno tras 5 años,39,61,0.8933665502939389
+724,Hombre,Retorno tras 5 años,40,62,0.8857381201219754
+724,Hombre,Retorno tras 5 años,41,63,0.8774481339031246
+724,Hombre,Retorno tras 5 años,42,64,0.8684228866619053
+724,Hombre,Retorno tras 5 años,43,65,0.858619000167513
+724,Hombre,Retorno tras 5 años,44,66,0.8480555651598721
+724,Hombre,Retorno tras 5 años,45,67,0.8368274706077128
+724,Hombre,Retorno tras 5 años,46,68,0.8250724881818886
+724,Hombre,Retorno tras 5 años,47,69,0.812939302199681
+724,Hombre,Retorno tras 5 años,48,70,0.8004911935229275
+724,Hombre,Retorno tras 5 años,49,71,0.7876624816309693
+724,Hombre,Retorno tras 5 años,50,72,0.7742262672140645
+724,Hombre,Retorno tras 5 años,51,73,0.7597731196493899
+724,Hombre,Retorno tras 5 años,52,74,0.7437806552538898
+724,Hombre,Retorno tras 5 años,53,75,0.7256387145256514
+724,Hombre,Retorno tras 5 años,54,76,0.7047972313916929
+724,Hombre,Retorno tras 5 años,55,77,0.6809319372841479
+724,Hombre,Retorno tras 5 años,56,78,0.6540388981243567
+724,Hombre,Retorno tras 5 años,57,79,0.6245143526698947
+724,Hombre,Retorno tras 5 años,58,80,0.592956374665349
+724,Hombre,Retorno tras 5 años,59,81,0.5599566921373733
+724,Hombre,Retorno tras 5 años,60,82,0.5259236387030811
+724,Hombre,Retorno tras 5 años,61,83,0.4909800204493882
+724,Hombre,Retorno tras 5 años,62,84,0.4551033984341218
+724,Hombre,Retorno tras 5 años,63,85,0.41825028119155866
+724,Hombre,Retorno tras 5 años,64,86,0.38051203094246205
+724,Hombre,Retorno tras 5 años,65,87,0.3422371819020294
+724,Hombre,Retorno tras 5 años,66,88,0.303985116471415
+724,Hombre,Retorno tras 5 años,67,89,0.26645095547546077
+724,Hombre,Retorno tras 5 años,68,90,0.23032037910610934
+724,Hombre,Retorno tras 5 años,69,91,0.19614812448676142
+724,Hombre,Retorno tras 5 años,70,92,0.1643516308408972
+724,Hombre,Retorno tras 5 años,71,93,0.13522446730115736
+724,Hombre,Retorno tras 5 años,72,94,0.10900317468595967
+724,Hombre,Retorno tras 5 años,73,95,0.08590463022752803
+724,Hombre,Retorno tras 5 años,74,96,0.066211359701592
+724,Hombre,Retorno tras 5 años,75,97,0.049813039212670406
+724,Hombre,Retorno tras 5 años,76,98,0.03652966503623934
+724,Hombre,Retorno tras 5 años,77,99,0.026077610974778852
+724,Hombre,Retorno tras 5 años,78,100,0.018099957874090567
+724,Hombre,Retorno tras 5 años,79,101,0
+724,Hombre,Retorno tras 20 años,0,22,1
+724,Hombre,Retorno tras 20 años,1,23,0.99840123
+724,Hombre,Retorno tras 20 años,2,24,0.9967677956676585
+724,Hombre,Retorno tras 20 años,3,25,0.9951242053140261
+724,Hombre,Retorno tras 20 años,4,26,0.993485046674275
+724,Hombre,Retorno tras 20 años,5,27,0.9918583440634019
+724,Hombre,Retorno tras 20 años,6,28,0.9914955222811436
+724,Hombre,Retorno tras 20 años,7,29,0.9911680511400445
+724,Hombre,Retorno tras 20 años,8,30,0.99083809129582
+724,Hombre,Retorno tras 20 años,9,31,0.9904365442509415
+724,Hombre,Retorno tras 20 años,10,32,0.9900057043541923
+724,Hombre,Retorno tras 20 años,11,33,0.9895661319214021
+724,Hombre,Retorno tras 20 años,12,34,0.9891584306750505
+724,Hombre,Retorno tras 20 años,13,35,0.9887081558658228
+724,Hombre,Retorno tras 20 años,14,36,0.9882435124679736
+724,Hombre,Retorno tras 20 años,15,37,0.9877253862768218
+724,Hombre,Retorno tras 20 años,16,38,0.9871555082379556
+724,Hombre,Retorno tras 20 años,17,39,0.9865266013352122
+724,Hombre,Retorno tras 20 años,18,40,0.9857746608944086
+724,Hombre,Retorno tras 20 años,19,41,0.9851010219221397
+724,Hombre,Retorno tras 20 años,20,42,0.9842930716169899
+724,Hombre,Retorno tras 20 años,21,43,0.9833707693230234
+724,Hombre,Retorno tras 20 años,22,44,0.9823654398844214
+724,Hombre,Retorno tras 20 años,23,45,0.9813697240982089
+724,Hombre,Retorno tras 20 años,24,46,0.9800820296284306
+724,Hombre,Retorno tras 20 años,25,47,0.9785746732676824
+724,Hombre,Retorno tras 20 años,26,48,0.975672093572063
+724,Hombre,Retorno tras 20 años,27,49,0.9726060537747336
+724,Hombre,Retorno tras 20 años,28,50,0.9693251520474748
+724,Hombre,Retorno tras 20 años,29,51,0.965778071438833
+724,Hombre,Retorno tras 20 años,30,52,0.961925737236355
+724,Hombre,Retorno tras 20 años,31,53,0.9577446789231703
+724,Hombre,Retorno tras 20 años,32,54,0.9532259724858833
+724,Hombre,Retorno tras 20 años,33,55,0.9483727368340881
+724,Hombre,Retorno tras 20 años,34,56,0.9431877365049046
+724,Hombre,Retorno tras 20 años,35,57,0.9376679377783116
+724,Hombre,Retorno tras 20 años,36,58,0.9317965330756458
+724,Hombre,Retorno tras 20 años,37,59,0.9255397150333148
+724,Hombre,Retorno tras 20 años,38,60,0.9188465357530942
+724,Hombre,Retorno tras 20 años,39,61,0.9116483011804698
+724,Hombre,Retorno tras 20 años,40,62,0.9038637636861387
+724,Hombre,Retorno tras 20 años,41,63,0.8954041321376571
+724,Hombre,Retorno tras 20 años,42,64,0.886194193269357
+724,Hombre,Retorno tras 20 años,43,65,0.8761896811632812
+724,Hombre,Retorno tras 20 años,44,66,0.865410077230072
+724,Hombre,Retorno tras 20 años,45,67,0.8539522122354605
+724,Hombre,Retorno tras 20 años,46,68,0.841956677194012
+724,Hombre,Retorno tras 20 años,47,69,0.8295751990818678
+724,Hombre,Retorno tras 20 años,48,70,0.8168723537331827
+724,Hombre,Retorno tras 20 años,49,71,0.8037811165486369
+724,Hombre,Retorno tras 20 años,50,72,0.7900699449769707
+724,Hombre,Retorno tras 20 años,51,73,0.7753210298539329
+724,Hombre,Retorno tras 20 años,52,74,0.7590012974965376
+724,Hombre,Retorno tras 20 años,53,75,0.7404881021686248
+724,Hombre,Retorno tras 20 años,54,76,0.7192201213080215
+724,Hombre,Retorno tras 20 años,55,77,0.6948664505519838
+724,Hombre,Retorno tras 20 años,56,78,0.6674230753153165
+724,Hombre,Retorno tras 20 años,57,79,0.6372943429402016
+724,Hombre,Retorno tras 20 años,58,80,0.6050905660839171
+724,Hombre,Retorno tras 20 años,59,81,0.571415581827762
+724,Hombre,Retorno tras 20 años,60,82,0.5366860798812785
+724,Hombre,Retorno tras 20 años,61,83,0.5010273794210962
+724,Hombre,Retorno tras 20 años,62,84,0.4644165823170965
+724,Hombre,Retorno tras 20 años,63,85,0.42680930709917714
+724,Hombre,Retorno tras 20 años,64,86,0.3882987856141354
+724,Hombre,Retorno tras 20 años,65,87,0.34924068444147716
+724,Hombre,Retorno tras 20 años,66,88,0.3102058331198221
+724,Hombre,Retorno tras 20 años,67,89,0.27190357734705173
+724,Hombre,Retorno tras 20 años,68,90,0.2350336289961168
+724,Hombre,Retorno tras 20 años,69,91,0.20016207726745078
+724,Hombre,Retorno tras 20 años,70,92,0.16771490381304932
+724,Hombre,Retorno tras 20 años,71,93,0.13799168533069991
+724,Hombre,Retorno tras 20 años,72,94,0.1112338031830688
+724,Hombre,Retorno tras 20 años,73,95,0.08766257275324998
+724,Hombre,Retorno tras 20 años,74,96,0.06756630139212735
+724,Hombre,Retorno tras 20 años,75,97,0.05083240754864336
+724,Hombre,Retorno tras 20 años,76,98,0.037277203922647405
+724,Hombre,Retorno tras 20 años,77,99,0.026611260222559524
+724,Hombre,Retorno tras 20 años,78,100,0.018470353341440395
+724,Hombre,Retorno tras 20 años,79,101,0
+724,Hombre,Emigración permanente,0,22,1
+724,Hombre,Emigración permanente,1,23,0.99840123
+724,Hombre,Emigración permanente,2,24,0.9967677956676585
+724,Hombre,Emigración permanente,3,25,0.9951242053140261
+724,Hombre,Emigración permanente,4,26,0.993485046674275
+724,Hombre,Emigración permanente,5,27,0.9918583440634019
+724,Hombre,Emigración permanente,6,28,0.9914955222811436
+724,Hombre,Emigración permanente,7,29,0.9911680511400445
+724,Hombre,Emigración permanente,8,30,0.99083809129582
+724,Hombre,Emigración permanente,9,31,0.9904365442509415
+724,Hombre,Emigración permanente,10,32,0.9900057043541923
+724,Hombre,Emigración permanente,11,33,0.9895661319214021
+724,Hombre,Emigración permanente,12,34,0.9891584306750505
+724,Hombre,Emigración permanente,13,35,0.9887081558658228
+724,Hombre,Emigración permanente,14,36,0.9882435124679736
+724,Hombre,Emigración permanente,15,37,0.9877253862768218
+724,Hombre,Emigración permanente,16,38,0.9871555082379556
+724,Hombre,Emigración permanente,17,39,0.9865266013352122
+724,Hombre,Emigración permanente,18,40,0.9857746608944086
+724,Hombre,Emigración permanente,19,41,0.9851010219221397
+724,Hombre,Emigración permanente,20,42,0.9842930716169899
+724,Hombre,Emigración permanente,21,43,0.9833707693230234
+724,Hombre,Emigración permanente,22,44,0.9823654398844214
+724,Hombre,Emigración permanente,23,45,0.9813697240982089
+724,Hombre,Emigración permanente,24,46,0.9800820296284306
+724,Hombre,Emigración permanente,25,47,0.9785746732676824
+724,Hombre,Emigración permanente,26,48,0.9768840387334116
+724,Hombre,Emigración permanente,27,49,0.9749293328472675
+724,Hombre,Emigración permanente,28,50,0.9726108534008233
+724,Hombre,Emigración permanente,29,51,0.9701026942581819
+724,Hombre,Emigración permanente,30,52,0.9671889811149504
+724,Hombre,Emigración permanente,31,53,0.9639267880881071
+724,Hombre,Emigración permanente,32,54,0.9603203524031542
+724,Hombre,Emigración permanente,33,55,0.9560320034566838
+724,Hombre,Emigración permanente,34,56,0.9514797805896644
+724,Hombre,Emigración permanente,35,57,0.9463193253368606
+724,Hombre,Emigración permanente,36,58,0.9409033221845129
+724,Hombre,Emigración permanente,37,59,0.9352237474608105
+724,Hombre,Emigración permanente,38,60,0.9286845227350025
+724,Hombre,Emigración permanente,39,61,0.9214650499842485
+724,Hombre,Emigración permanente,40,62,0.9135815847542152
+724,Hombre,Emigración permanente,41,63,0.9050688315474754
+724,Hombre,Emigración permanente,42,64,0.8960848196528208
+724,Hombre,Emigración permanente,43,65,0.8858269872491754
+724,Hombre,Emigración permanente,44,66,0.8753248882364453
+724,Hombre,Emigración permanente,45,67,0.8640309650997302
+724,Hombre,Emigración permanente,46,68,0.8518902500013726
+724,Hombre,Emigración permanente,47,69,0.8395732033406303
+724,Hombre,Emigración permanente,48,70,0.826089724860836
+724,Hombre,Emigración permanente,49,71,0.8119958163258825
+724,Hombre,Emigración permanente,50,72,0.7963424857770787
+724,Hombre,Emigración permanente,51,73,0.7793001195074606
+724,Hombre,Emigración permanente,52,74,0.7615855055988838
+724,Hombre,Emigración permanente,53,75,0.7422101458363336
+724,Hombre,Emigración permanente,54,76,0.7214705974196348
+724,Hombre,Emigración permanente,55,77,0.6997502705578403
+724,Hombre,Emigración permanente,56,78,0.6765076664636075
+724,Hombre,Emigración permanente,57,79,0.6511795238596599
+724,Hombre,Emigración permanente,58,80,0.6249838804856288
+724,Hombre,Emigración permanente,59,81,0.5951312066924537
+724,Hombre,Emigración permanente,60,82,0.5637218598732289
+724,Hombre,Emigración permanente,61,83,0.5304567231176073
+724,Hombre,Emigración permanente,62,84,0.4949959935375274
+724,Hombre,Emigración permanente,63,85,0.45809469561401617
+724,Hombre,Emigración permanente,64,86,0.4189810175614733
+724,Hombre,Emigración permanente,65,87,0.3788481624387058
+724,Hombre,Emigración permanente,66,88,0.3380496855932251
+724,Hombre,Emigración permanente,67,89,0.2965030580866165
+724,Hombre,Emigración permanente,68,90,0.2558763069135974
+724,Hombre,Emigración permanente,69,91,0.2165962770207017
+724,Hombre,Emigración permanente,70,92,0.17987119563616918
+724,Hombre,Emigración permanente,71,93,0.14579799179235858
+724,Hombre,Emigración permanente,72,94,0.11500243644940245
+724,Hombre,Emigración permanente,73,95,0.08909411600397191
+724,Hombre,Emigración permanente,74,96,0.06674483473084655
+724,Hombre,Emigración permanente,75,97,0.0484743659788251
+724,Hombre,Emigración permanente,76,98,0.0340617338395568
+724,Hombre,Emigración permanente,77,99,0.023109236800369443
+724,Hombre,Emigración permanente,78,100,0.015107232339882828
+724,Hombre,Emigración permanente,79,101,0
+124,Hombre,Permanece en Costa Rica,0,22,1
+124,Hombre,Permanece en Costa Rica,1,23,0.99840123
+124,Hombre,Permanece en Costa Rica,2,24,0.9967677956676585
+124,Hombre,Permanece en Costa Rica,3,25,0.9951242053140261
+124,Hombre,Permanece en Costa Rica,4,26,0.993485046674275
+124,Hombre,Permanece en Costa Rica,5,27,0.9918583440634019
+124,Hombre,Permanece en Costa Rica,6,28,0.9902475760312264
+124,Hombre,Permanece en Costa Rica,7,29,0.9886530892867766
+124,Hombre,Permanece en Costa Rica,8,30,0.9870729448272314
+124,Hombre,Permanece en Costa Rica,9,31,0.9855036469058979
+124,Hombre,Permanece en Costa Rica,10,32,0.9839404607312487
+124,Hombre,Permanece en Costa Rica,11,33,0.9823768514268868
+124,Hombre,Permanece en Costa Rica,12,34,0.9808039874976042
+124,Hombre,Permanece en Costa Rica,13,35,0.9792096906159269
+124,Hombre,Permanece en Costa Rica,14,36,0.9775775047352206
+124,Hombre,Permanece en Costa Rica,15,37,0.9758872732295335
+124,Hombre,Permanece en Costa Rica,16,38,0.9741156474737126
+124,Hombre,Permanece en Costa Rica,17,39,0.9722392669489228
+124,Hombre,Permanece en Costa Rica,18,40,0.9702389916034948
+124,Hombre,Permanece en Costa Rica,19,41,0.968104019512031
+124,Hombre,Permanece en Costa Rica,20,42,0.9658373491659464
+124,Hombre,Permanece en Costa Rica,21,43,0.9634536529298314
+124,Hombre,Permanece en Costa Rica,22,44,0.9609739833596763
+124,Hombre,Permanece en Costa Rica,23,45,0.9584172928574681
+124,Hombre,Permanece en Costa Rica,24,46,0.9557884884015811
+124,Hombre,Permanece en Costa Rica,25,47,0.953075826861109
+124,Hombre,Permanece en Costa Rica,26,48,0.9502488800587815
+124,Hombre,Permanece en Costa Rica,27,49,0.9472627324556856
+124,Hombre,Permanece en Costa Rica,28,50,0.9440673216076655
+124,Hombre,Permanece en Costa Rica,29,51,0.940612667735687
+124,Hombre,Permanece en Costa Rica,30,52,0.9368607143021161
+124,Hombre,Permanece en Costa Rica,31,53,0.9327886023643663
+124,Hombre,Permanece en Costa Rica,32,54,0.9283876404432091
+124,Hombre,Permanece en Costa Rica,33,55,0.9236608661784094
+124,Hombre,Permanece en Costa Rica,34,56,0.9186109720711868
+124,Hombre,Permanece en Costa Rica,35,57,0.913235003451554
+124,Hombre,Permanece en Costa Rica,36,58,0.9075165906980914
+124,Hombre,Permanece en Costa Rica,37,59,0.9014228073700378
+124,Hombre,Permanece en Costa Rica,38,60,0.8949040331251202
+124,Hombre,Permanece en Costa Rica,39,61,0.8878933638786584
+124,Hombre,Permanece en Costa Rica,40,62,0.8803116690812994
+124,Hombre,Permanece en Costa Rica,41,63,0.8720724712425832
+124,Hombre,Permanece en Costa Rica,42,64,0.8631025169386011
+124,Hombre,Permanece en Costa Rica,43,65,0.8533586936941261
+124,Hombre,Permanece en Costa Rica,44,66,0.8428599752901721
+124,Hombre,Permanece en Costa Rica,45,67,0.8317006693607256
+124,Hombre,Permanece en Costa Rica,46,68,0.820017703522162
+124,Hombre,Permanece en Costa Rica,47,69,0.8079588511812464
+124,Hombre,Permanece en Costa Rica,48,70,0.7955870055112991
+124,Hombre,Permanece en Costa Rica,49,71,0.7828368883816248
+124,Hombre,Permanece en Costa Rica,50,72,0.769482990575069
+124,Hombre,Permanece en Costa Rica,51,73,0.7551183898346323
+124,Hombre,Permanece en Costa Rica,52,74,0.7392239028470031
+124,Hombre,Permanece en Costa Rica,53,75,0.7211931082362324
+124,Hombre,Permanece en Costa Rica,54,76,0.7004793098945079
+124,Hombre,Permanece en Costa Rica,55,77,0.6767602258767218
+124,Hombre,Permanece en Costa Rica,56,78,0.6500319462062426
+124,Hombre,Permanece en Costa Rica,57,79,0.6206882820944339
+124,Hombre,Permanece en Costa Rica,58,80,0.5893236432029896
+124,Hombre,Permanece en Costa Rica,59,81,0.5565261323525422
+124,Hombre,Permanece en Costa Rica,60,82,0.5227015815151581
+124,Hombre,Permanece en Costa Rica,61,83,0.48797204440952696
+124,Hombre,Permanece en Costa Rica,62,84,0.4523152195650584
+124,Hombre,Permanece en Costa Rica,63,85,0.4156878819653377
+124,Hombre,Permanece en Costa Rica,64,86,0.37818083410291187
+124,Hombre,Permanece en Costa Rica,65,87,0.3401404749073767
+124,Hombre,Permanece en Costa Rica,66,88,0.30212275973848
+124,Hombre,Permanece en Costa Rica,67,89,0.26481855078181404
+124,Hombre,Permanece en Costa Rica,68,90,0.22890932742785808
+124,Hombre,Permanece en Costa Rica,69,91,0.19494642821777702
+124,Hombre,Permanece en Costa Rica,70,92,0.16334473494474838
+124,Hombre,Permanece en Costa Rica,71,93,0.1343960181979279
+124,Hombre,Permanece en Costa Rica,72,94,0.10833536963469897
+124,Hombre,Permanece en Costa Rica,73,95,0.08537833779468924
+124,Hombre,Permanece en Costa Rica,74,96,0.06580571756697574
+124,Hombre,Permanece en Costa Rica,75,97,0.04950786095248939
+124,Hombre,Permanece en Costa Rica,76,98,0.03630586701473819
+124,Hombre,Permanece en Costa Rica,77,99,0.025917847184559525
+124,Hombre,Permanece en Costa Rica,78,100,0.017989068963462532
+124,Hombre,Permanece en Costa Rica,79,101,0
+124,Hombre,Retorno tras 5 años,0,22,1
+124,Hombre,Retorno tras 5 años,1,23,0.99840123
+124,Hombre,Retorno tras 5 años,2,24,0.9967677956676585
+124,Hombre,Retorno tras 5 años,3,25,0.9951242053140261
+124,Hombre,Retorno tras 5 años,4,26,0.993485046674275
+124,Hombre,Retorno tras 5 años,5,27,0.9918583440634019
+124,Hombre,Retorno tras 5 años,6,28,0.9908550495926315
+124,Hombre,Retorno tras 5 años,7,29,0.9900136452101689
+124,Hombre,Retorno tras 5 años,8,30,0.9890413924097539
+124,Hombre,Retorno tras 5 años,9,31,0.988088718069343
+124,Hombre,Retorno tras 5 años,10,32,0.9870803932943276
+124,Hombre,Retorno tras 5 años,11,33,0.9855117942289318
+124,Hombre,Retorno tras 5 años,12,34,0.9839339110054276
+124,Hombre,Retorno tras 5 años,13,35,0.9823345264330884
+124,Hombre,Retorno tras 5 años,14,36,0.9806971319510487
+124,Hombre,Retorno tras 5 años,15,37,0.9790015066099054
+124,Hombre,Retorno tras 5 años,16,38,0.9772242272748057
+124,Hombre,Retorno tras 5 años,17,39,0.97534185887926
+124,Hombre,Retorno tras 5 años,18,40,0.9733352002922203
+124,Hombre,Retorno tras 5 años,19,41,0.9711934151173853
+124,Hombre,Retorno tras 5 años,20,42,0.9689195114149002
+124,Hombre,Retorno tras 5 años,21,43,0.9665282083715331
+124,Hombre,Retorno tras 5 años,22,44,0.9640406257258011
+124,Hombre,Retorno tras 5 años,23,45,0.961475776360245
+124,Hombre,Retorno tras 5 años,24,46,0.9588385829122975
+124,Hombre,Retorno tras 5 años,25,47,0.9561172647765908
+124,Hombre,Retorno tras 5 años,26,48,0.953281296674019
+124,Hombre,Retorno tras 5 años,27,49,0.9502856197320338
+124,Hombre,Retorno tras 5 años,28,50,0.9470800117481356
+124,Hombre,Retorno tras 5 años,29,51,0.9436143334487453
+124,Hombre,Retorno tras 5 años,30,52,0.9398504068509116
+124,Hombre,Retorno tras 5 años,31,53,0.9357653000650138
+124,Hombre,Retorno tras 5 años,32,54,0.9313502938757361
+124,Hombre,Retorno tras 5 años,33,55,0.9266084356165031
+124,Hombre,Retorno tras 5 años,34,56,0.9215424263807944
+124,Hombre,Retorno tras 5 años,35,57,0.9161493020697346
+124,Hombre,Retorno tras 5 años,36,58,0.9104126408234715
+124,Hombre,Retorno tras 5 años,37,59,0.9042994111269965
+124,Hombre,Retorno tras 5 años,38,60,0.8977598342905199
+124,Hombre,Retorno tras 5 años,39,61,0.8907267927262864
+124,Hombre,Retorno tras 5 años,40,62,0.8831209033650004
+124,Hombre,Retorno tras 5 años,41,63,0.874855412750837
+124,Hombre,Retorno tras 5 años,42,64,0.8658568336949186
+124,Hombre,Retorno tras 5 años,43,65,0.8560819161422866
+124,Hombre,Retorno tras 5 años,44,66,0.8455496944227329
+124,Hombre,Retorno tras 5 años,45,67,0.8343547771230179
+124,Hombre,Retorno tras 5 años,46,68,0.8226345288203887
+124,Hombre,Retorno tras 5 años,47,69,0.8105371944933676
+124,Hombre,Retorno tras 5 años,48,70,0.7981258680188037
+124,Hombre,Retorno tras 5 años,49,71,0.7853350629516409
+124,Hombre,Retorno tras 5 años,50,72,0.7719385504338905
+124,Hombre,Retorno tras 5 años,51,73,0.7575281096457878
+124,Hombre,Retorno tras 5 años,52,74,0.7415829004658535
+124,Hombre,Retorno tras 5 años,53,75,0.7234945663174827
+124,Hombre,Retorno tras 5 años,54,76,0.7027146664863755
+124,Hombre,Retorno tras 5 años,55,77,0.6789198905672537
+124,Hombre,Retorno tras 5 años,56,78,0.6521063161060409
+124,Hombre,Retorno tras 5 años,57,79,0.6226690110371399
+124,Hombre,Retorno tras 5 años,58,80,0.5912042818913409
+124,Hombre,Retorno tras 5 años,59,81,0.5583021082320985
+124,Hombre,Retorno tras 5 años,60,82,0.5243696171149468
+124,Hombre,Retorno tras 5 años,61,83,0.489529251754141
+124,Hombre,Retorno tras 5 años,62,84,0.4537586395110509
+124,Hombre,Retorno tras 5 años,63,85,0.41701441743039036
+124,Hombre,Retorno tras 5 años,64,86,0.37938767777193794
+124,Hombre,Retorno tras 5 años,65,87,0.34122592488713366
+124,Hombre,Retorno tras 5 años,66,88,0.30308688829016606
+124,Hombre,Retorno tras 5 años,67,89,0.26566363483323036
+124,Hombre,Retorno tras 5 años,68,90,0.22963981863120697
+124,Hombre,Retorno tras 5 años,69,91,0.19556853764659551
+124,Hombre,Retorno tras 5 años,70,92,0.16386599763566298
+124,Hombre,Retorno tras 5 años,71,93,0.13482490028046182
+124,Hombre,Retorno tras 5 años,72,94,0.10868108745851565
+124,Hombre,Retorno tras 5 años,73,95,0.08565079556395697
+124,Hombre,Retorno tras 5 años,74,96,0.06601571555330894
+124,Hombre,Retorno tras 5 años,75,97,0.04966584952083993
+124,Hombre,Retorno tras 5 años,76,98,0.03642172562470496
+124,Hombre,Retorno tras 5 años,77,99,0.02600055573816369
+124,Hombre,Retorno tras 5 años,78,100,0.01804647534695028
+124,Hombre,Retorno tras 5 años,79,101,0
+124,Hombre,Retorno tras 20 años,0,22,1
+124,Hombre,Retorno tras 20 años,1,23,0.99840123
+124,Hombre,Retorno tras 20 años,2,24,0.9967677956676585
+124,Hombre,Retorno tras 20 años,3,25,0.9951242053140261
+124,Hombre,Retorno tras 20 años,4,26,0.993485046674275
+124,Hombre,Retorno tras 20 años,5,27,0.9918583440634019
+124,Hombre,Retorno tras 20 años,6,28,0.9908550495926315
+124,Hombre,Retorno tras 20 años,7,29,0.9900136452101689
+124,Hombre,Retorno tras 20 años,8,30,0.9890413924097539
+124,Hombre,Retorno tras 20 años,9,31,0.988088718069343
+124,Hombre,Retorno tras 20 años,10,32,0.9870803932943276
+124,Hombre,Retorno tras 20 años,11,33,0.9860776281935838
+124,Hombre,Retorno tras 20 años,12,34,0.9849917496486408
+124,Hombre,Retorno tras 20 años,13,35,0.9838174227848747
+124,Hombre,Retorno tras 20 años,14,36,0.982609255636998
+124,Hombre,Retorno tras 20 años,15,37,0.9812739486151426
+124,Hombre,Retorno tras 20 años,16,38,0.9801664043348197
+124,Hombre,Retorno tras 20 años,17,39,0.9788968830062612
+124,Hombre,Retorno tras 20 años,18,40,0.97752443042041115
+124,Hombre,Retorno tras 20 años,19,41,0.9759788372177405
+124,Hombre,Retorno tras 20 años,20,42,0.9745678548529864
+124,Hombre,Retorno tras 20 años,21,43,0.9729894642466236
+124,Hombre,Retorno tras 20 años,22,44,0.9713895095613004
+124,Hombre,Retorno tras 20 años,23,45,0.9697249073560309
+124,Hombre,Retorno tras 20 años,24,46,0.9680365678060786
+124,Hombre,Retorno tras 20 años,25,47,0.9660800981399829
+124,Hombre,Retorno tras 20 años,26,48,0.9632145789784868
+124,Hombre,Retorno tras 20 años,27,49,0.9601876867961928
+124,Hombre,Retorno tras 20 años,28,50,0.9569486760704463
+124,Hombre,Retorno tras 20 años,29,51,0.9534468850716415
+124,Hombre,Retorno tras 20 años,30,52,0.9496437379985924
+124,Hombre,Retorno tras 20 años,31,53,0.9455160640091946
+124,Hombre,Retorno tras 20 años,32,54,0.9410550530330748
+124,Hombre,Retorno tras 20 años,33,55,0.9362637841571633
+124,Hombre,Retorno tras 20 años,34,56,0.9311449866205922
+124,Hombre,Retorno tras 20 años,35,57,0.9256956654382922
+124,Hombre,Retorno tras 20 años,36,58,0.9198992276330605
+124,Hombre,Retorno tras 20 años,37,59,0.9137222974983424
+124,Hombre,Retorno tras 20 años,38,60,0.9071145776456385
+124,Hombre,Retorno tras 20 años,39,61,0.9000082511155084
+124,Hombre,Retorno tras 20 años,40,62,0.8923231076594805
+124,Hombre,Retorno tras 20 años,41,63,0.8839714898424214
+124,Hombre,Retorno tras 20 años,42,64,0.8748791447319151
+124,Hombre,Retorno tras 20 años,43,65,0.8650023716032932
+124,Hombre,Retorno tras 20 años,44,66,0.8543604031258847
+124,Hombre,Retorno tras 20 años,45,67,0.8430488337169746
+124,Hombre,Retorno tras 20 años,46,68,0.8312064593058456
+124,Hombre,Retorno tras 20 años,47,69,0.8189830695978776
+124,Hombre,Retorno tras 20 años,48,70,0.8064424159141521
+124,Hombre,Retorno tras 20 años,49,71,0.7935183294345911
+124,Hombre,Retorno tras 20 años,50,72,0.7799822239748638
+124,Hombre,Retorno tras 20 años,51,73,0.7654216250152125
+124,Hombre,Retorno tras 20 años,52,74,0.7493102652302673
+124,Hombre,Retorno tras 20 años,53,75,0.7310334489096979
+124,Hombre,Retorno tras 20 años,54,76,0.7100370205344966
+124,Hombre,Retorno tras 20 años,55,77,0.6859943007740334
+124,Hombre,Retorno tras 20 años,56,78,0.6589013263018855
+124,Hombre,Retorno tras 20 años,57,79,0.6291572816981249
+124,Hombre,Retorno tras 20 años,58,80,0.5973646870646369
+124,Hombre,Retorno tras 20 años,59,81,0.564119669608366
+124,Hombre,Retorno tras 20 años,60,82,0.529833598687712
+124,Hombre,Retorno tras 20 años,61,83,0.49463019338693553
+124,Hombre,Retorno tras 20 años,62,84,0.4584868479423717
+124,Hombre,Retorno tras 20 años,63,85,0.42135974755259226
+124,Hombre,Retorno tras 20 años,64,86,0.3833409336674366
+124,Hombre,Retorno tras 20 años,65,87,0.34478153166692993
+124,Hombre,Retorno tras 20 años,66,88,0.3062450826601522
+124,Hombre,Retorno tras 20 años,67,89,0.26843187532219903
+124,Hombre,Retorno tras 20 años,68,90,0.2320326875092278
+124,Hombre,Retorno tras 20 años,69,91,0.19760638051741805
+124,Hombre,Retorno tras 20 años,70,92,0.16557349700683224
+124,Hombre,Retorno tras 20 años,71,93,0.13622978863905041
+124,Hombre,Retorno tras 20 años,72,94,0.1098135547865211
+124,Hombre,Retorno tras 20 años,73,95,0.08654328504728939
+124,Hombre,Retorno tras 20 años,74,96,0.0667036056245926
+124,Hombre,Retorno tras 20 años,75,97,0.050183372423998736
+124,Hombre,Retorno tras 20 años,76,98,0.03680124348990209
+124,Hombre,Retorno tras 20 años,77,99,0.0262714840162295
+124,Hombre,Retorno tras 20 años,78,100,0.01823452134643366
+124,Hombre,Retorno tras 20 años,79,101,0
+124,Hombre,Emigración permanente,0,22,1
+124,Hombre,Emigración permanente,1,23,0.99840123
+124,Hombre,Emigración permanente,2,24,0.9967677956676585
+124,Hombre,Emigración permanente,3,25,0.9951242053140261
+124,Hombre,Emigración permanente,4,26,0.993485046674275
+124,Hombre,Emigración permanente,5,27,0.9918583440634019
+124,Hombre,Emigración permanente,6,28,0.9908550495926315
+124,Hombre,Emigración permanente,7,29,0.9900136452101689
+124,Hombre,Emigración permanente,8,30,0.9890413924097539
+124,Hombre,Emigración permanente,9,31,0.988088718069343
+124,Hombre,Emigración permanente,10,32,0.9870803932943276
+124,Hombre,Emigración permanente,11,33,0.9860776281935838
+124,Hombre,Emigración permanente,12,34,0.9849917496486408
+124,Hombre,Emigración permanente,13,35,0.9838174227848747
+124,Hombre,Emigración permanente,14,36,0.982609255636998
+124,Hombre,Emigración permanente,15,37,0.9812739486151426
+124,Hombre,Emigración permanente,16,38,0.9801664043348197
+124,Hombre,Emigración permanente,17,39,0.9788968830062612
+124,Hombre,Emigración permanente,18,40,0.97752443042041115
+124,Hombre,Emigración permanente,19,41,0.9759788372177405
+124,Hombre,Emigración permanente,20,42,0.9745678548529864
+124,Hombre,Emigración permanente,21,43,0.9729894642466236
+124,Hombre,Emigración permanente,22,44,0.9713895095613004
+124,Hombre,Emigración permanente,23,45,0.9697249073560309
+124,Hombre,Emigración permanente,24,46,0.9680365678060786
+124,Hombre,Emigración permanente,25,47,0.9660800981399829
+124,Hombre,Emigración permanente,26,48,0.9639213341958831
+124,Hombre,Emigración permanente,27,49,0.9614305711075344
+124,Hombre,Emigración permanente,28,50,0.9588761462231588
+124,Hombre,Emigración permanente,29,51,0.956217700462801
+124,Hombre,Emigración permanente,30,52,0.9529971305611112
+124,Hombre,Emigración permanente,31,53,0.9496921841621818
+124,Hombre,Emigración permanente,32,54,0.9461426146546573
+124,Hombre,Emigración permanente,33,55,0.9421911257159613
+124,Hombre,Emigración permanente,34,56,0.9377353625537818
+124,Hombre,Emigración permanente,35,57,0.932883332240856
+124,Hombre,Emigración permanente,36,58,0.9274234179757499
+124,Hombre,Emigración permanente,37,59,0.9215466325515314
+124,Hombre,Emigración permanente,38,60,0.9150198522502158
+124,Hombre,Emigración permanente,39,61,0.9080613184280217
+124,Hombre,Emigración permanente,40,62,0.9005555287464517
+124,Hombre,Emigración permanente,41,63,0.8921963832119661
+124,Hombre,Emigración permanente,42,64,0.88366686980293
+124,Hombre,Emigración permanente,43,65,0.8747239843471504
+124,Hombre,Emigración permanente,44,66,0.8648164143912025
+124,Hombre,Emigración permanente,45,67,0.854837392915348
+124,Hombre,Emigración permanente,46,68,0.8443574711550327
+124,Hombre,Emigración permanente,47,69,0.8333132247708767
+124,Hombre,Emigración permanente,48,70,0.8208957994139952
+124,Hombre,Emigración permanente,49,71,0.8073002134826385
+124,Hombre,Emigración permanente,50,72,0.792744800531602
+124,Hombre,Emigración permanente,51,73,0.7770587750183793
+124,Hombre,Emigración permanente,52,74,0.760120059311141
+124,Hombre,Emigración permanente,53,75,0.7422096087944128
+124,Hombre,Emigración permanente,54,76,0.7234939325455155
+124,Hombre,Emigración permanente,55,77,0.7029043298215937
+124,Hombre,Emigración permanente,56,78,0.6807765922409048
+124,Hombre,Emigración permanente,57,79,0.6574539622760466
+124,Hombre,Emigración permanente,58,80,0.6314704546768104
+124,Hombre,Emigración permanente,59,81,0.6035443684362286
+124,Hombre,Emigración permanente,60,82,0.5741599236486892
+124,Hombre,Emigración permanente,61,83,0.5424190884343592
+124,Hombre,Emigración permanente,62,84,0.5090122344676472
+124,Hombre,Emigración permanente,63,85,0.4746899619776484
+124,Hombre,Emigración permanente,64,86,0.4377311236970269
+124,Hombre,Emigración permanente,65,87,0.39889628375393466
+124,Hombre,Emigración permanente,66,88,0.35986435817890605
+124,Hombre,Emigración permanente,67,89,0.31813693068347215
+124,Hombre,Emigración permanente,68,90,0.2786774368531625
+124,Hombre,Emigración permanente,69,91,0.2391085654418351
+124,Hombre,Emigración permanente,70,92,0.200576028834031
+124,Hombre,Emigración permanente,71,93,0.16537409335433745
+124,Hombre,Emigración permanente,72,94,0.1318765305423692
+124,Hombre,Emigración permanente,73,95,0.10351085943397038
+124,Hombre,Emigración permanente,74,96,0.07870360005809701
+124,Hombre,Emigración permanente,75,97,0.05804061051014811
+124,Hombre,Emigración permanente,76,98,0.04142831751328591
+124,Hombre,Emigración permanente,77,99,0.028562787480755334
+124,Hombre,Emigración permanente,78,100,0.018984532615611095
+124,Hombre,Emigración permanente,79,101,0
