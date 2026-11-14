@@ -9,6 +9,7 @@ Código del proyecto. Los scripts están numerados por orden de ejecución y se 
 | `03_Funciones_actuariales.R` | Funciones de qx, trayectoria migratoria, supervivencia y esperanza de vida curtata | — (solo define funciones) |
 | `04_Modelo_migracion.R` | Escenarios del ejemplo ilustrativo y sensibilidad | CSV en `res/` |
 | `05_Graficos.R` | Gráficos del reporte | PNG en `res/` |
+| `06_App_shiny.R` | Aplicación interactiva para explorar cualquier escenario; se ejecuta con `shiny::runApp("cod/06_App_shiny.R")` | — |
 | `reporte.qmd` | Reporte ejecutivo en Quarto | `res/reporte.pdf` |
 
 El script 02 necesita las tablas de vida de WPP 2024, que no están en el repositorio (ver `data/README.md`).
