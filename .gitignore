@@ -5,3 +5,8 @@
 # Tablas de vida WPP 2024 originales (>100 MB, se descargan aparte)
 data/WPP2024_Life_Table_*.csv
 data/WPP2024_Life_Table_*.csv.gz
+
+# Archivos temporales de Quarto
+.quarto/
+*.quarto_ipynb
+cod/.gitignore
